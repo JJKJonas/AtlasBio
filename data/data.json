@@ -1,0 +1,43 @@
+[
+  {
+    "dato": "2026-04-24",
+    "data": {
+      "Company": {
+        "CompanyID": "179",
+        "CompanyName": "ATLAS Biograferne",
+        "TicketingSystem": "Integra"
+      },
+      "Date": {
+        "Day": "23",
+        "Month": "4",
+        "Year": "2026"
+      },
+      "Shows": {
+        "Show": {
+          "Film": {
+            "FilmID": "46501",
+            "FilmTitle": "The Drama",
+            "landaar": "USA / 2026",
+            "genrer": "Drama",
+            "instruktion": "Kristoffer Borgli",
+            "skuespil": "Zendaya, Robert Pattinson, Mamoudou Athie, Alana Haim, Michael Abbott Jr.",
+            "udlejer": "Nordisk"
+          },
+          "Theatre": {
+            "TheatreID": "11",
+            "TheatreName": "Sal 6 - Den Lilla VIP"
+          },
+          "ShowTime": {
+            "Hour": "21",
+            "Min": "0"
+          },
+          "TicketCategory": {
+            "TicketCategoryName": "Alm billet",
+            "Price": "0",
+            "Sales": "0"
+          }
+        }
+      }
+    }
+  }
+]

@@ -22,7 +22,7 @@ jobs:
           FTP_USER: ${{ secrets.FTP_USER }}
           FTP_PASS: ${{ secrets.FTP_PASS }}
         run: |
-          DATO=$(date +'%Y%m%d')
+          DATO=$(date -d 'yesterday' +'%Y%m%d')
           FILNAVN="${DATO}_179_roedovre.xml"
           mkdir -p ny-fil
           lftp -u "$FTP_USER","$FTP_PASS" "$FTP_HOST" << EOF

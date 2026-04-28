@@ -1,0 +1,491 @@
+[
+  {
+    "dato": "2021-02-01",
+    "aar": "2021",
+    "maaned": "02",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2021-02-02",
+    "aar": "2021",
+    "maaned": "02",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2021-02-03",
+    "aar": "2021",
+    "maaned": "02",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2021-02-04",
+    "aar": "2021",
+    "maaned": "02",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 4,
+    "forestillinger": [
+      {
+        "film": {
+          "id": "1179006684",
+          "titel": "MSiB",
+          "land_aar": null,
+          "genre": null,
+          "instruktion": null,
+          "skuespil": null,
+          "udlejer": null
+        },
+        "sal": {
+          "id": "4",
+          "navn": "Sal 91_4"
+        },
+        "starttid": "08:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      },
+      {
+        "film": {
+          "id": "1179006815",
+          "titel": "Miraklet på bjerget",
+          "land_aar": null,
+          "genre": null,
+          "instruktion": null,
+          "skuespil": null,
+          "udlejer": null
+        },
+        "sal": {
+          "id": "1",
+          "navn": "Z_Sal 93_1"
+        },
+        "starttid": "09:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      },
+      {
+        "film": {
+          "id": "1179006815",
+          "titel": "Miraklet på bjerget",
+          "land_aar": null,
+          "genre": null,
+          "instruktion": null,
+          "skuespil": null,
+          "udlejer": null
+        },
+        "sal": {
+          "id": "4",
+          "navn": "Sal 91_4"
+        },
+        "starttid": "10:45",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      },
+      {
+        "film": {
+          "id": "1179006684",
+          "titel": "MSiB",
+          "land_aar": null,
+          "genre": null,
+          "instruktion": null,
+          "skuespil": null,
+          "udlejer": null
+        },
+        "sal": {
+          "id": "4",
+          "navn": "Sal 91_4"
+        },
+        "starttid": "13:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      }
+    ]
+  },
+  {
+    "dato": "2021-02-05",
+    "aar": "2021",
+    "maaned": "02",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2021-02-06",
+    "aar": "2021",
+    "maaned": "02",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2021-02-07",
+    "aar": "2021",
+    "maaned": "02",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2021-02-08",
+    "aar": "2021",
+    "maaned": "02",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2021-02-09",
+    "aar": "2021",
+    "maaned": "02",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 1,
+    "forestillinger": [
+      {
+        "film": {
+          "id": "1179006870",
+          "titel": "FOREDRAG Århus Universitet",
+          "land_aar": null,
+          "genre": null,
+          "instruktion": null,
+          "skuespil": null,
+          "udlejer": null
+        },
+        "sal": {
+          "id": "4",
+          "navn": "Sal 91_4"
+        },
+        "starttid": "19:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      }
+    ]
+  },
+  {
+    "dato": "2021-02-10",
+    "aar": "2021",
+    "maaned": "02",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2021-02-11",
+    "aar": "2021",
+    "maaned": "02",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2021-02-12",
+    "aar": "2021",
+    "maaned": "02",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2021-02-13",
+    "aar": "2021",
+    "maaned": "02",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2021-02-14",
+    "aar": "2021",
+    "maaned": "02",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2021-02-15",
+    "aar": "2021",
+    "maaned": "02",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2021-02-16",
+    "aar": "2021",
+    "maaned": "02",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2021-02-17",
+    "aar": "2021",
+    "maaned": "02",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2021-02-18",
+    "aar": "2021",
+    "maaned": "02",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2021-02-19",
+    "aar": "2021",
+    "maaned": "02",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2021-02-20",
+    "aar": "2021",
+    "maaned": "02",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2021-02-21",
+    "aar": "2021",
+    "maaned": "02",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2021-02-22",
+    "aar": "2021",
+    "maaned": "02",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2021-02-23",
+    "aar": "2021",
+    "maaned": "02",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 1,
+    "forestillinger": [
+      {
+        "film": {
+          "id": "1179006870",
+          "titel": "FOREDRAG Århus Universitet",
+          "land_aar": null,
+          "genre": null,
+          "instruktion": null,
+          "skuespil": null,
+          "udlejer": null
+        },
+        "sal": {
+          "id": "4",
+          "navn": "Sal 91_4"
+        },
+        "starttid": "19:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      }
+    ]
+  },
+  {
+    "dato": "2021-02-24",
+    "aar": "2021",
+    "maaned": "02",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2021-02-25",
+    "aar": "2021",
+    "maaned": "02",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2021-02-26",
+    "aar": "2021",
+    "maaned": "02",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2021-02-27",
+    "aar": "2021",
+    "maaned": "02",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2021-02-28",
+    "aar": "2021",
+    "maaned": "02",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  }
+]

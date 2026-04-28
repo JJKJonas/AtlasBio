@@ -1,0 +1,2384 @@
+[
+  {
+    "dato": "2020-05-01",
+    "aar": "2020",
+    "maaned": "05",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2020-05-02",
+    "aar": "2020",
+    "maaned": "05",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 2,
+    "forestillinger": [
+      {
+        "film": {
+          "id": "23378",
+          "titel": "Peter Pedal - På eventyr i Junglen",
+          "land_aar": "USA, 2015",
+          "genre": "Animation/tegnefilm - Børne-/familiefilm",
+          "instruktion": "Phil Weinstein",
+          "skuespil": null,
+          "udlejer": "UIP"
+        },
+        "sal": {
+          "id": "2",
+          "navn": "Z_Sal 95_2"
+        },
+        "starttid": "10:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      },
+      {
+        "film": {
+          "id": "30003",
+          "titel": "Trolls på verdensturne - Dk tale",
+          "land_aar": "USA, 2020",
+          "genre": "Animation/tegnefilm - Børne-/familiefilm - Eventyr - Komedie",
+          "instruktion": "Walt Dohrn, David P. Smith",
+          "skuespil": "Stine Bramsen, Tim Schou, Al Agami, Lise Baastrup, m.fl.",
+          "udlejer": "UIP"
+        },
+        "sal": {
+          "id": "2",
+          "navn": "Z_Sal 95_2"
+        },
+        "starttid": "12:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      }
+    ]
+  },
+  {
+    "dato": "2020-05-03",
+    "aar": "2020",
+    "maaned": "05",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2020-05-04",
+    "aar": "2020",
+    "maaned": "05",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2020-05-05",
+    "aar": "2020",
+    "maaned": "05",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2020-05-06",
+    "aar": "2020",
+    "maaned": "05",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2020-05-07",
+    "aar": "2020",
+    "maaned": "05",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2020-05-08",
+    "aar": "2020",
+    "maaned": "05",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2020-05-09",
+    "aar": "2020",
+    "maaned": "05",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2020-05-10",
+    "aar": "2020",
+    "maaned": "05",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2020-05-11",
+    "aar": "2020",
+    "maaned": "05",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2020-05-12",
+    "aar": "2020",
+    "maaned": "05",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2020-05-13",
+    "aar": "2020",
+    "maaned": "05",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2020-05-14",
+    "aar": "2020",
+    "maaned": "05",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2020-05-15",
+    "aar": "2020",
+    "maaned": "05",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2020-05-16",
+    "aar": "2020",
+    "maaned": "05",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2020-05-17",
+    "aar": "2020",
+    "maaned": "05",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2020-05-18",
+    "aar": "2020",
+    "maaned": "05",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2020-05-19",
+    "aar": "2020",
+    "maaned": "05",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2020-05-20",
+    "aar": "2020",
+    "maaned": "05",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2020-05-21",
+    "aar": "2020",
+    "maaned": "05",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2020-05-22",
+    "aar": "2020",
+    "maaned": "05",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2020-05-23",
+    "aar": "2020",
+    "maaned": "05",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2020-05-24",
+    "aar": "2020",
+    "maaned": "05",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2020-05-25",
+    "aar": "2020",
+    "maaned": "05",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2020-05-26",
+    "aar": "2020",
+    "maaned": "05",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2020-05-27",
+    "aar": "2020",
+    "maaned": "05",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2020-05-28",
+    "aar": "2020",
+    "maaned": "05",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 15,
+    "forestillinger": [
+      {
+        "film": {
+          "id": "40357",
+          "titel": "Kød og Blod",
+          "land_aar": "Danmark, 2019",
+          "genre": "Drama - Thriller",
+          "instruktion": "Jeanette Nordahl",
+          "skuespil": "Sidse Babett Knudsen, Sandra Guldberg Kampp, Elliott Crosset Hove, m.fl.",
+          "udlejer": "Scanbox Film Distribution A/S"
+        },
+        "sal": {
+          "id": "6",
+          "navn": "Sal 4 - Den Lille VIP"
+        },
+        "starttid": "13:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 10400,
+            "solgt": 2
+          },
+          {
+            "navn": "Ledsager/Hjælper",
+            "pris": 0,
+            "solgt": 1
+          }
+        ],
+        "total_solgte_billetter": 3,
+        "total_omsaetning_øre": 20800
+      },
+      {
+        "film": {
+          "id": "42928",
+          "titel": "Bloodshot",
+          "land_aar": "USA, 2020",
+          "genre": "Action",
+          "instruktion": "David S. F. Wilson",
+          "skuespil": "Vin Diesel, Eiza Gonzalez, Sam Heughan, Toby Kebbell, Guy Pearce, m.fl.",
+          "udlejer": "SF"
+        },
+        "sal": {
+          "id": "2",
+          "navn": "Z_Sal 95_2"
+        },
+        "starttid": "13:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 9900,
+            "solgt": 1
+          }
+        ],
+        "total_solgte_billetter": 1,
+        "total_omsaetning_øre": 9900
+      },
+      {
+        "film": {
+          "id": "41702",
+          "titel": "Bombshell - Opgørets time",
+          "land_aar": "USA, 2020",
+          "genre": "Drama",
+          "instruktion": "Jay Roach",
+          "skuespil": "Margot Robbie, Nicole Kidman, Charlize Theron, m.fl.",
+          "udlejer": "Nordisk"
+        },
+        "sal": {
+          "id": "1",
+          "navn": "Z_Sal 93_1"
+        },
+        "starttid": "14:00",
+        "billetkategorier": [
+          {
+            "navn": "Biografklub DK",
+            "pris": 4950,
+            "solgt": 2
+          }
+        ],
+        "total_solgte_billetter": 2,
+        "total_omsaetning_øre": 9900
+      },
+      {
+        "film": {
+          "id": "42090",
+          "titel": "Fremad - Dk Tale",
+          "land_aar": "USA, 2020",
+          "genre": "Animation/tegnefilm - Børne-/familiefilm - Eventyr - Komedie",
+          "instruktion": "Dan Scanlon",
+          "skuespil": null,
+          "udlejer": "Buena Vista International BVI (Denmark)"
+        },
+        "sal": {
+          "id": "4",
+          "navn": "Sal 91_4"
+        },
+        "starttid": "14:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 9900,
+            "solgt": 3
+          },
+          {
+            "navn": "Børnebillet",
+            "pris": 7900,
+            "solgt": 3
+          }
+        ],
+        "total_solgte_billetter": 6,
+        "total_omsaetning_øre": 53400
+      },
+      {
+        "film": {
+          "id": "42089",
+          "titel": "Sonic the Hedgehog - 2D",
+          "land_aar": "USA, 2019",
+          "genre": "Action - Eventyr",
+          "instruktion": "Jeff Fowler",
+          "skuespil": "Jim Carrey, James Marsden, Neal McDonough, Ben Schwartz, m.fl.",
+          "udlejer": "UIP"
+        },
+        "sal": {
+          "id": "7",
+          "navn": "Sal 2 - Den Store VIP"
+        },
+        "starttid": "15:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 11400,
+            "solgt": 3
+          }
+        ],
+        "total_solgte_billetter": 3,
+        "total_omsaetning_øre": 34200
+      },
+      {
+        "film": {
+          "id": "23810",
+          "titel": "Bad Boys For Life",
+          "land_aar": "USA, 2020",
+          "genre": "Komedie - Action",
+          "instruktion": "Adil El Arbi, Bilall Fallah",
+          "skuespil": "Will Smith, Martin Lawrence, Joe Pantoliano, Vanessa Hudgens, m.fl.",
+          "udlejer": "SF"
+        },
+        "sal": {
+          "id": "6",
+          "navn": "Sal 4 - Den Lille VIP"
+        },
+        "starttid": "16:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      },
+      {
+        "film": {
+          "id": "43000",
+          "titel": "QT8: The First Eight - Utekstet",
+          "land_aar": "Usa / 2019",
+          "genre": "Dokumentar",
+          "instruktion": "Tara Wood",
+          "skuespil": "Quentin Tarantino, Samuel L. Jackson, Jennifer Jason Leigh, m.fl.",
+          "udlejer": "REEL Pictures"
+        },
+        "sal": {
+          "id": "2",
+          "navn": "Z_Sal 95_2"
+        },
+        "starttid": "16:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      },
+      {
+        "film": {
+          "id": "42021",
+          "titel": "Weathering with You",
+          "land_aar": "Japan, 2019",
+          "genre": "Animation/tegnefilm - Drama",
+          "instruktion": "Makoto Shinkai",
+          "skuespil": null,
+          "udlejer": "Camera"
+        },
+        "sal": {
+          "id": "1",
+          "navn": "Z_Sal 93_1"
+        },
+        "starttid": "17:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 9900,
+            "solgt": 5
+          },
+          {
+            "navn": "Ledsager/Hjælper",
+            "pris": 0,
+            "solgt": 1
+          }
+        ],
+        "total_solgte_billetter": 6,
+        "total_omsaetning_øre": 49500
+      },
+      {
+        "film": {
+          "id": "42090",
+          "titel": "Fremad - Dk Tale",
+          "land_aar": "USA, 2020",
+          "genre": "Animation/tegnefilm - Børne-/familiefilm - Eventyr - Komedie",
+          "instruktion": "Dan Scanlon",
+          "skuespil": null,
+          "udlejer": "Buena Vista International BVI (Denmark)"
+        },
+        "sal": {
+          "id": "4",
+          "navn": "Sal 91_4"
+        },
+        "starttid": "17:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 9900,
+            "solgt": 4
+          }
+        ],
+        "total_solgte_billetter": 4,
+        "total_omsaetning_øre": 39600
+      },
+      {
+        "film": {
+          "id": "42928",
+          "titel": "Bloodshot",
+          "land_aar": "USA, 2020",
+          "genre": "Action",
+          "instruktion": "David S. F. Wilson",
+          "skuespil": "Vin Diesel, Eiza Gonzalez, Sam Heughan, Toby Kebbell, Guy Pearce, m.fl.",
+          "udlejer": "SF"
+        },
+        "sal": {
+          "id": "7",
+          "navn": "Sal 2 - Den Store VIP"
+        },
+        "starttid": "18:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 11400,
+            "solgt": 11
+          },
+          {
+            "navn": "Atlaskort",
+            "pris": 0,
+            "solgt": 2
+          }
+        ],
+        "total_solgte_billetter": 13,
+        "total_omsaetning_øre": 125400
+      },
+      {
+        "film": {
+          "id": "42506",
+          "titel": "Dark Waters",
+          "land_aar": "USA, 2019",
+          "genre": "Drama",
+          "instruktion": "Todd Haynes",
+          "skuespil": "Mark Ruffalo, Anne Hathaway,Tim Robbins, Bill Pullman, m.fl.",
+          "udlejer": "Nordisk"
+        },
+        "sal": {
+          "id": "6",
+          "navn": "Sal 4 - Den Lille VIP"
+        },
+        "starttid": "19:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 11400,
+            "solgt": 11
+          }
+        ],
+        "total_solgte_billetter": 11,
+        "total_omsaetning_øre": 125400
+      },
+      {
+        "film": {
+          "id": "40357",
+          "titel": "Kød og Blod",
+          "land_aar": "Danmark, 2019",
+          "genre": "Drama - Thriller",
+          "instruktion": "Jeanette Nordahl",
+          "skuespil": "Sidse Babett Knudsen, Sandra Guldberg Kampp, Elliott Crosset Hove, m.fl.",
+          "udlejer": "Scanbox Film Distribution A/S"
+        },
+        "sal": {
+          "id": "2",
+          "navn": "Z_Sal 95_2"
+        },
+        "starttid": "19:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 9900,
+            "solgt": 6
+          }
+        ],
+        "total_solgte_billetter": 6,
+        "total_omsaetning_øre": 59400
+      },
+      {
+        "film": {
+          "id": "41702",
+          "titel": "Bombshell - Opgørets time",
+          "land_aar": "USA, 2020",
+          "genre": "Drama",
+          "instruktion": "Jay Roach",
+          "skuespil": "Margot Robbie, Nicole Kidman, Charlize Theron, m.fl.",
+          "udlejer": "Nordisk"
+        },
+        "sal": {
+          "id": "1",
+          "navn": "Z_Sal 93_1"
+        },
+        "starttid": "20:00",
+        "billetkategorier": [
+          {
+            "navn": "Biografklub DK",
+            "pris": 4950,
+            "solgt": 6
+          }
+        ],
+        "total_solgte_billetter": 6,
+        "total_omsaetning_øre": 29700
+      },
+      {
+        "film": {
+          "id": "42083",
+          "titel": "The Gentlemen",
+          "land_aar": "USA, 2020",
+          "genre": "Action - Komedie",
+          "instruktion": "Guy Ritchie",
+          "skuespil": "Matthew McConaughey, Charlie Hunnam, Hugh Grant, Colin Farrell, Henry Golding, m.fl.",
+          "udlejer": "Scanbox Film Distribution A/S"
+        },
+        "sal": {
+          "id": "4",
+          "navn": "Sal 91_4"
+        },
+        "starttid": "20:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 9900,
+            "solgt": 11
+          }
+        ],
+        "total_solgte_billetter": 11,
+        "total_omsaetning_øre": 108900
+      },
+      {
+        "film": {
+          "id": "42492",
+          "titel": "The Invisible Man",
+          "land_aar": "USA, 2020",
+          "genre": "Gyser - Thriller",
+          "instruktion": "Leigh Whannell",
+          "skuespil": "Elisabeth Moss, Aldis Hodge, Storm Reid, Harriet Dyer, Oliver Jackson-Cohen, m.fl.",
+          "udlejer": "UIP"
+        },
+        "sal": {
+          "id": "7",
+          "navn": "Sal 2 - Den Store VIP"
+        },
+        "starttid": "21:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 12400,
+            "solgt": 2
+          }
+        ],
+        "total_solgte_billetter": 2,
+        "total_omsaetning_øre": 24800
+      }
+    ]
+  },
+  {
+    "dato": "2020-05-29",
+    "aar": "2020",
+    "maaned": "05",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 16,
+    "forestillinger": [
+      {
+        "film": {
+          "id": "42928",
+          "titel": "Bloodshot",
+          "land_aar": "USA, 2020",
+          "genre": "Action",
+          "instruktion": "David S. F. Wilson",
+          "skuespil": "Vin Diesel, Eiza Gonzalez, Sam Heughan, Toby Kebbell, Guy Pearce, m.fl.",
+          "udlejer": "SF"
+        },
+        "sal": {
+          "id": "2",
+          "navn": "Z_Sal 95_2"
+        },
+        "starttid": "12:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      },
+      {
+        "film": {
+          "id": "40357",
+          "titel": "Kød og Blod",
+          "land_aar": "Danmark, 2019",
+          "genre": "Drama - Thriller",
+          "instruktion": "Jeanette Nordahl",
+          "skuespil": "Sidse Babett Knudsen, Sandra Guldberg Kampp, Elliott Crosset Hove, m.fl.",
+          "udlejer": "Scanbox Film Distribution A/S"
+        },
+        "sal": {
+          "id": "6",
+          "navn": "Sal 4 - Den Lille VIP"
+        },
+        "starttid": "13:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 10400,
+            "solgt": 1
+          }
+        ],
+        "total_solgte_billetter": 1,
+        "total_omsaetning_øre": 10400
+      },
+      {
+        "film": {
+          "id": "41702",
+          "titel": "Bombshell - Opgørets time",
+          "land_aar": "USA, 2020",
+          "genre": "Drama",
+          "instruktion": "Jay Roach",
+          "skuespil": "Margot Robbie, Nicole Kidman, Charlize Theron, m.fl.",
+          "udlejer": "Nordisk"
+        },
+        "sal": {
+          "id": "1",
+          "navn": "Z_Sal 93_1"
+        },
+        "starttid": "13:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 8613,
+            "solgt": 1
+          }
+        ],
+        "total_solgte_billetter": 1,
+        "total_omsaetning_øre": 8613
+      },
+      {
+        "film": {
+          "id": "42090",
+          "titel": "Fremad - Dk Tale",
+          "land_aar": "USA, 2020",
+          "genre": "Animation/tegnefilm - Børne-/familiefilm - Eventyr - Komedie",
+          "instruktion": "Dan Scanlon",
+          "skuespil": null,
+          "udlejer": "Buena Vista International BVI (Denmark)"
+        },
+        "sal": {
+          "id": "4",
+          "navn": "Sal 91_4"
+        },
+        "starttid": "14:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 9900,
+            "solgt": 4
+          },
+          {
+            "navn": "Børnebillet",
+            "pris": 7900,
+            "solgt": 7
+          }
+        ],
+        "total_solgte_billetter": 11,
+        "total_omsaetning_øre": 94900
+      },
+      {
+        "film": {
+          "id": "42089",
+          "titel": "Sonic the Hedgehog - 2D",
+          "land_aar": "USA, 2019",
+          "genre": "Action - Eventyr",
+          "instruktion": "Jeff Fowler",
+          "skuespil": "Jim Carrey, James Marsden, Neal McDonough, Ben Schwartz, m.fl.",
+          "udlejer": "UIP"
+        },
+        "sal": {
+          "id": "7",
+          "navn": "Sal 2 - Den Store VIP"
+        },
+        "starttid": "14:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 11400,
+            "solgt": 2
+          }
+        ],
+        "total_solgte_billetter": 2,
+        "total_omsaetning_øre": 22800
+      },
+      {
+        "film": {
+          "id": "42102",
+          "titel": "The Peanut Butter Falcon",
+          "land_aar": "USA, 2019",
+          "genre": "Komedie - Drama - Eventyr",
+          "instruktion": "Tyler Nilson, Michael Schwartz",
+          "skuespil": "Dakota Johnson, Shia LeBeouf, Zack Gottsagen, Bruce Dern, m.fl.",
+          "udlejer": "Angel Distribution A/S"
+        },
+        "sal": {
+          "id": "2",
+          "navn": "Z_Sal 95_2"
+        },
+        "starttid": "15:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 9900,
+            "solgt": 2
+          }
+        ],
+        "total_solgte_billetter": 2,
+        "total_omsaetning_øre": 19800
+      },
+      {
+        "film": {
+          "id": "43000",
+          "titel": "QT8: The First Eight - Utekstet",
+          "land_aar": "Usa / 2019",
+          "genre": "Dokumentar",
+          "instruktion": "Tara Wood",
+          "skuespil": "Quentin Tarantino, Samuel L. Jackson, Jennifer Jason Leigh, m.fl.",
+          "udlejer": "REEL Pictures"
+        },
+        "sal": {
+          "id": "6",
+          "navn": "Sal 4 - Den Lille VIP"
+        },
+        "starttid": "16:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 10400,
+            "solgt": 1
+          }
+        ],
+        "total_solgte_billetter": 1,
+        "total_omsaetning_øre": 10400
+      },
+      {
+        "film": {
+          "id": "42021",
+          "titel": "Weathering with You",
+          "land_aar": "Japan, 2019",
+          "genre": "Animation/tegnefilm - Drama",
+          "instruktion": "Makoto Shinkai",
+          "skuespil": null,
+          "udlejer": "Camera"
+        },
+        "sal": {
+          "id": "1",
+          "navn": "Z_Sal 93_1"
+        },
+        "starttid": "16:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      },
+      {
+        "film": {
+          "id": "42090",
+          "titel": "Fremad - Dk Tale",
+          "land_aar": "USA, 2020",
+          "genre": "Animation/tegnefilm - Børne-/familiefilm - Eventyr - Komedie",
+          "instruktion": "Dan Scanlon",
+          "skuespil": null,
+          "udlejer": "Buena Vista International BVI (Denmark)"
+        },
+        "sal": {
+          "id": "4",
+          "navn": "Sal 91_4"
+        },
+        "starttid": "17:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 9900,
+            "solgt": 3
+          },
+          {
+            "navn": "Børnebillet",
+            "pris": 7900,
+            "solgt": 4
+          }
+        ],
+        "total_solgte_billetter": 7,
+        "total_omsaetning_øre": 61300
+      },
+      {
+        "film": {
+          "id": "42928",
+          "titel": "Bloodshot",
+          "land_aar": "USA, 2020",
+          "genre": "Action",
+          "instruktion": "David S. F. Wilson",
+          "skuespil": "Vin Diesel, Eiza Gonzalez, Sam Heughan, Toby Kebbell, Guy Pearce, m.fl.",
+          "udlejer": "SF"
+        },
+        "sal": {
+          "id": "7",
+          "navn": "Sal 2 - Den Store VIP"
+        },
+        "starttid": "17:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 11400,
+            "solgt": 7
+          },
+          {
+            "navn": "Ledsager/Hjælper",
+            "pris": 0,
+            "solgt": 1
+          }
+        ],
+        "total_solgte_billetter": 8,
+        "total_omsaetning_øre": 79800
+      },
+      {
+        "film": {
+          "id": "40357",
+          "titel": "Kød og Blod",
+          "land_aar": "Danmark, 2019",
+          "genre": "Drama - Thriller",
+          "instruktion": "Jeanette Nordahl",
+          "skuespil": "Sidse Babett Knudsen, Sandra Guldberg Kampp, Elliott Crosset Hove, m.fl.",
+          "udlejer": "Scanbox Film Distribution A/S"
+        },
+        "sal": {
+          "id": "2",
+          "navn": "Z_Sal 95_2"
+        },
+        "starttid": "18:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 9900,
+            "solgt": 4
+          }
+        ],
+        "total_solgte_billetter": 4,
+        "total_omsaetning_øre": 39600
+      },
+      {
+        "film": {
+          "id": "42506",
+          "titel": "Dark Waters",
+          "land_aar": "USA, 2019",
+          "genre": "Drama",
+          "instruktion": "Todd Haynes",
+          "skuespil": "Mark Ruffalo, Anne Hathaway,Tim Robbins, Bill Pullman, m.fl.",
+          "udlejer": "Nordisk"
+        },
+        "sal": {
+          "id": "6",
+          "navn": "Sal 4 - Den Lille VIP"
+        },
+        "starttid": "19:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 11400,
+            "solgt": 6
+          }
+        ],
+        "total_solgte_billetter": 6,
+        "total_omsaetning_øre": 68400
+      },
+      {
+        "film": {
+          "id": "41702",
+          "titel": "Bombshell - Opgørets time",
+          "land_aar": "USA, 2020",
+          "genre": "Drama",
+          "instruktion": "Jay Roach",
+          "skuespil": "Margot Robbie, Nicole Kidman, Charlize Theron, m.fl.",
+          "udlejer": "Nordisk"
+        },
+        "sal": {
+          "id": "1",
+          "navn": "Z_Sal 93_1"
+        },
+        "starttid": "19:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 8613,
+            "solgt": 1
+          },
+          {
+            "navn": "Alm billet",
+            "pris": 9900,
+            "solgt": 3
+          },
+          {
+            "navn": "Biografklub DK",
+            "pris": 4950,
+            "solgt": 1
+          }
+        ],
+        "total_solgte_billetter": 5,
+        "total_omsaetning_øre": 43263
+      },
+      {
+        "film": {
+          "id": "42083",
+          "titel": "The Gentlemen",
+          "land_aar": "USA, 2020",
+          "genre": "Action - Komedie",
+          "instruktion": "Guy Ritchie",
+          "skuespil": "Matthew McConaughey, Charlie Hunnam, Hugh Grant, Colin Farrell, Henry Golding, m.fl.",
+          "udlejer": "Scanbox Film Distribution A/S"
+        },
+        "sal": {
+          "id": "4",
+          "navn": "Sal 91_4"
+        },
+        "starttid": "20:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 9900,
+            "solgt": 12
+          }
+        ],
+        "total_solgte_billetter": 12,
+        "total_omsaetning_øre": 118800
+      },
+      {
+        "film": {
+          "id": "42492",
+          "titel": "The Invisible Man",
+          "land_aar": "USA, 2020",
+          "genre": "Gyser - Thriller",
+          "instruktion": "Leigh Whannell",
+          "skuespil": "Elisabeth Moss, Aldis Hodge, Storm Reid, Harriet Dyer, Oliver Jackson-Cohen, m.fl.",
+          "udlejer": "UIP"
+        },
+        "sal": {
+          "id": "7",
+          "navn": "Sal 2 - Den Store VIP"
+        },
+        "starttid": "20:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 12400,
+            "solgt": 6
+          }
+        ],
+        "total_solgte_billetter": 6,
+        "total_omsaetning_øre": 74400
+      },
+      {
+        "film": {
+          "id": "1999007340",
+          "titel": "Zengo",
+          "land_aar": "Tyrkiet, 2020",
+          "genre": "Komedie",
+          "instruktion": "Sahan Gokbakar",
+          "skuespil": "Yasemin Sakallioglu, Dilsah Demir, Ece Irtem",
+          "udlejer": "AF-Media GmbH"
+        },
+        "sal": {
+          "id": "2",
+          "navn": "Z_Sal 95_2"
+        },
+        "starttid": "21:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 9900,
+            "solgt": 11
+          }
+        ],
+        "total_solgte_billetter": 11,
+        "total_omsaetning_øre": 108900
+      }
+    ]
+  },
+  {
+    "dato": "2020-05-30",
+    "aar": "2020",
+    "maaned": "05",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 20,
+    "forestillinger": [
+      {
+        "film": {
+          "id": "1999007242",
+          "titel": "PAW Patrol Ready Race Rescue (dansk tale)",
+          "land_aar": "Canada, 2019",
+          "genre": "Animation/tegnefilm - Børne-/familiefilm - Eventyr",
+          "instruktion": "Charles E. Bastien",
+          "skuespil": null,
+          "udlejer": "Nickelodeon/Fokus"
+        },
+        "sal": {
+          "id": "6",
+          "navn": "Sal 4 - Den Lille VIP"
+        },
+        "starttid": "10:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 7900,
+            "solgt": 6
+          },
+          {
+            "navn": "Børnebillet",
+            "pris": 5900,
+            "solgt": 7
+          }
+        ],
+        "total_solgte_billetter": 13,
+        "total_omsaetning_øre": 88700
+      },
+      {
+        "film": {
+          "id": "41983",
+          "titel": "Ellevilde Ella - Dk Tale",
+          "land_aar": "Norge, 2019",
+          "genre": "Animation/tegnefilm - Børne-/familiefilm - Eventyr",
+          "instruktion": "Atle Solberg Blakseth, Frank Mosvold",
+          "skuespil": null,
+          "udlejer": "Scanbox Film Distribution A/S"
+        },
+        "sal": {
+          "id": "1",
+          "navn": "Z_Sal 93_1"
+        },
+        "starttid": "10:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 9900,
+            "solgt": 3
+          },
+          {
+            "navn": "Børnebillet",
+            "pris": 7900,
+            "solgt": 3
+          }
+        ],
+        "total_solgte_billetter": 6,
+        "total_omsaetning_øre": 53400
+      },
+      {
+        "film": {
+          "id": "42090",
+          "titel": "Fremad - Dk Tale",
+          "land_aar": "USA, 2020",
+          "genre": "Animation/tegnefilm - Børne-/familiefilm - Eventyr - Komedie",
+          "instruktion": "Dan Scanlon",
+          "skuespil": null,
+          "udlejer": "Buena Vista International BVI (Denmark)"
+        },
+        "sal": {
+          "id": "4",
+          "navn": "Sal 91_4"
+        },
+        "starttid": "11:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 9900,
+            "solgt": 5
+          },
+          {
+            "navn": "Børnebillet",
+            "pris": 7900,
+            "solgt": 4
+          }
+        ],
+        "total_solgte_billetter": 9,
+        "total_omsaetning_øre": 81100
+      },
+      {
+        "film": {
+          "id": "42020",
+          "titel": "Drømmebyggerne",
+          "land_aar": "Danmark, 2020",
+          "genre": "Eventyr - Animation/tegnefilm - Børne-/familiefilm",
+          "instruktion": "Kim Hagen Jensen",
+          "skuespil": "Danske stemmer: Emilie Koppel, Caroline Vedel Larsen, Rasmus Botoft, Martin Buch, m.fl.",
+          "udlejer": "SF"
+        },
+        "sal": {
+          "id": "7",
+          "navn": "Sal 2 - Den Store VIP"
+        },
+        "starttid": "11:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 11400,
+            "solgt": 1
+          },
+          {
+            "navn": "Børnebillet",
+            "pris": 9400,
+            "solgt": 1
+          }
+        ],
+        "total_solgte_billetter": 2,
+        "total_omsaetning_øre": 20800
+      },
+      {
+        "film": {
+          "id": "42928",
+          "titel": "Bloodshot",
+          "land_aar": "USA, 2020",
+          "genre": "Action",
+          "instruktion": "David S. F. Wilson",
+          "skuespil": "Vin Diesel, Eiza Gonzalez, Sam Heughan, Toby Kebbell, Guy Pearce, m.fl.",
+          "udlejer": "SF"
+        },
+        "sal": {
+          "id": "2",
+          "navn": "Z_Sal 95_2"
+        },
+        "starttid": "12:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 9900,
+            "solgt": 3
+          }
+        ],
+        "total_solgte_billetter": 3,
+        "total_omsaetning_øre": 29700
+      },
+      {
+        "film": {
+          "id": "42083",
+          "titel": "The Gentlemen",
+          "land_aar": "USA, 2020",
+          "genre": "Action - Komedie",
+          "instruktion": "Guy Ritchie",
+          "skuespil": "Matthew McConaughey, Charlie Hunnam, Hugh Grant, Colin Farrell, Henry Golding, m.fl.",
+          "udlejer": "Scanbox Film Distribution A/S"
+        },
+        "sal": {
+          "id": "6",
+          "navn": "Sal 4 - Den Lille VIP"
+        },
+        "starttid": "13:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      },
+      {
+        "film": {
+          "id": "41702",
+          "titel": "Bombshell - Opgørets time",
+          "land_aar": "USA, 2020",
+          "genre": "Drama",
+          "instruktion": "Jay Roach",
+          "skuespil": "Margot Robbie, Nicole Kidman, Charlize Theron, m.fl.",
+          "udlejer": "Nordisk"
+        },
+        "sal": {
+          "id": "1",
+          "navn": "Z_Sal 93_1"
+        },
+        "starttid": "13:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 9900,
+            "solgt": 2
+          }
+        ],
+        "total_solgte_billetter": 2,
+        "total_omsaetning_øre": 19800
+      },
+      {
+        "film": {
+          "id": "42090",
+          "titel": "Fremad - Dk Tale",
+          "land_aar": "USA, 2020",
+          "genre": "Animation/tegnefilm - Børne-/familiefilm - Eventyr - Komedie",
+          "instruktion": "Dan Scanlon",
+          "skuespil": null,
+          "udlejer": "Buena Vista International BVI (Denmark)"
+        },
+        "sal": {
+          "id": "4",
+          "navn": "Sal 91_4"
+        },
+        "starttid": "14:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 9900,
+            "solgt": 7
+          },
+          {
+            "navn": "Børnebillet",
+            "pris": 7900,
+            "solgt": 1
+          },
+          {
+            "navn": "Ledsager/Hjælper",
+            "pris": 0,
+            "solgt": 1
+          }
+        ],
+        "total_solgte_billetter": 9,
+        "total_omsaetning_øre": 77200
+      },
+      {
+        "film": {
+          "id": "42089",
+          "titel": "Sonic the Hedgehog - 2D",
+          "land_aar": "USA, 2019",
+          "genre": "Action - Eventyr",
+          "instruktion": "Jeff Fowler",
+          "skuespil": "Jim Carrey, James Marsden, Neal McDonough, Ben Schwartz, m.fl.",
+          "udlejer": "UIP"
+        },
+        "sal": {
+          "id": "7",
+          "navn": "Sal 2 - Den Store VIP"
+        },
+        "starttid": "14:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 11400,
+            "solgt": 5
+          },
+          {
+            "navn": "Ledsager/Hjælper",
+            "pris": 0,
+            "solgt": 1
+          },
+          {
+            "navn": "Ateam gavekort",
+            "pris": 10000,
+            "solgt": 1
+          }
+        ],
+        "total_solgte_billetter": 7,
+        "total_omsaetning_øre": 67000
+      },
+      {
+        "film": {
+          "id": "42102",
+          "titel": "The Peanut Butter Falcon",
+          "land_aar": "USA, 2019",
+          "genre": "Komedie - Drama - Eventyr",
+          "instruktion": "Tyler Nilson, Michael Schwartz",
+          "skuespil": "Dakota Johnson, Shia LeBeouf, Zack Gottsagen, Bruce Dern, m.fl.",
+          "udlejer": "Angel Distribution A/S"
+        },
+        "sal": {
+          "id": "2",
+          "navn": "Z_Sal 95_2"
+        },
+        "starttid": "15:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 9900,
+            "solgt": 1
+          }
+        ],
+        "total_solgte_billetter": 1,
+        "total_omsaetning_øre": 9900
+      },
+      {
+        "film": {
+          "id": "43000",
+          "titel": "QT8: The First Eight - Utekstet",
+          "land_aar": "Usa / 2019",
+          "genre": "Dokumentar",
+          "instruktion": "Tara Wood",
+          "skuespil": "Quentin Tarantino, Samuel L. Jackson, Jennifer Jason Leigh, m.fl.",
+          "udlejer": "REEL Pictures"
+        },
+        "sal": {
+          "id": "6",
+          "navn": "Sal 4 - Den Lille VIP"
+        },
+        "starttid": "16:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      },
+      {
+        "film": {
+          "id": "42021",
+          "titel": "Weathering with You",
+          "land_aar": "Japan, 2019",
+          "genre": "Animation/tegnefilm - Drama",
+          "instruktion": "Makoto Shinkai",
+          "skuespil": null,
+          "udlejer": "Camera"
+        },
+        "sal": {
+          "id": "1",
+          "navn": "Z_Sal 93_1"
+        },
+        "starttid": "16:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 9900,
+            "solgt": 2
+          }
+        ],
+        "total_solgte_billetter": 2,
+        "total_omsaetning_øre": 19800
+      },
+      {
+        "film": {
+          "id": "42090",
+          "titel": "Fremad - Dk Tale",
+          "land_aar": "USA, 2020",
+          "genre": "Animation/tegnefilm - Børne-/familiefilm - Komedie - Eventyr",
+          "instruktion": "Dan Scanlon",
+          "skuespil": null,
+          "udlejer": "Buena Vista International BVI (Denmark)"
+        },
+        "sal": {
+          "id": "4",
+          "navn": "Sal 91_4"
+        },
+        "starttid": "17:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 9900,
+            "solgt": 9
+          },
+          {
+            "navn": "Børnebillet",
+            "pris": 7900,
+            "solgt": 5
+          }
+        ],
+        "total_solgte_billetter": 14,
+        "total_omsaetning_øre": 128600
+      },
+      {
+        "film": {
+          "id": "42928",
+          "titel": "Bloodshot",
+          "land_aar": "USA, 2020",
+          "genre": "Action",
+          "instruktion": "David S. F. Wilson",
+          "skuespil": "Vin Diesel, Eiza Gonzalez, Sam Heughan, Toby Kebbell, Guy Pearce, m.fl.",
+          "udlejer": "SF"
+        },
+        "sal": {
+          "id": "7",
+          "navn": "Sal 2 - Den Store VIP"
+        },
+        "starttid": "17:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 11400,
+            "solgt": 12
+          },
+          {
+            "navn": "Ledsager/Hjælper",
+            "pris": 0,
+            "solgt": 1
+          }
+        ],
+        "total_solgte_billetter": 13,
+        "total_omsaetning_øre": 136800
+      },
+      {
+        "film": {
+          "id": "40357",
+          "titel": "Kød og Blod",
+          "land_aar": "Danmark, 2019",
+          "genre": "Drama - Thriller",
+          "instruktion": "Jeanette Nordahl",
+          "skuespil": "Sidse Babett Knudsen, Sandra Guldberg Kampp, Elliott Crosset Hove, m.fl.",
+          "udlejer": "Scanbox Film Distribution A/S"
+        },
+        "sal": {
+          "id": "2",
+          "navn": "Z_Sal 95_2"
+        },
+        "starttid": "18:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 9900,
+            "solgt": 14
+          }
+        ],
+        "total_solgte_billetter": 14,
+        "total_omsaetning_øre": 138600
+      },
+      {
+        "film": {
+          "id": "42506",
+          "titel": "Dark Waters",
+          "land_aar": "USA, 2019",
+          "genre": "Drama",
+          "instruktion": "Todd Haynes",
+          "skuespil": "Mark Ruffalo, Anne Hathaway,Tim Robbins, Bill Pullman, m.fl.",
+          "udlejer": "Nordisk"
+        },
+        "sal": {
+          "id": "6",
+          "navn": "Sal 4 - Den Lille VIP"
+        },
+        "starttid": "19:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 11400,
+            "solgt": 3
+          },
+          {
+            "navn": "Fribillet",
+            "pris": 0,
+            "solgt": 2
+          }
+        ],
+        "total_solgte_billetter": 5,
+        "total_omsaetning_øre": 34200
+      },
+      {
+        "film": {
+          "id": "41702",
+          "titel": "Bombshell - Opgørets time",
+          "land_aar": "USA, 2020",
+          "genre": "Drama",
+          "instruktion": "Jay Roach",
+          "skuespil": "Margot Robbie, Nicole Kidman, Charlize Theron, m.fl.",
+          "udlejer": "Nordisk"
+        },
+        "sal": {
+          "id": "1",
+          "navn": "Z_Sal 93_1"
+        },
+        "starttid": "19:30",
+        "billetkategorier": [
+          {
+            "navn": "Biografklub DK",
+            "pris": 4950,
+            "solgt": 2
+          }
+        ],
+        "total_solgte_billetter": 2,
+        "total_omsaetning_øre": 9900
+      },
+      {
+        "film": {
+          "id": "42083",
+          "titel": "The Gentlemen",
+          "land_aar": "USA, 2020",
+          "genre": "Komedie - Action",
+          "instruktion": "Guy Ritchie",
+          "skuespil": "Matthew McConaughey, Charlie Hunnam, Hugh Grant, Colin Farrell, Henry Golding, m.fl.",
+          "udlejer": "Scanbox Film Distribution A/S"
+        },
+        "sal": {
+          "id": "4",
+          "navn": "Sal 91_4"
+        },
+        "starttid": "20:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 9900,
+            "solgt": 10
+          }
+        ],
+        "total_solgte_billetter": 10,
+        "total_omsaetning_øre": 99000
+      },
+      {
+        "film": {
+          "id": "42492",
+          "titel": "The Invisible Man",
+          "land_aar": "USA, 2020",
+          "genre": "Gyser - Thriller",
+          "instruktion": "Leigh Whannell",
+          "skuespil": "Elisabeth Moss, Aldis Hodge, Storm Reid, Harriet Dyer, Oliver Jackson-Cohen, m.fl.",
+          "udlejer": "UIP"
+        },
+        "sal": {
+          "id": "7",
+          "navn": "Sal 2 - Den Store VIP"
+        },
+        "starttid": "20:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 12400,
+            "solgt": 4
+          }
+        ],
+        "total_solgte_billetter": 4,
+        "total_omsaetning_øre": 49600
+      },
+      {
+        "film": {
+          "id": "1999007307",
+          "titel": "Agir Romantik",
+          "land_aar": "Tyrkiet, 2020",
+          "genre": "Drama - Komedie - Romantik",
+          "instruktion": "Deniz Denizciler",
+          "skuespil": "Onur Tuna, Tuvana Turkay, Altan Erkekli",
+          "udlejer": "Erdogan Ugur"
+        },
+        "sal": {
+          "id": "2",
+          "navn": "Z_Sal 95_2"
+        },
+        "starttid": "21:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 9900,
+            "solgt": 3
+          },
+          {
+            "navn": "Ateam gavekort",
+            "pris": 8500,
+            "solgt": 3
+          }
+        ],
+        "total_solgte_billetter": 6,
+        "total_omsaetning_øre": 55200
+      }
+    ]
+  },
+  {
+    "dato": "2020-05-31",
+    "aar": "2020",
+    "maaned": "05",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 20,
+    "forestillinger": [
+      {
+        "film": {
+          "id": "1999007242",
+          "titel": "PAW Patrol Ready Race Rescue (dansk tale)",
+          "land_aar": "Canada, 2019",
+          "genre": "Animation/tegnefilm - Børne-/familiefilm - Eventyr",
+          "instruktion": "Charles E. Bastien",
+          "skuespil": null,
+          "udlejer": "Nickelodeon/Fokus"
+        },
+        "sal": {
+          "id": "6",
+          "navn": "Sal 4 - Den Lille VIP"
+        },
+        "starttid": "10:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 7900,
+            "solgt": 4
+          },
+          {
+            "navn": "Børnebillet",
+            "pris": 5900,
+            "solgt": 3
+          }
+        ],
+        "total_solgte_billetter": 7,
+        "total_omsaetning_øre": 49300
+      },
+      {
+        "film": {
+          "id": "41983",
+          "titel": "Ellevilde Ella - Dk Tale",
+          "land_aar": "Norge, 2019",
+          "genre": "Animation/tegnefilm - Børne-/familiefilm - Eventyr",
+          "instruktion": "Atle Solberg Blakseth, Frank Mosvold",
+          "skuespil": null,
+          "udlejer": "Scanbox Film Distribution A/S"
+        },
+        "sal": {
+          "id": "1",
+          "navn": "Z_Sal 93_1"
+        },
+        "starttid": "10:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 9900,
+            "solgt": 3
+          },
+          {
+            "navn": "Børnebillet",
+            "pris": 7900,
+            "solgt": 3
+          }
+        ],
+        "total_solgte_billetter": 6,
+        "total_omsaetning_øre": 53400
+      },
+      {
+        "film": {
+          "id": "42090",
+          "titel": "Fremad - Dk Tale",
+          "land_aar": "USA, 2020",
+          "genre": "Animation/tegnefilm - Børne-/familiefilm - Eventyr - Komedie",
+          "instruktion": "Dan Scanlon",
+          "skuespil": null,
+          "udlejer": "Buena Vista International BVI (Denmark)"
+        },
+        "sal": {
+          "id": "4",
+          "navn": "Sal 91_4"
+        },
+        "starttid": "11:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 9900,
+            "solgt": 3
+          },
+          {
+            "navn": "Børnebillet",
+            "pris": 7900,
+            "solgt": 3
+          },
+          {
+            "navn": "Ateam gavekort",
+            "pris": 9900,
+            "solgt": 1
+          }
+        ],
+        "total_solgte_billetter": 7,
+        "total_omsaetning_øre": 63300
+      },
+      {
+        "film": {
+          "id": "42020",
+          "titel": "Drømmebyggerne",
+          "land_aar": "Danmark, 2020",
+          "genre": "Eventyr - Animation/tegnefilm - Børne-/familiefilm",
+          "instruktion": "Kim Hagen Jensen",
+          "skuespil": "Danske stemmer: Emilie Koppel, Caroline Vedel Larsen, Rasmus Botoft, Martin Buch, m.fl.",
+          "udlejer": "SF"
+        },
+        "sal": {
+          "id": "7",
+          "navn": "Sal 2 - Den Store VIP"
+        },
+        "starttid": "11:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 11400,
+            "solgt": 5
+          },
+          {
+            "navn": "Børnebillet",
+            "pris": 9400,
+            "solgt": 3
+          }
+        ],
+        "total_solgte_billetter": 8,
+        "total_omsaetning_øre": 85200
+      },
+      {
+        "film": {
+          "id": "42928",
+          "titel": "Bloodshot",
+          "land_aar": "USA, 2020",
+          "genre": "Action",
+          "instruktion": "David S. F. Wilson",
+          "skuespil": "Vin Diesel, Eiza Gonzalez, Sam Heughan, Toby Kebbell, Guy Pearce, m.fl.",
+          "udlejer": "SF"
+        },
+        "sal": {
+          "id": "2",
+          "navn": "Z_Sal 95_2"
+        },
+        "starttid": "12:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 8500,
+            "solgt": 2
+          }
+        ],
+        "total_solgte_billetter": 2,
+        "total_omsaetning_øre": 17000
+      },
+      {
+        "film": {
+          "id": "42083",
+          "titel": "The Gentlemen",
+          "land_aar": "USA, 2020",
+          "genre": "Action - Komedie",
+          "instruktion": "Guy Ritchie",
+          "skuespil": "Matthew McConaughey, Charlie Hunnam, Hugh Grant, Colin Farrell, Henry Golding, m.fl.",
+          "udlejer": "Scanbox Film Distribution A/S"
+        },
+        "sal": {
+          "id": "6",
+          "navn": "Sal 4 - Den Lille VIP"
+        },
+        "starttid": "13:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 10400,
+            "solgt": 1
+          },
+          {
+            "navn": "Atlaskort",
+            "pris": 0,
+            "solgt": 1
+          }
+        ],
+        "total_solgte_billetter": 2,
+        "total_omsaetning_øre": 10400
+      },
+      {
+        "film": {
+          "id": "41702",
+          "titel": "Bombshell - Opgørets time",
+          "land_aar": "USA, 2020",
+          "genre": "Drama",
+          "instruktion": "Jay Roach",
+          "skuespil": "Margot Robbie, Nicole Kidman, Charlize Theron, m.fl.",
+          "udlejer": "Nordisk"
+        },
+        "sal": {
+          "id": "1",
+          "navn": "Z_Sal 93_1"
+        },
+        "starttid": "13:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 9900,
+            "solgt": 2
+          },
+          {
+            "navn": "Biografklub DK",
+            "pris": 4950,
+            "solgt": 2
+          }
+        ],
+        "total_solgte_billetter": 4,
+        "total_omsaetning_øre": 29700
+      },
+      {
+        "film": {
+          "id": "42090",
+          "titel": "Fremad - Dk Tale",
+          "land_aar": "USA, 2020",
+          "genre": "Animation/tegnefilm - Børne-/familiefilm - Eventyr - Komedie",
+          "instruktion": "Dan Scanlon",
+          "skuespil": null,
+          "udlejer": "Buena Vista International BVI (Denmark)"
+        },
+        "sal": {
+          "id": "4",
+          "navn": "Sal 91_4"
+        },
+        "starttid": "14:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 9900,
+            "solgt": 7
+          },
+          {
+            "navn": "Børnebillet",
+            "pris": 7900,
+            "solgt": 4
+          },
+          {
+            "navn": "Ledsager/Hjælper",
+            "pris": 0,
+            "solgt": 1
+          }
+        ],
+        "total_solgte_billetter": 12,
+        "total_omsaetning_øre": 100900
+      },
+      {
+        "film": {
+          "id": "42089",
+          "titel": "Sonic the Hedgehog - 2D",
+          "land_aar": "USA, 2019",
+          "genre": "Action - Eventyr",
+          "instruktion": "Jeff Fowler",
+          "skuespil": "Jim Carrey, James Marsden, Neal McDonough, Ben Schwartz, m.fl.",
+          "udlejer": "UIP"
+        },
+        "sal": {
+          "id": "7",
+          "navn": "Sal 2 - Den Store VIP"
+        },
+        "starttid": "14:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 11400,
+            "solgt": 11
+          },
+          {
+            "navn": "Fribillet",
+            "pris": 0,
+            "solgt": 3
+          }
+        ],
+        "total_solgte_billetter": 14,
+        "total_omsaetning_øre": 125400
+      },
+      {
+        "film": {
+          "id": "42102",
+          "titel": "The Peanut Butter Falcon",
+          "land_aar": "USA, 2019",
+          "genre": "Komedie - Drama - Eventyr",
+          "instruktion": "Tyler Nilson, Michael Schwartz",
+          "skuespil": "Dakota Johnson, Shia LeBeouf, Zack Gottsagen, Bruce Dern, m.fl.",
+          "udlejer": "Angel Distribution A/S"
+        },
+        "sal": {
+          "id": "2",
+          "navn": "Z_Sal 95_2"
+        },
+        "starttid": "15:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 9900,
+            "solgt": 6
+          },
+          {
+            "navn": "Fribillet",
+            "pris": 0,
+            "solgt": 2
+          }
+        ],
+        "total_solgte_billetter": 8,
+        "total_omsaetning_øre": 59400
+      },
+      {
+        "film": {
+          "id": "43000",
+          "titel": "QT8: The First Eight - Utekstet",
+          "land_aar": "Usa / 2019",
+          "genre": "Dokumentar",
+          "instruktion": "Tara Wood",
+          "skuespil": "Quentin Tarantino, Samuel L. Jackson, Jennifer Jason Leigh, m.fl.",
+          "udlejer": "REEL Pictures"
+        },
+        "sal": {
+          "id": "6",
+          "navn": "Sal 4 - Den Lille VIP"
+        },
+        "starttid": "16:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 10400,
+            "solgt": 4
+          }
+        ],
+        "total_solgte_billetter": 4,
+        "total_omsaetning_øre": 41600
+      },
+      {
+        "film": {
+          "id": "42021",
+          "titel": "Weathering with You",
+          "land_aar": "Japan, 2019",
+          "genre": "Animation/tegnefilm - Drama",
+          "instruktion": "Makoto Shinkai",
+          "skuespil": null,
+          "udlejer": "Camera"
+        },
+        "sal": {
+          "id": "1",
+          "navn": "Z_Sal 93_1"
+        },
+        "starttid": "16:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 8613,
+            "solgt": 2
+          },
+          {
+            "navn": "Alm billet",
+            "pris": 9900,
+            "solgt": 4
+          }
+        ],
+        "total_solgte_billetter": 6,
+        "total_omsaetning_øre": 56826
+      },
+      {
+        "film": {
+          "id": "42090",
+          "titel": "Fremad - Dk Tale",
+          "land_aar": "USA, 2020",
+          "genre": "Animation/tegnefilm - Børne-/familiefilm - Komedie - Eventyr",
+          "instruktion": "Dan Scanlon",
+          "skuespil": null,
+          "udlejer": "Buena Vista International BVI (Denmark)"
+        },
+        "sal": {
+          "id": "4",
+          "navn": "Sal 91_4"
+        },
+        "starttid": "17:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 9900,
+            "solgt": 3
+          },
+          {
+            "navn": "Ledsager/Hjælper",
+            "pris": 0,
+            "solgt": 1
+          }
+        ],
+        "total_solgte_billetter": 4,
+        "total_omsaetning_øre": 29700
+      },
+      {
+        "film": {
+          "id": "42928",
+          "titel": "Bloodshot",
+          "land_aar": "USA, 2020",
+          "genre": "Action",
+          "instruktion": "David S. F. Wilson",
+          "skuespil": "Vin Diesel, Eiza Gonzalez, Sam Heughan, Toby Kebbell, Guy Pearce, m.fl.",
+          "udlejer": "SF"
+        },
+        "sal": {
+          "id": "7",
+          "navn": "Sal 2 - Den Store VIP"
+        },
+        "starttid": "17:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 11400,
+            "solgt": 17
+          },
+          {
+            "navn": "Atlaskort",
+            "pris": 0,
+            "solgt": 3
+          }
+        ],
+        "total_solgte_billetter": 20,
+        "total_omsaetning_øre": 193800
+      },
+      {
+        "film": {
+          "id": "40357",
+          "titel": "Kød og Blod",
+          "land_aar": "Danmark, 2019",
+          "genre": "Drama - Thriller",
+          "instruktion": "Jeanette Nordahl",
+          "skuespil": "Sidse Babett Knudsen, Sandra Guldberg Kampp, Elliott Crosset Hove, m.fl.",
+          "udlejer": "Scanbox Film Distribution A/S"
+        },
+        "sal": {
+          "id": "2",
+          "navn": "Z_Sal 95_2"
+        },
+        "starttid": "18:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 9900,
+            "solgt": 3
+          }
+        ],
+        "total_solgte_billetter": 3,
+        "total_omsaetning_øre": 29700
+      },
+      {
+        "film": {
+          "id": "42506",
+          "titel": "Dark Waters",
+          "land_aar": "USA, 2019",
+          "genre": "Drama",
+          "instruktion": "Todd Haynes",
+          "skuespil": "Mark Ruffalo, Anne Hathaway,Tim Robbins, Bill Pullman, m.fl.",
+          "udlejer": "Nordisk"
+        },
+        "sal": {
+          "id": "6",
+          "navn": "Sal 4 - Den Lille VIP"
+        },
+        "starttid": "19:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 11400,
+            "solgt": 2
+          }
+        ],
+        "total_solgte_billetter": 2,
+        "total_omsaetning_øre": 22800
+      },
+      {
+        "film": {
+          "id": "41702",
+          "titel": "Bombshell - Opgørets time",
+          "land_aar": "USA, 2020",
+          "genre": "Drama",
+          "instruktion": "Jay Roach",
+          "skuespil": "Margot Robbie, Nicole Kidman, Charlize Theron, m.fl.",
+          "udlejer": "Nordisk"
+        },
+        "sal": {
+          "id": "1",
+          "navn": "Z_Sal 93_1"
+        },
+        "starttid": "19:30",
+        "billetkategorier": [
+          {
+            "navn": "Biografklub DK",
+            "pris": 4950,
+            "solgt": 2
+          }
+        ],
+        "total_solgte_billetter": 2,
+        "total_omsaetning_øre": 9900
+      },
+      {
+        "film": {
+          "id": "42083",
+          "titel": "The Gentlemen",
+          "land_aar": "USA, 2020",
+          "genre": "Action - Komedie",
+          "instruktion": "Guy Ritchie",
+          "skuespil": "Matthew McConaughey, Charlie Hunnam, Hugh Grant, Colin Farrell, Henry Golding, m.fl.",
+          "udlejer": "Scanbox Film Distribution A/S"
+        },
+        "sal": {
+          "id": "4",
+          "navn": "Sal 91_4"
+        },
+        "starttid": "20:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 9900,
+            "solgt": 2
+          }
+        ],
+        "total_solgte_billetter": 2,
+        "total_omsaetning_øre": 19800
+      },
+      {
+        "film": {
+          "id": "42492",
+          "titel": "The Invisible Man",
+          "land_aar": "USA, 2020",
+          "genre": "Gyser - Thriller",
+          "instruktion": "Leigh Whannell",
+          "skuespil": "Elisabeth Moss, Aldis Hodge, Storm Reid, Harriet Dyer, Oliver Jackson-Cohen, m.fl.",
+          "udlejer": "UIP"
+        },
+        "sal": {
+          "id": "7",
+          "navn": "Sal 2 - Den Store VIP"
+        },
+        "starttid": "20:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 12400,
+            "solgt": 2
+          },
+          {
+            "navn": "Atlaskort",
+            "pris": 0,
+            "solgt": 2
+          }
+        ],
+        "total_solgte_billetter": 4,
+        "total_omsaetning_øre": 24800
+      },
+      {
+        "film": {
+          "id": "1999007340",
+          "titel": "Zengo",
+          "land_aar": "Tyrkiet, 2020",
+          "genre": "Komedie",
+          "instruktion": "Sahan Gokbakar",
+          "skuespil": "Yasemin Sakallioglu, Dilsah Demir, Ece Irtem",
+          "udlejer": "AF-Media GmbH"
+        },
+        "sal": {
+          "id": "2",
+          "navn": "Z_Sal 95_2"
+        },
+        "starttid": "21:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 9900,
+            "solgt": 2
+          }
+        ],
+        "total_solgte_billetter": 2,
+        "total_omsaetning_øre": 19800
+      }
+    ]
+  }
+]

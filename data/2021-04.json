@@ -1,0 +1,388 @@
+[
+  {
+    "dato": "2021-04-01",
+    "aar": "2021",
+    "maaned": "04",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2021-04-02",
+    "aar": "2021",
+    "maaned": "04",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2021-04-03",
+    "aar": "2021",
+    "maaned": "04",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2021-04-04",
+    "aar": "2021",
+    "maaned": "04",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2021-04-05",
+    "aar": "2021",
+    "maaned": "04",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2021-04-06",
+    "aar": "2021",
+    "maaned": "04",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2021-04-07",
+    "aar": "2021",
+    "maaned": "04",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2021-04-08",
+    "aar": "2021",
+    "maaned": "04",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2021-04-09",
+    "aar": "2021",
+    "maaned": "04",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2021-04-10",
+    "aar": "2021",
+    "maaned": "04",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2021-04-11",
+    "aar": "2021",
+    "maaned": "04",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2021-04-12",
+    "aar": "2021",
+    "maaned": "04",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2021-04-13",
+    "aar": "2021",
+    "maaned": "04",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 1,
+    "forestillinger": [
+      {
+        "film": {
+          "id": "1179006870",
+          "titel": "FOREDRAG Århus Universitet",
+          "land_aar": null,
+          "genre": null,
+          "instruktion": null,
+          "skuespil": null,
+          "udlejer": null
+        },
+        "sal": {
+          "id": "4",
+          "navn": "Sal 91_4"
+        },
+        "starttid": "19:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      }
+    ]
+  },
+  {
+    "dato": "2021-04-14",
+    "aar": "2021",
+    "maaned": "04",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2021-04-15",
+    "aar": "2021",
+    "maaned": "04",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2021-04-16",
+    "aar": "2021",
+    "maaned": "04",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2021-04-17",
+    "aar": "2021",
+    "maaned": "04",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2021-04-18",
+    "aar": "2021",
+    "maaned": "04",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2021-04-19",
+    "aar": "2021",
+    "maaned": "04",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2021-04-20",
+    "aar": "2021",
+    "maaned": "04",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2021-04-21",
+    "aar": "2021",
+    "maaned": "04",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2021-04-22",
+    "aar": "2021",
+    "maaned": "04",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2021-04-23",
+    "aar": "2021",
+    "maaned": "04",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2021-04-24",
+    "aar": "2021",
+    "maaned": "04",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2021-04-25",
+    "aar": "2021",
+    "maaned": "04",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2021-04-26",
+    "aar": "2021",
+    "maaned": "04",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2021-04-27",
+    "aar": "2021",
+    "maaned": "04",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2021-04-28",
+    "aar": "2021",
+    "maaned": "04",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2021-04-29",
+    "aar": "2021",
+    "maaned": "04",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2021-04-30",
+    "aar": "2021",
+    "maaned": "04",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  }
+]

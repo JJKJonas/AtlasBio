@@ -1,0 +1,1153 @@
+[
+  {
+    "dato": "2020-04-01",
+    "aar": "2020",
+    "maaned": "04",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2020-04-02",
+    "aar": "2020",
+    "maaned": "04",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2020-04-03",
+    "aar": "2020",
+    "maaned": "04",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2020-04-04",
+    "aar": "2020",
+    "maaned": "04",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 3,
+    "forestillinger": [
+      {
+        "film": {
+          "id": "19888",
+          "titel": "Klokkeblomst og piratfeen - DK tale - 2D",
+          "land_aar": "USA, 2013",
+          "genre": "Animation/tegnefilm - Børne-/familiefilm - Eventyr",
+          "instruktion": "Peggy Holmes",
+          "skuespil": "Tom Hiddleston, Christina Hendricks, Gretel Ashzinger",
+          "udlejer": "Buena Vista International BVI (Denmark)"
+        },
+        "sal": {
+          "id": "2",
+          "navn": "Z_Sal 95_2"
+        },
+        "starttid": "10:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      },
+      {
+        "film": {
+          "id": "30401",
+          "titel": "Frost 2 - 2D - Dk Tale",
+          "land_aar": "USA, 2019",
+          "genre": "Animation/tegnefilm - Børne-/familiefilm - Eventyr",
+          "instruktion": "Chris Buck, Jennifer Lee",
+          "skuespil": "Danske stemmer: Maria Lucia Heiberg Rosenberg, Kristine Yde Eriksen, Martin Brygmann, Kenneth M. Christensen, Tina Dickow, m.fl.",
+          "udlejer": "Buena Vista International BVI (Denmark)"
+        },
+        "sal": {
+          "id": "6",
+          "navn": "Sal 4 - Den Lille VIP"
+        },
+        "starttid": "12:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      },
+      {
+        "film": {
+          "id": "30003",
+          "titel": "Trolls på verdensturne - Dk tale",
+          "land_aar": "USA, 2020",
+          "genre": "Eventyr - Komedie - Animation/tegnefilm - Børne-/familiefilm",
+          "instruktion": "Walt Dohrn, David P. Smith",
+          "skuespil": "Stine Bramsen, Tim Schou, Al Agami, Lise Baastrup, m.fl.",
+          "udlejer": "UIP"
+        },
+        "sal": {
+          "id": "2",
+          "navn": "Z_Sal 95_2"
+        },
+        "starttid": "12:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      }
+    ]
+  },
+  {
+    "dato": "2020-04-05",
+    "aar": "2020",
+    "maaned": "04",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 2,
+    "forestillinger": [
+      {
+        "film": {
+          "id": "10293",
+          "titel": "Peter Plys - DK tale",
+          "land_aar": "USA 2011",
+          "genre": "Animation/tegnefilm - Børne-/familiefilm - Komedie",
+          "instruktion": "Stephen J. Anderson, Don Hall",
+          "skuespil": "Craig Ferguson, Jim Cummings, Tom Kenny, John Cleese",
+          "udlejer": "Buena Vista International BVI (Denmark)"
+        },
+        "sal": {
+          "id": "2",
+          "navn": "Z_Sal 95_2"
+        },
+        "starttid": "10:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      },
+      {
+        "film": {
+          "id": "30003",
+          "titel": "Trolls på verdensturne - Dk tale",
+          "land_aar": "USA, 2020",
+          "genre": "Animation/tegnefilm - Børne-/familiefilm - Eventyr - Komedie",
+          "instruktion": "Walt Dohrn, David P. Smith",
+          "skuespil": "Stine Bramsen, Tim Schou, Al Agami, Lise Baastrup, m.fl.",
+          "udlejer": "UIP"
+        },
+        "sal": {
+          "id": "2",
+          "navn": "Z_Sal 95_2"
+        },
+        "starttid": "12:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      }
+    ]
+  },
+  {
+    "dato": "2020-04-06",
+    "aar": "2020",
+    "maaned": "04",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 2,
+    "forestillinger": [
+      {
+        "film": {
+          "id": "19840",
+          "titel": "Cykelmyggen og minibillen",
+          "land_aar": "Danmark, 2014",
+          "genre": "Animation/tegnefilm - Børne-/familiefilm",
+          "instruktion": "Jannik Hastrup, Flemming Quist Møller",
+          "skuespil": "Stemmer: Peter Frödin, Ellen Hillingsø, Ditte Gråbøl, Lærke Winther Andersen, Kaya Brüel, Flemming Quist Møller m.fl.",
+          "udlejer": "Nordisk"
+        },
+        "sal": {
+          "id": "2",
+          "navn": "Z_Sal 95_2"
+        },
+        "starttid": "10:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      },
+      {
+        "film": {
+          "id": "30003",
+          "titel": "Trolls på verdensturne - Dk tale",
+          "land_aar": "USA, 2020",
+          "genre": "Animation/tegnefilm - Børne-/familiefilm - Eventyr - Komedie",
+          "instruktion": "Walt Dohrn, David P. Smith",
+          "skuespil": "Stine Bramsen, Tim Schou, Al Agami, Lise Baastrup, m.fl.",
+          "udlejer": "UIP"
+        },
+        "sal": {
+          "id": "2",
+          "navn": "Z_Sal 95_2"
+        },
+        "starttid": "12:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      }
+    ]
+  },
+  {
+    "dato": "2020-04-07",
+    "aar": "2020",
+    "maaned": "04",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 2,
+    "forestillinger": [
+      {
+        "film": {
+          "id": "18401",
+          "titel": "Hokus Pokus Alfons Åberg",
+          "land_aar": "Sverige, 2013",
+          "genre": "Animation/tegnefilm - Børne-/familiefilm",
+          "instruktion": "Torill Kove",
+          "skuespil": "Stemmer: Albert Larsen, Lars Brygmann, Stig Hoffmeyer, Ulla Henningsen",
+          "udlejer": "Nordisk"
+        },
+        "sal": {
+          "id": "2",
+          "navn": "Z_Sal 95_2"
+        },
+        "starttid": "10:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      },
+      {
+        "film": {
+          "id": "30003",
+          "titel": "Trolls på verdensturne - Dk tale",
+          "land_aar": "USA, 2020",
+          "genre": "Animation/tegnefilm - Børne-/familiefilm - Eventyr - Komedie",
+          "instruktion": "Walt Dohrn, David P. Smith",
+          "skuespil": "Stine Bramsen, Tim Schou, Al Agami, Lise Baastrup, m.fl.",
+          "udlejer": "UIP"
+        },
+        "sal": {
+          "id": "2",
+          "navn": "Z_Sal 95_2"
+        },
+        "starttid": "12:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      }
+    ]
+  },
+  {
+    "dato": "2020-04-08",
+    "aar": "2020",
+    "maaned": "04",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 2,
+    "forestillinger": [
+      {
+        "film": {
+          "id": "30111",
+          "titel": "Brandmand Sam - DK tale",
+          "land_aar": "England, 2016",
+          "genre": "Animation/tegnefilm - Børne-/familiefilm",
+          "instruktion": "Gary Andrews",
+          "skuespil": null,
+          "udlejer": "Filmcompagniet"
+        },
+        "sal": {
+          "id": "2",
+          "navn": "Z_Sal 95_2"
+        },
+        "starttid": "10:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      },
+      {
+        "film": {
+          "id": "30003",
+          "titel": "Trolls på verdensturne - Dk tale",
+          "land_aar": "USA, 2020",
+          "genre": "Animation/tegnefilm - Børne-/familiefilm - Eventyr - Komedie",
+          "instruktion": "Walt Dohrn, David P. Smith",
+          "skuespil": "Stine Bramsen, Tim Schou, Al Agami, Lise Baastrup, m.fl.",
+          "udlejer": "UIP"
+        },
+        "sal": {
+          "id": "2",
+          "navn": "Z_Sal 95_2"
+        },
+        "starttid": "12:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      }
+    ]
+  },
+  {
+    "dato": "2020-04-09",
+    "aar": "2020",
+    "maaned": "04",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 2,
+    "forestillinger": [
+      {
+        "film": {
+          "id": "35406",
+          "titel": "Cirkeline, Coco og det vilde næsehorn - DK tale",
+          "land_aar": "Danmark, 2018",
+          "genre": "Animation/tegnefilm - Børne-/familiefilm",
+          "instruktion": "Jannik Hastrup",
+          "skuespil": "Stemmer: Tommy Kenter, Anne Marie Helger, Magdalena Nonsgjogv Trantou m.fl.",
+          "udlejer": "Filmcompagniet"
+        },
+        "sal": {
+          "id": "2",
+          "navn": "Z_Sal 95_2"
+        },
+        "starttid": "10:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      },
+      {
+        "film": {
+          "id": "30003",
+          "titel": "Trolls på verdensturne - Dk tale",
+          "land_aar": "USA, 2020",
+          "genre": "Animation/tegnefilm - Børne-/familiefilm - Eventyr - Komedie",
+          "instruktion": "Walt Dohrn, David P. Smith",
+          "skuespil": "Stine Bramsen, Tim Schou, Al Agami, Lise Baastrup, m.fl.",
+          "udlejer": "UIP"
+        },
+        "sal": {
+          "id": "2",
+          "navn": "Z_Sal 95_2"
+        },
+        "starttid": "12:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      }
+    ]
+  },
+  {
+    "dato": "2020-04-10",
+    "aar": "2020",
+    "maaned": "04",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 2,
+    "forestillinger": [
+      {
+        "film": {
+          "id": "29426",
+          "titel": "Dyrene i Hakkebakkeskoven",
+          "land_aar": "Norge, 2016",
+          "genre": "Børne-/familiefilm",
+          "instruktion": "Rasmus A. Sivertsen",
+          "skuespil": null,
+          "udlejer": "Filmcompagniet"
+        },
+        "sal": {
+          "id": "2",
+          "navn": "Z_Sal 95_2"
+        },
+        "starttid": "10:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      },
+      {
+        "film": {
+          "id": "30003",
+          "titel": "Trolls på verdensturne - Dk tale",
+          "land_aar": "USA, 2020",
+          "genre": "Animation/tegnefilm - Børne-/familiefilm - Eventyr - Komedie",
+          "instruktion": "Walt Dohrn, David P. Smith",
+          "skuespil": "Stine Bramsen, Tim Schou, Al Agami, Lise Baastrup, m.fl.",
+          "udlejer": "UIP"
+        },
+        "sal": {
+          "id": "2",
+          "navn": "Z_Sal 95_2"
+        },
+        "starttid": "12:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      }
+    ]
+  },
+  {
+    "dato": "2020-04-11",
+    "aar": "2020",
+    "maaned": "04",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 2,
+    "forestillinger": [
+      {
+        "film": {
+          "id": "19887",
+          "titel": "Emil og Ida fra Lønneberg",
+          "land_aar": "Sverige, 2013",
+          "genre": "Animation/tegnefilm - Børne-/familiefilm",
+          "instruktion": "Lasse Persson, Per Åhlin, Alicja Björk",
+          "skuespil": "Stemmer: Kaya Brüel, Alfred Bjerre Larsen, Carolina Callisen Whittaker, Kristian Boland,  Vibeke Hastrup",
+          "udlejer": "Filmcompagniet"
+        },
+        "sal": {
+          "id": "2",
+          "navn": "Z_Sal 95_2"
+        },
+        "starttid": "10:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      },
+      {
+        "film": {
+          "id": "30003",
+          "titel": "Trolls på verdensturne - Dk tale",
+          "land_aar": "USA, 2020",
+          "genre": "Animation/tegnefilm - Børne-/familiefilm - Eventyr - Komedie",
+          "instruktion": "Walt Dohrn, David P. Smith",
+          "skuespil": "Stine Bramsen, Tim Schou, Al Agami, Lise Baastrup, m.fl.",
+          "udlejer": "UIP"
+        },
+        "sal": {
+          "id": "2",
+          "navn": "Z_Sal 95_2"
+        },
+        "starttid": "12:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      }
+    ]
+  },
+  {
+    "dato": "2020-04-12",
+    "aar": "2020",
+    "maaned": "04",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 2,
+    "forestillinger": [
+      {
+        "film": {
+          "id": "20957",
+          "titel": "F for Får - DK tale",
+          "land_aar": "England, Frankrig, 2015",
+          "genre": "Animation/tegnefilm - Børne-/familiefilm - Eventyr",
+          "instruktion": "Richard Starzack, Mark Burton",
+          "skuespil": null,
+          "udlejer": "Filmcompagniet"
+        },
+        "sal": {
+          "id": "2",
+          "navn": "Z_Sal 95_2"
+        },
+        "starttid": "10:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      },
+      {
+        "film": {
+          "id": "30003",
+          "titel": "Trolls på verdensturne - Dk tale",
+          "land_aar": "USA, 2020",
+          "genre": "Animation/tegnefilm - Børne-/familiefilm - Eventyr - Komedie",
+          "instruktion": "Walt Dohrn, David P. Smith",
+          "skuespil": "Stine Bramsen, Tim Schou, Al Agami, Lise Baastrup, m.fl.",
+          "udlejer": "UIP"
+        },
+        "sal": {
+          "id": "2",
+          "navn": "Z_Sal 95_2"
+        },
+        "starttid": "12:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      }
+    ]
+  },
+  {
+    "dato": "2020-04-13",
+    "aar": "2020",
+    "maaned": "04",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 2,
+    "forestillinger": [
+      {
+        "film": {
+          "id": "20282",
+          "titel": "Peddersen og Findus - Den lille drillepind - DK tale",
+          "land_aar": "Tyskland, 2014",
+          "genre": "Animation/tegnefilm - Børne-/familiefilm",
+          "instruktion": "Ali Samadi Ahadi",
+          "skuespil": "Stemmer - Per Pallesen, Hector Gad Foss, Lars Knutzon, Bente Eskesen, Judith Rothenborg",
+          "udlejer": "Filmcompagniet"
+        },
+        "sal": {
+          "id": "2",
+          "navn": "Z_Sal 95_2"
+        },
+        "starttid": "10:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      },
+      {
+        "film": {
+          "id": "30003",
+          "titel": "Trolls på verdensturne - Dk tale",
+          "land_aar": "USA, 2020",
+          "genre": "Animation/tegnefilm - Børne-/familiefilm - Eventyr - Komedie",
+          "instruktion": "Walt Dohrn, David P. Smith",
+          "skuespil": "Stine Bramsen, Tim Schou, Al Agami, Lise Baastrup, m.fl.",
+          "udlejer": "UIP"
+        },
+        "sal": {
+          "id": "2",
+          "navn": "Z_Sal 95_2"
+        },
+        "starttid": "12:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      }
+    ]
+  },
+  {
+    "dato": "2020-04-14",
+    "aar": "2020",
+    "maaned": "04",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 1,
+    "forestillinger": [
+      {
+        "film": {
+          "id": "1999007232",
+          "titel": "Foredrag: Ig Nobel Prize: first laugh, then think - 2020",
+          "land_aar": "Danmark, 2020",
+          "genre": null,
+          "instruktion": null,
+          "skuespil": null,
+          "udlejer": "Århus Universitet - ATT: Jens Holbech"
+        },
+        "sal": {
+          "id": "4",
+          "navn": "Sal 91_4"
+        },
+        "starttid": "19:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 60
+          }
+        ],
+        "total_solgte_billetter": 60,
+        "total_omsaetning_øre": 0
+      }
+    ]
+  },
+  {
+    "dato": "2020-04-15",
+    "aar": "2020",
+    "maaned": "04",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2020-04-16",
+    "aar": "2020",
+    "maaned": "04",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2020-04-17",
+    "aar": "2020",
+    "maaned": "04",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2020-04-18",
+    "aar": "2020",
+    "maaned": "04",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 2,
+    "forestillinger": [
+      {
+        "film": {
+          "id": "18346",
+          "titel": "Postmand Per - DK tale",
+          "land_aar": "England, 2014",
+          "genre": "Animation/tegnefilm - Børne-/familiefilm",
+          "instruktion": "Mike Disa",
+          "skuespil": "Stemmer: Ole Fick, Ann Hjort, Jakob Garde, Johannes Lassen",
+          "udlejer": "Filmcompagniet"
+        },
+        "sal": {
+          "id": "2",
+          "navn": "Z_Sal 95_2"
+        },
+        "starttid": "10:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      },
+      {
+        "film": {
+          "id": "30003",
+          "titel": "Trolls på verdensturne - Dk tale",
+          "land_aar": "USA, 2020",
+          "genre": "Animation/tegnefilm - Børne-/familiefilm - Eventyr - Komedie",
+          "instruktion": "Walt Dohrn, David P. Smith",
+          "skuespil": "Stine Bramsen, Tim Schou, Al Agami, Lise Baastrup, m.fl.",
+          "udlejer": "UIP"
+        },
+        "sal": {
+          "id": "2",
+          "navn": "Z_Sal 95_2"
+        },
+        "starttid": "12:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      }
+    ]
+  },
+  {
+    "dato": "2020-04-19",
+    "aar": "2020",
+    "maaned": "04",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 2,
+    "forestillinger": [
+      {
+        "film": {
+          "id": "24452",
+          "titel": "Bien Maja - DK tale",
+          "land_aar": "Australien, Tyskland, 2014",
+          "genre": "Animation/tegnefilm - Børne-/familiefilm",
+          "instruktion": "Alexs Stadermann",
+          "skuespil": null,
+          "udlejer": "UIP"
+        },
+        "sal": {
+          "id": "2",
+          "navn": "Z_Sal 95_2"
+        },
+        "starttid": "10:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      },
+      {
+        "film": {
+          "id": "30003",
+          "titel": "Trolls på verdensturne - Dk tale",
+          "land_aar": "USA, 2020",
+          "genre": "Animation/tegnefilm - Børne-/familiefilm - Eventyr - Komedie",
+          "instruktion": "Walt Dohrn, David P. Smith",
+          "skuespil": "Stine Bramsen, Tim Schou, Al Agami, Lise Baastrup, m.fl.",
+          "udlejer": "UIP"
+        },
+        "sal": {
+          "id": "2",
+          "navn": "Z_Sal 95_2"
+        },
+        "starttid": "12:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      }
+    ]
+  },
+  {
+    "dato": "2020-04-20",
+    "aar": "2020",
+    "maaned": "04",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2020-04-21",
+    "aar": "2020",
+    "maaned": "04",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 1,
+    "forestillinger": [
+      {
+        "film": {
+          "id": "1999007233",
+          "titel": "Foredrag: Rask og glad – tak dine unikke mikrober - 2020",
+          "land_aar": "Danmark, 2020",
+          "genre": null,
+          "instruktion": null,
+          "skuespil": null,
+          "udlejer": "Århus Universitet - ATT: Jens Holbech"
+        },
+        "sal": {
+          "id": "4",
+          "navn": "Sal 91_4"
+        },
+        "starttid": "19:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 120
+          }
+        ],
+        "total_solgte_billetter": 120,
+        "total_omsaetning_øre": 0
+      }
+    ]
+  },
+  {
+    "dato": "2020-04-22",
+    "aar": "2020",
+    "maaned": "04",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2020-04-23",
+    "aar": "2020",
+    "maaned": "04",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2020-04-24",
+    "aar": "2020",
+    "maaned": "04",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2020-04-25",
+    "aar": "2020",
+    "maaned": "04",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 2,
+    "forestillinger": [
+      {
+        "film": {
+          "id": "36776",
+          "titel": "Bien Maja 2",
+          "land_aar": "Tyskland, 2018",
+          "genre": "Animation/tegnefilm",
+          "instruktion": "Noel Cleary, Sergio Delfino",
+          "skuespil": null,
+          "udlejer": "UIP"
+        },
+        "sal": {
+          "id": "2",
+          "navn": "Z_Sal 95_2"
+        },
+        "starttid": "10:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      },
+      {
+        "film": {
+          "id": "30003",
+          "titel": "Trolls på verdensturne - Dk tale",
+          "land_aar": "USA, 2020",
+          "genre": "Animation/tegnefilm - Børne-/familiefilm - Eventyr - Komedie",
+          "instruktion": "Walt Dohrn, David P. Smith",
+          "skuespil": "Stine Bramsen, Tim Schou, Al Agami, Lise Baastrup, m.fl.",
+          "udlejer": "UIP"
+        },
+        "sal": {
+          "id": "2",
+          "navn": "Z_Sal 95_2"
+        },
+        "starttid": "12:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      }
+    ]
+  },
+  {
+    "dato": "2020-04-26",
+    "aar": "2020",
+    "maaned": "04",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 2,
+    "forestillinger": [
+      {
+        "film": {
+          "id": "21002",
+          "titel": "Minisekterne - DK tale - 2D",
+          "land_aar": "Frankrig, 2014",
+          "genre": "Animation/tegnefilm - Børne-/familiefilm - Eventyr",
+          "instruktion": "Hélène Giraud, Thomas Szabo",
+          "skuespil": null,
+          "udlejer": "UIP"
+        },
+        "sal": {
+          "id": "2",
+          "navn": "Z_Sal 95_2"
+        },
+        "starttid": "10:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      },
+      {
+        "film": {
+          "id": "30003",
+          "titel": "Trolls på verdensturne - Dk tale",
+          "land_aar": "USA, 2020",
+          "genre": "Animation/tegnefilm - Børne-/familiefilm - Eventyr - Komedie",
+          "instruktion": "Walt Dohrn, David P. Smith",
+          "skuespil": "Stine Bramsen, Tim Schou, Al Agami, Lise Baastrup, m.fl.",
+          "udlejer": "UIP"
+        },
+        "sal": {
+          "id": "2",
+          "navn": "Z_Sal 95_2"
+        },
+        "starttid": "12:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      }
+    ]
+  },
+  {
+    "dato": "2020-04-27",
+    "aar": "2020",
+    "maaned": "04",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2020-04-28",
+    "aar": "2020",
+    "maaned": "04",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2020-04-29",
+    "aar": "2020",
+    "maaned": "04",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2020-04-30",
+    "aar": "2020",
+    "maaned": "04",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  }
+]

@@ -1,0 +1,1828 @@
+[
+  {
+    "dato": "2021-01-01",
+    "aar": "2021",
+    "maaned": "01",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2021-01-02",
+    "aar": "2021",
+    "maaned": "01",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2021-01-03",
+    "aar": "2021",
+    "maaned": "01",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2021-01-04",
+    "aar": "2021",
+    "maaned": "01",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 18,
+    "forestillinger": [
+      {
+        "film": {
+          "id": "43936",
+          "titel": "Operation Nordpolen – Tjep på sneeventyr",
+          "land_aar": "Canada, 2019",
+          "genre": "Eventyr - Animation/tegnefilm - Børne-/familiefilm",
+          "instruktion": "Aaron Woodley",
+          "skuespil": "Danske stemmer: Mikkel Følsgaard, Kristian Boland, Maria Lucia, Jens Jørn Spottag, m.fl.",
+          "udlejer": "UIP"
+        },
+        "sal": {
+          "id": "1",
+          "navn": "Z_Sal 93_1"
+        },
+        "starttid": "12:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      },
+      {
+        "film": {
+          "id": "43472",
+          "titel": "Erna i Krig",
+          "land_aar": "Danmark, 2020",
+          "genre": "Drama",
+          "instruktion": "Henrik Ruben Genz",
+          "skuespil": "Trine Dyrholm, Ulrich Thomsen, Anders W. Berthelsen, Sylvester Byder, m.fl.",
+          "udlejer": "Scanbox Film Distribution A/S"
+        },
+        "sal": {
+          "id": "2",
+          "navn": "Z_Sal 95_2"
+        },
+        "starttid": "12:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      },
+      {
+        "film": {
+          "id": "43960",
+          "titel": "Retfærdighedens Ryttere",
+          "land_aar": "Danmark, 2020",
+          "genre": "Action - Drama - Komedie",
+          "instruktion": "Anders Thomas Jensen",
+          "skuespil": "Nikolaj Lie Kaas, Mads Mikkelsen, Lars Brygmann, Nicolas Bro, Roland Møller, m.fl.",
+          "udlejer": "Nordisk"
+        },
+        "sal": {
+          "id": "6",
+          "navn": "Sal 4 - Den Lille VIP"
+        },
+        "starttid": "12:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      },
+      {
+        "film": {
+          "id": "43948",
+          "titel": "Croods: En ny tid",
+          "land_aar": "USA, 2020",
+          "genre": "Animation/tegnefilm - Børne-/familiefilm - Eventyr - Komedie",
+          "instruktion": "Joel Crawford",
+          "skuespil": "Danske stemmer: Jens Jacob Tychsen, Lars Brygmann, Laus Høybye, Cecilie Stenspil, Petrine Agger, Albert Rosin Harson, Jenna Bagger m.fl.",
+          "udlejer": "UIP"
+        },
+        "sal": {
+          "id": "7",
+          "navn": "Sal 2 - Den Store VIP"
+        },
+        "starttid": "13:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      },
+      {
+        "film": {
+          "id": "43960",
+          "titel": "Retfærdighedens Ryttere",
+          "land_aar": "Danmark, 2020",
+          "genre": "Action - Drama - Komedie",
+          "instruktion": "Anders Thomas Jensen",
+          "skuespil": "Nikolaj Lie Kaas, Mads Mikkelsen, Lars Brygmann, Nicolas Bro, Roland Møller, m.fl.",
+          "udlejer": "Nordisk"
+        },
+        "sal": {
+          "id": "4",
+          "navn": "Sal 91_4"
+        },
+        "starttid": "14:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      },
+      {
+        "film": {
+          "id": "43936",
+          "titel": "Operation Nordpolen – Tjep på sneeventyr",
+          "land_aar": "Canada, 2019",
+          "genre": "Animation/tegnefilm - Børne-/familiefilm - Eventyr",
+          "instruktion": "Aaron Woodley",
+          "skuespil": "Danske stemmer: Mikkel Følsgaard, Kristian Boland, Maria Lucia, Jens Jørn Spottag, m.fl.",
+          "udlejer": "UIP"
+        },
+        "sal": {
+          "id": "1",
+          "navn": "Z_Sal 93_1"
+        },
+        "starttid": "14:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      },
+      {
+        "film": {
+          "id": "43963",
+          "titel": "Lille Sommerfugl",
+          "land_aar": "Danmark, 2020",
+          "genre": "Drama - Komedie",
+          "instruktion": "Søren Kragh-Jacobsen",
+          "skuespil": "Jesper Christensen, Karen-Lise Mynster, Sarah Grünewald, Peder Pedersen, Mia Lyhne, m.fl.",
+          "udlejer": "Nordisk"
+        },
+        "sal": {
+          "id": "2",
+          "navn": "Z_Sal 95_2"
+        },
+        "starttid": "14:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      },
+      {
+        "film": {
+          "id": "43841",
+          "titel": "Julemandens datter 2: Kong Vinters Krystal",
+          "land_aar": "Danmark, 2020",
+          "genre": "Børne-/familiefilm - Eventyr",
+          "instruktion": "Christian Dyekjær",
+          "skuespil": "Dan Boie, Anders Hove, Henning Jensen, m.fl.",
+          "udlejer": "Scanbox Film Distribution A/S"
+        },
+        "sal": {
+          "id": "6",
+          "navn": "Sal 4 - Den Lille VIP"
+        },
+        "starttid": "14:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      },
+      {
+        "film": {
+          "id": "43948",
+          "titel": "Croods: En ny tid",
+          "land_aar": "USA, 2020",
+          "genre": "Animation/tegnefilm - Børne-/familiefilm - Eventyr - Komedie",
+          "instruktion": "Joel Crawford",
+          "skuespil": "Danske stemmer: Jens Jacob Tychsen, Lars Brygmann, Laus Høybye, Cecilie Stenspil, Petrine Agger, Albert Rosin Harson, Jenna Bagger m.fl.",
+          "udlejer": "UIP"
+        },
+        "sal": {
+          "id": "7",
+          "navn": "Sal 2 - Den Store VIP"
+        },
+        "starttid": "16:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      },
+      {
+        "film": {
+          "id": "43841",
+          "titel": "Julemandens datter 2: Kong Vinters Krystal",
+          "land_aar": "Danmark, 2020",
+          "genre": "Børne-/familiefilm - Eventyr",
+          "instruktion": "Christian Dyekjær",
+          "skuespil": "Dan Boie, Anders Hove, Henning Jensen, m.fl.",
+          "udlejer": "Scanbox Film Distribution A/S"
+        },
+        "sal": {
+          "id": "1",
+          "navn": "Z_Sal 93_1"
+        },
+        "starttid": "17:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      },
+      {
+        "film": {
+          "id": "43506",
+          "titel": "Malous Jul",
+          "land_aar": "Danmark, 2020",
+          "genre": "Børne-/familiefilm - Eventyr - Komedie",
+          "instruktion": "Claus Bjerre",
+          "skuespil": "Karla My Nordquist, Lars Ranthe, Ulver Skuli Abildgaard, Jytte Kvinesdal, Sofie Stougaard, m.fl.",
+          "udlejer": "Angel Distribution A/S"
+        },
+        "sal": {
+          "id": "2",
+          "navn": "Z_Sal 95_2"
+        },
+        "starttid": "17:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      },
+      {
+        "film": {
+          "id": "44183",
+          "titel": "Honest Thief",
+          "land_aar": "USA, 2020",
+          "genre": "Action - Thriller",
+          "instruktion": "Mark Williams",
+          "skuespil": "Liam Neeson, Kate Walsh, Jai Courtney, Jeffrey Donovan",
+          "udlejer": "Scanbox Film Distribution A/S"
+        },
+        "sal": {
+          "id": "6",
+          "navn": "Sal 4 - Den Lille VIP"
+        },
+        "starttid": "17:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      },
+      {
+        "film": {
+          "id": "43960",
+          "titel": "Retfærdighedens Ryttere",
+          "land_aar": "Danmark, 2020",
+          "genre": "Action - Drama - Komedie",
+          "instruktion": "Anders Thomas Jensen",
+          "skuespil": "Nikolaj Lie Kaas, Mads Mikkelsen, Lars Brygmann, Nicolas Bro, Roland Møller, m.fl.",
+          "udlejer": "Nordisk"
+        },
+        "sal": {
+          "id": "4",
+          "navn": "Sal 91_4"
+        },
+        "starttid": "17:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      },
+      {
+        "film": {
+          "id": "43960",
+          "titel": "Retfærdighedens Ryttere",
+          "land_aar": "Danmark, 2020",
+          "genre": "Action - Drama - Komedie",
+          "instruktion": "Anders Thomas Jensen",
+          "skuespil": "Nikolaj Lie Kaas, Mads Mikkelsen, Lars Brygmann, Nicolas Bro, Roland Møller, m.fl.",
+          "udlejer": "Nordisk"
+        },
+        "sal": {
+          "id": "7",
+          "navn": "Sal 2 - Den Store VIP"
+        },
+        "starttid": "19:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      },
+      {
+        "film": {
+          "id": "44183",
+          "titel": "Honest Thief",
+          "land_aar": "USA, 2020",
+          "genre": "Action - Thriller",
+          "instruktion": "Mark Williams",
+          "skuespil": "Liam Neeson, Kate Walsh, Jai Courtney, Jeffrey Donovan",
+          "udlejer": "Scanbox Film Distribution A/S"
+        },
+        "sal": {
+          "id": "1",
+          "navn": "Z_Sal 93_1"
+        },
+        "starttid": "20:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      },
+      {
+        "film": {
+          "id": "43963",
+          "titel": "Lille Sommerfugl",
+          "land_aar": "Danmark, 2020",
+          "genre": "Komedie - Drama",
+          "instruktion": "Søren Kragh-Jacobsen",
+          "skuespil": "Jesper Christensen, Karen-Lise Mynster, Sarah Grünewald, Peder Pedersen, Mia Lyhne, m.fl.",
+          "udlejer": "Nordisk"
+        },
+        "sal": {
+          "id": "2",
+          "navn": "Z_Sal 95_2"
+        },
+        "starttid": "20:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      },
+      {
+        "film": {
+          "id": "43472",
+          "titel": "Erna i Krig",
+          "land_aar": "Danmark, 2020",
+          "genre": "Drama",
+          "instruktion": "Henrik Ruben Genz",
+          "skuespil": "Trine Dyrholm, Ulrich Thomsen, Anders W. Berthelsen, Sylvester Byder, m.fl.",
+          "udlejer": "Scanbox Film Distribution A/S"
+        },
+        "sal": {
+          "id": "6",
+          "navn": "Sal 4 - Den Lille VIP"
+        },
+        "starttid": "20:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      },
+      {
+        "film": {
+          "id": "43960",
+          "titel": "Retfærdighedens Ryttere",
+          "land_aar": "Danmark, 2020",
+          "genre": "Action - Drama - Komedie",
+          "instruktion": "Anders Thomas Jensen",
+          "skuespil": "Nikolaj Lie Kaas, Mads Mikkelsen, Lars Brygmann, Nicolas Bro, Roland Møller, m.fl.",
+          "udlejer": "Nordisk"
+        },
+        "sal": {
+          "id": "4",
+          "navn": "Sal 91_4"
+        },
+        "starttid": "20:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      }
+    ]
+  },
+  {
+    "dato": "2021-01-05",
+    "aar": "2021",
+    "maaned": "01",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 18,
+    "forestillinger": [
+      {
+        "film": {
+          "id": "43936",
+          "titel": "Operation Nordpolen – Tjep på sneeventyr",
+          "land_aar": "Canada, 2019",
+          "genre": "Eventyr - Animation/tegnefilm - Børne-/familiefilm",
+          "instruktion": "Aaron Woodley",
+          "skuespil": "Danske stemmer: Mikkel Følsgaard, Kristian Boland, Maria Lucia, Jens Jørn Spottag, m.fl.",
+          "udlejer": "UIP"
+        },
+        "sal": {
+          "id": "1",
+          "navn": "Z_Sal 93_1"
+        },
+        "starttid": "12:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      },
+      {
+        "film": {
+          "id": "43472",
+          "titel": "Erna i Krig",
+          "land_aar": "Danmark, 2020",
+          "genre": "Drama",
+          "instruktion": "Henrik Ruben Genz",
+          "skuespil": "Trine Dyrholm, Ulrich Thomsen, Anders W. Berthelsen, Sylvester Byder, m.fl.",
+          "udlejer": "Scanbox Film Distribution A/S"
+        },
+        "sal": {
+          "id": "2",
+          "navn": "Z_Sal 95_2"
+        },
+        "starttid": "12:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      },
+      {
+        "film": {
+          "id": "43960",
+          "titel": "Retfærdighedens Ryttere",
+          "land_aar": "Danmark, 2020",
+          "genre": "Action - Drama - Komedie",
+          "instruktion": "Anders Thomas Jensen",
+          "skuespil": "Nikolaj Lie Kaas, Mads Mikkelsen, Lars Brygmann, Nicolas Bro, Roland Møller, m.fl.",
+          "udlejer": "Nordisk"
+        },
+        "sal": {
+          "id": "6",
+          "navn": "Sal 4 - Den Lille VIP"
+        },
+        "starttid": "12:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      },
+      {
+        "film": {
+          "id": "43948",
+          "titel": "Croods: En ny tid",
+          "land_aar": "USA, 2020",
+          "genre": "Animation/tegnefilm - Børne-/familiefilm - Eventyr - Komedie",
+          "instruktion": "Joel Crawford",
+          "skuespil": "Danske stemmer: Jens Jacob Tychsen, Lars Brygmann, Laus Høybye, Cecilie Stenspil, Petrine Agger, Albert Rosin Harson, Jenna Bagger m.fl.",
+          "udlejer": "UIP"
+        },
+        "sal": {
+          "id": "7",
+          "navn": "Sal 2 - Den Store VIP"
+        },
+        "starttid": "13:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      },
+      {
+        "film": {
+          "id": "43936",
+          "titel": "Operation Nordpolen – Tjep på sneeventyr",
+          "land_aar": "Canada, 2019",
+          "genre": "Animation/tegnefilm - Børne-/familiefilm - Eventyr",
+          "instruktion": "Aaron Woodley",
+          "skuespil": "Danske stemmer: Mikkel Følsgaard, Kristian Boland, Maria Lucia, Jens Jørn Spottag, m.fl.",
+          "udlejer": "UIP"
+        },
+        "sal": {
+          "id": "1",
+          "navn": "Z_Sal 93_1"
+        },
+        "starttid": "14:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      },
+      {
+        "film": {
+          "id": "43963",
+          "titel": "Lille Sommerfugl",
+          "land_aar": "Danmark, 2020",
+          "genre": "Drama - Komedie",
+          "instruktion": "Søren Kragh-Jacobsen",
+          "skuespil": "Jesper Christensen, Karen-Lise Mynster, Sarah Grünewald, Peder Pedersen, Mia Lyhne, m.fl.",
+          "udlejer": "Nordisk"
+        },
+        "sal": {
+          "id": "2",
+          "navn": "Z_Sal 95_2"
+        },
+        "starttid": "14:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      },
+      {
+        "film": {
+          "id": "43960",
+          "titel": "Retfærdighedens Ryttere",
+          "land_aar": "Danmark, 2020",
+          "genre": "Action - Drama - Komedie",
+          "instruktion": "Anders Thomas Jensen",
+          "skuespil": "Nikolaj Lie Kaas, Mads Mikkelsen, Lars Brygmann, Nicolas Bro, Roland Møller, m.fl.",
+          "udlejer": "Nordisk"
+        },
+        "sal": {
+          "id": "4",
+          "navn": "Sal 91_4"
+        },
+        "starttid": "14:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      },
+      {
+        "film": {
+          "id": "43841",
+          "titel": "Julemandens datter 2: Kong Vinters Krystal",
+          "land_aar": "Danmark, 2020",
+          "genre": "Børne-/familiefilm - Eventyr",
+          "instruktion": "Christian Dyekjær",
+          "skuespil": "Dan Boie, Anders Hove, Henning Jensen, m.fl.",
+          "udlejer": "Scanbox Film Distribution A/S"
+        },
+        "sal": {
+          "id": "6",
+          "navn": "Sal 4 - Den Lille VIP"
+        },
+        "starttid": "14:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      },
+      {
+        "film": {
+          "id": "43948",
+          "titel": "Croods: En ny tid",
+          "land_aar": "USA, 2020",
+          "genre": "Animation/tegnefilm - Børne-/familiefilm - Eventyr - Komedie",
+          "instruktion": "Joel Crawford",
+          "skuespil": "Danske stemmer: Jens Jacob Tychsen, Lars Brygmann, Laus Høybye, Cecilie Stenspil, Petrine Agger, Albert Rosin Harson, Jenna Bagger m.fl.",
+          "udlejer": "UIP"
+        },
+        "sal": {
+          "id": "7",
+          "navn": "Sal 2 - Den Store VIP"
+        },
+        "starttid": "16:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      },
+      {
+        "film": {
+          "id": "43841",
+          "titel": "Julemandens datter 2: Kong Vinters Krystal",
+          "land_aar": "Danmark, 2020",
+          "genre": "Børne-/familiefilm - Eventyr",
+          "instruktion": "Christian Dyekjær",
+          "skuespil": "Dan Boie, Anders Hove, Henning Jensen, m.fl.",
+          "udlejer": "Scanbox Film Distribution A/S"
+        },
+        "sal": {
+          "id": "1",
+          "navn": "Z_Sal 93_1"
+        },
+        "starttid": "17:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      },
+      {
+        "film": {
+          "id": "43506",
+          "titel": "Malous Jul",
+          "land_aar": "Danmark, 2020",
+          "genre": "Børne-/familiefilm - Eventyr - Komedie",
+          "instruktion": "Claus Bjerre",
+          "skuespil": "Karla My Nordquist, Lars Ranthe, Ulver Skuli Abildgaard, Jytte Kvinesdal, Sofie Stougaard, m.fl.",
+          "udlejer": "Angel Distribution A/S"
+        },
+        "sal": {
+          "id": "2",
+          "navn": "Z_Sal 95_2"
+        },
+        "starttid": "17:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      },
+      {
+        "film": {
+          "id": "44183",
+          "titel": "Honest Thief",
+          "land_aar": "USA, 2020",
+          "genre": "Action - Thriller",
+          "instruktion": "Mark Williams",
+          "skuespil": "Liam Neeson, Kate Walsh, Jai Courtney, Jeffrey Donovan",
+          "udlejer": "Scanbox Film Distribution A/S"
+        },
+        "sal": {
+          "id": "6",
+          "navn": "Sal 4 - Den Lille VIP"
+        },
+        "starttid": "17:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      },
+      {
+        "film": {
+          "id": "43960",
+          "titel": "Retfærdighedens Ryttere",
+          "land_aar": "Danmark, 2020",
+          "genre": "Action - Drama - Komedie",
+          "instruktion": "Anders Thomas Jensen",
+          "skuespil": "Nikolaj Lie Kaas, Mads Mikkelsen, Lars Brygmann, Nicolas Bro, Roland Møller, m.fl.",
+          "udlejer": "Nordisk"
+        },
+        "sal": {
+          "id": "4",
+          "navn": "Sal 91_4"
+        },
+        "starttid": "17:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      },
+      {
+        "film": {
+          "id": "43960",
+          "titel": "Retfærdighedens Ryttere",
+          "land_aar": "Danmark, 2020",
+          "genre": "Action - Drama - Komedie",
+          "instruktion": "Anders Thomas Jensen",
+          "skuespil": "Nikolaj Lie Kaas, Mads Mikkelsen, Lars Brygmann, Nicolas Bro, Roland Møller, m.fl.",
+          "udlejer": "Nordisk"
+        },
+        "sal": {
+          "id": "7",
+          "navn": "Sal 2 - Den Store VIP"
+        },
+        "starttid": "19:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      },
+      {
+        "film": {
+          "id": "44183",
+          "titel": "Honest Thief",
+          "land_aar": "USA, 2020",
+          "genre": "Action - Thriller",
+          "instruktion": "Mark Williams",
+          "skuespil": "Liam Neeson, Kate Walsh, Jai Courtney, Jeffrey Donovan",
+          "udlejer": "Scanbox Film Distribution A/S"
+        },
+        "sal": {
+          "id": "1",
+          "navn": "Z_Sal 93_1"
+        },
+        "starttid": "20:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      },
+      {
+        "film": {
+          "id": "43963",
+          "titel": "Lille Sommerfugl",
+          "land_aar": "Danmark, 2020",
+          "genre": "Komedie - Drama",
+          "instruktion": "Søren Kragh-Jacobsen",
+          "skuespil": "Jesper Christensen, Karen-Lise Mynster, Sarah Grünewald, Peder Pedersen, Mia Lyhne, m.fl.",
+          "udlejer": "Nordisk"
+        },
+        "sal": {
+          "id": "2",
+          "navn": "Z_Sal 95_2"
+        },
+        "starttid": "20:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      },
+      {
+        "film": {
+          "id": "43472",
+          "titel": "Erna i Krig",
+          "land_aar": "Danmark, 2020",
+          "genre": "Drama",
+          "instruktion": "Henrik Ruben Genz",
+          "skuespil": "Trine Dyrholm, Ulrich Thomsen, Anders W. Berthelsen, Sylvester Byder, m.fl.",
+          "udlejer": "Scanbox Film Distribution A/S"
+        },
+        "sal": {
+          "id": "6",
+          "navn": "Sal 4 - Den Lille VIP"
+        },
+        "starttid": "20:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      },
+      {
+        "film": {
+          "id": "43960",
+          "titel": "Retfærdighedens Ryttere",
+          "land_aar": "Danmark, 2020",
+          "genre": "Action - Drama - Komedie",
+          "instruktion": "Anders Thomas Jensen",
+          "skuespil": "Nikolaj Lie Kaas, Mads Mikkelsen, Lars Brygmann, Nicolas Bro, Roland Møller, m.fl.",
+          "udlejer": "Nordisk"
+        },
+        "sal": {
+          "id": "4",
+          "navn": "Sal 91_4"
+        },
+        "starttid": "20:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      }
+    ]
+  },
+  {
+    "dato": "2021-01-06",
+    "aar": "2021",
+    "maaned": "01",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 18,
+    "forestillinger": [
+      {
+        "film": {
+          "id": "43936",
+          "titel": "Operation Nordpolen – Tjep på sneeventyr",
+          "land_aar": "Canada, 2019",
+          "genre": "Eventyr - Animation/tegnefilm - Børne-/familiefilm",
+          "instruktion": "Aaron Woodley",
+          "skuespil": "Danske stemmer: Mikkel Følsgaard, Kristian Boland, Maria Lucia, Jens Jørn Spottag, m.fl.",
+          "udlejer": "UIP"
+        },
+        "sal": {
+          "id": "1",
+          "navn": "Z_Sal 93_1"
+        },
+        "starttid": "12:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      },
+      {
+        "film": {
+          "id": "43472",
+          "titel": "Erna i Krig",
+          "land_aar": "Danmark, 2020",
+          "genre": "Drama",
+          "instruktion": "Henrik Ruben Genz",
+          "skuespil": "Trine Dyrholm, Ulrich Thomsen, Anders W. Berthelsen, Sylvester Byder, m.fl.",
+          "udlejer": "Scanbox Film Distribution A/S"
+        },
+        "sal": {
+          "id": "2",
+          "navn": "Z_Sal 95_2"
+        },
+        "starttid": "12:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      },
+      {
+        "film": {
+          "id": "43960",
+          "titel": "Retfærdighedens Ryttere",
+          "land_aar": "Danmark, 2020",
+          "genre": "Action - Drama - Komedie",
+          "instruktion": "Anders Thomas Jensen",
+          "skuespil": "Nikolaj Lie Kaas, Mads Mikkelsen, Lars Brygmann, Nicolas Bro, Roland Møller, m.fl.",
+          "udlejer": "Nordisk"
+        },
+        "sal": {
+          "id": "6",
+          "navn": "Sal 4 - Den Lille VIP"
+        },
+        "starttid": "12:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      },
+      {
+        "film": {
+          "id": "43948",
+          "titel": "Croods: En ny tid",
+          "land_aar": "USA, 2020",
+          "genre": "Animation/tegnefilm - Børne-/familiefilm - Eventyr - Komedie",
+          "instruktion": "Joel Crawford",
+          "skuespil": "Danske stemmer: Jens Jacob Tychsen, Lars Brygmann, Laus Høybye, Cecilie Stenspil, Petrine Agger, Albert Rosin Harson, Jenna Bagger m.fl.",
+          "udlejer": "UIP"
+        },
+        "sal": {
+          "id": "7",
+          "navn": "Sal 2 - Den Store VIP"
+        },
+        "starttid": "13:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      },
+      {
+        "film": {
+          "id": "43936",
+          "titel": "Operation Nordpolen – Tjep på sneeventyr",
+          "land_aar": "Canada, 2019",
+          "genre": "Animation/tegnefilm - Børne-/familiefilm - Eventyr",
+          "instruktion": "Aaron Woodley",
+          "skuespil": "Danske stemmer: Mikkel Følsgaard, Kristian Boland, Maria Lucia, Jens Jørn Spottag, m.fl.",
+          "udlejer": "UIP"
+        },
+        "sal": {
+          "id": "1",
+          "navn": "Z_Sal 93_1"
+        },
+        "starttid": "14:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      },
+      {
+        "film": {
+          "id": "43963",
+          "titel": "Lille Sommerfugl",
+          "land_aar": "Danmark, 2020",
+          "genre": "Drama - Komedie",
+          "instruktion": "Søren Kragh-Jacobsen",
+          "skuespil": "Jesper Christensen, Karen-Lise Mynster, Sarah Grünewald, Peder Pedersen, Mia Lyhne, m.fl.",
+          "udlejer": "Nordisk"
+        },
+        "sal": {
+          "id": "2",
+          "navn": "Z_Sal 95_2"
+        },
+        "starttid": "14:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      },
+      {
+        "film": {
+          "id": "43960",
+          "titel": "Retfærdighedens Ryttere",
+          "land_aar": "Danmark, 2020",
+          "genre": "Action - Drama - Komedie",
+          "instruktion": "Anders Thomas Jensen",
+          "skuespil": "Nikolaj Lie Kaas, Mads Mikkelsen, Lars Brygmann, Nicolas Bro, Roland Møller, m.fl.",
+          "udlejer": "Nordisk"
+        },
+        "sal": {
+          "id": "4",
+          "navn": "Sal 91_4"
+        },
+        "starttid": "14:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      },
+      {
+        "film": {
+          "id": "43841",
+          "titel": "Julemandens datter 2: Kong Vinters Krystal",
+          "land_aar": "Danmark, 2020",
+          "genre": "Børne-/familiefilm - Eventyr",
+          "instruktion": "Christian Dyekjær",
+          "skuespil": "Dan Boie, Anders Hove, Henning Jensen, m.fl.",
+          "udlejer": "Scanbox Film Distribution A/S"
+        },
+        "sal": {
+          "id": "6",
+          "navn": "Sal 4 - Den Lille VIP"
+        },
+        "starttid": "14:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      },
+      {
+        "film": {
+          "id": "43948",
+          "titel": "Croods: En ny tid",
+          "land_aar": "USA, 2020",
+          "genre": "Animation/tegnefilm - Børne-/familiefilm - Eventyr - Komedie",
+          "instruktion": "Joel Crawford",
+          "skuespil": "Danske stemmer: Jens Jacob Tychsen, Lars Brygmann, Laus Høybye, Cecilie Stenspil, Petrine Agger, Albert Rosin Harson, Jenna Bagger m.fl.",
+          "udlejer": "UIP"
+        },
+        "sal": {
+          "id": "7",
+          "navn": "Sal 2 - Den Store VIP"
+        },
+        "starttid": "16:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      },
+      {
+        "film": {
+          "id": "43841",
+          "titel": "Julemandens datter 2: Kong Vinters Krystal",
+          "land_aar": "Danmark, 2020",
+          "genre": "Børne-/familiefilm - Eventyr",
+          "instruktion": "Christian Dyekjær",
+          "skuespil": "Dan Boie, Anders Hove, Henning Jensen, m.fl.",
+          "udlejer": "Scanbox Film Distribution A/S"
+        },
+        "sal": {
+          "id": "1",
+          "navn": "Z_Sal 93_1"
+        },
+        "starttid": "17:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      },
+      {
+        "film": {
+          "id": "43506",
+          "titel": "Malous Jul",
+          "land_aar": "Danmark, 2020",
+          "genre": "Børne-/familiefilm - Eventyr - Komedie",
+          "instruktion": "Claus Bjerre",
+          "skuespil": "Karla My Nordquist, Lars Ranthe, Ulver Skuli Abildgaard, Jytte Kvinesdal, Sofie Stougaard, m.fl.",
+          "udlejer": "Angel Distribution A/S"
+        },
+        "sal": {
+          "id": "2",
+          "navn": "Z_Sal 95_2"
+        },
+        "starttid": "17:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      },
+      {
+        "film": {
+          "id": "44183",
+          "titel": "Honest Thief",
+          "land_aar": "USA, 2020",
+          "genre": "Action - Thriller",
+          "instruktion": "Mark Williams",
+          "skuespil": "Liam Neeson, Kate Walsh, Jai Courtney, Jeffrey Donovan",
+          "udlejer": "Scanbox Film Distribution A/S"
+        },
+        "sal": {
+          "id": "6",
+          "navn": "Sal 4 - Den Lille VIP"
+        },
+        "starttid": "17:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      },
+      {
+        "film": {
+          "id": "43960",
+          "titel": "Retfærdighedens Ryttere",
+          "land_aar": "Danmark, 2020",
+          "genre": "Action - Drama - Komedie",
+          "instruktion": "Anders Thomas Jensen",
+          "skuespil": "Nikolaj Lie Kaas, Mads Mikkelsen, Lars Brygmann, Nicolas Bro, Roland Møller, m.fl.",
+          "udlejer": "Nordisk"
+        },
+        "sal": {
+          "id": "4",
+          "navn": "Sal 91_4"
+        },
+        "starttid": "17:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      },
+      {
+        "film": {
+          "id": "43960",
+          "titel": "Retfærdighedens Ryttere",
+          "land_aar": "Danmark, 2020",
+          "genre": "Action - Drama - Komedie",
+          "instruktion": "Anders Thomas Jensen",
+          "skuespil": "Nikolaj Lie Kaas, Mads Mikkelsen, Lars Brygmann, Nicolas Bro, Roland Møller, m.fl.",
+          "udlejer": "Nordisk"
+        },
+        "sal": {
+          "id": "7",
+          "navn": "Sal 2 - Den Store VIP"
+        },
+        "starttid": "19:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      },
+      {
+        "film": {
+          "id": "44183",
+          "titel": "Honest Thief",
+          "land_aar": "USA, 2020",
+          "genre": "Action - Thriller",
+          "instruktion": "Mark Williams",
+          "skuespil": "Liam Neeson, Kate Walsh, Jai Courtney, Jeffrey Donovan",
+          "udlejer": "Scanbox Film Distribution A/S"
+        },
+        "sal": {
+          "id": "1",
+          "navn": "Z_Sal 93_1"
+        },
+        "starttid": "20:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      },
+      {
+        "film": {
+          "id": "43963",
+          "titel": "Lille Sommerfugl",
+          "land_aar": "Danmark, 2020",
+          "genre": "Komedie - Drama",
+          "instruktion": "Søren Kragh-Jacobsen",
+          "skuespil": "Jesper Christensen, Karen-Lise Mynster, Sarah Grünewald, Peder Pedersen, Mia Lyhne, m.fl.",
+          "udlejer": "Nordisk"
+        },
+        "sal": {
+          "id": "2",
+          "navn": "Z_Sal 95_2"
+        },
+        "starttid": "20:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      },
+      {
+        "film": {
+          "id": "43472",
+          "titel": "Erna i Krig",
+          "land_aar": "Danmark, 2020",
+          "genre": "Drama",
+          "instruktion": "Henrik Ruben Genz",
+          "skuespil": "Trine Dyrholm, Ulrich Thomsen, Anders W. Berthelsen, Sylvester Byder, m.fl.",
+          "udlejer": "Scanbox Film Distribution A/S"
+        },
+        "sal": {
+          "id": "6",
+          "navn": "Sal 4 - Den Lille VIP"
+        },
+        "starttid": "20:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      },
+      {
+        "film": {
+          "id": "43960",
+          "titel": "Retfærdighedens Ryttere",
+          "land_aar": "Danmark, 2020",
+          "genre": "Action - Drama - Komedie",
+          "instruktion": "Anders Thomas Jensen",
+          "skuespil": "Nikolaj Lie Kaas, Mads Mikkelsen, Lars Brygmann, Nicolas Bro, Roland Møller, m.fl.",
+          "udlejer": "Nordisk"
+        },
+        "sal": {
+          "id": "4",
+          "navn": "Sal 91_4"
+        },
+        "starttid": "20:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      }
+    ]
+  },
+  {
+    "dato": "2021-01-07",
+    "aar": "2021",
+    "maaned": "01",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2021-01-08",
+    "aar": "2021",
+    "maaned": "01",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2021-01-09",
+    "aar": "2021",
+    "maaned": "01",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2021-01-10",
+    "aar": "2021",
+    "maaned": "01",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2021-01-11",
+    "aar": "2021",
+    "maaned": "01",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2021-01-12",
+    "aar": "2021",
+    "maaned": "01",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2021-01-13",
+    "aar": "2021",
+    "maaned": "01",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2021-01-14",
+    "aar": "2021",
+    "maaned": "01",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 4,
+    "forestillinger": [
+      {
+        "film": {
+          "id": "40664",
+          "titel": "Gooseboy",
+          "land_aar": "Danmark, 2019",
+          "genre": "Komedie - Børne-/familiefilm",
+          "instruktion": "Steen Rasmussen, Michael Wikke",
+          "skuespil": "Thomas Refslund Ravn, Rasmus Bjerg, Szhirley, Nicolas Bro, m.fl",
+          "udlejer": "SF"
+        },
+        "sal": {
+          "id": "4",
+          "navn": "Sal 91_4"
+        },
+        "starttid": "08:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      },
+      {
+        "film": {
+          "id": "40664",
+          "titel": "Gooseboy",
+          "land_aar": "Danmark, 2019",
+          "genre": "Børne-/familiefilm - Komedie",
+          "instruktion": "Steen Rasmussen, Michael Wikke",
+          "skuespil": "Thomas Refslund Ravn, Rasmus Bjerg, Szhirley, Nicolas Bro, m.fl",
+          "udlejer": "SF"
+        },
+        "sal": {
+          "id": "1",
+          "navn": "Z_Sal 93_1"
+        },
+        "starttid": "09:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      },
+      {
+        "film": {
+          "id": "40664",
+          "titel": "Gooseboy",
+          "land_aar": "Danmark, 2019",
+          "genre": "Børne-/familiefilm - Komedie",
+          "instruktion": "Steen Rasmussen, Michael Wikke",
+          "skuespil": "Thomas Refslund Ravn, Rasmus Bjerg, Szhirley, Nicolas Bro, m.fl",
+          "udlejer": "SF"
+        },
+        "sal": {
+          "id": "4",
+          "navn": "Sal 91_4"
+        },
+        "starttid": "10:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      },
+      {
+        "film": {
+          "id": "1179006684",
+          "titel": "MSiB",
+          "land_aar": null,
+          "genre": null,
+          "instruktion": null,
+          "skuespil": null,
+          "udlejer": null
+        },
+        "sal": {
+          "id": "4",
+          "navn": "Sal 91_4"
+        },
+        "starttid": "12:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      }
+    ]
+  },
+  {
+    "dato": "2021-01-15",
+    "aar": "2021",
+    "maaned": "01",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2021-01-16",
+    "aar": "2021",
+    "maaned": "01",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2021-01-17",
+    "aar": "2021",
+    "maaned": "01",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2021-01-18",
+    "aar": "2021",
+    "maaned": "01",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2021-01-19",
+    "aar": "2021",
+    "maaned": "01",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2021-01-20",
+    "aar": "2021",
+    "maaned": "01",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2021-01-21",
+    "aar": "2021",
+    "maaned": "01",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2021-01-22",
+    "aar": "2021",
+    "maaned": "01",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2021-01-23",
+    "aar": "2021",
+    "maaned": "01",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2021-01-24",
+    "aar": "2021",
+    "maaned": "01",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2021-01-25",
+    "aar": "2021",
+    "maaned": "01",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2021-01-26",
+    "aar": "2021",
+    "maaned": "01",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2021-01-27",
+    "aar": "2021",
+    "maaned": "01",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2021-01-28",
+    "aar": "2021",
+    "maaned": "01",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2021-01-29",
+    "aar": "2021",
+    "maaned": "01",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2021-01-30",
+    "aar": "2021",
+    "maaned": "01",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  },
+  {
+    "dato": "2021-01-31",
+    "aar": "2021",
+    "maaned": "01",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 0,
+    "forestillinger": []
+  }
+]

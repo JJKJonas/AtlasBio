@@ -2,7 +2,7 @@ name: Hent biografdata fra FTP
 
 on:
   schedule:
-    - cron: '0 4 * * *'  # Kører hver dag kl. 04:00 UTC (06:00 dansk tid)
+    - cron: '0 2 * * *'
   workflow_dispatch:
 
 jobs:
@@ -16,7 +16,7 @@ jobs:
       - name: Installer lftp
         run: sudo apt-get install -y lftp
 
-      - name: Hent dagens XML-fil fra FTP
+      - name: Hent gårsdagens XML-fil fra FTP
         env:
           FTP_HOST: front01.poweredbyintegra.dk
           FTP_USER: ${{ secrets.FTP_USER }}
@@ -32,12 +32,12 @@ jobs:
           EOF
 
       - name: Konverter XML til JSON
-        run: python3 scripts/konverter.py
+        run: python3 scripts/konverter-aar.py
 
       - name: Commit og push opdateret data
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add data/data.json
-          git diff --staged --quiet || git commit -m "Opdateret biografdata $(date +'%Y-%m-%d')"
+          git add data/
+          git diff --staged --quiet || git commit -m "Opdateret biografdata $(date -d 'yesterday' +'%Y-%m-%d')"
           git push

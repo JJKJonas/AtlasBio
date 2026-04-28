@@ -59,6 +59,8 @@ def parse_xml_fil(xml_fil):
 
         return {
             "dato": dato,
+            "aar": year,
+            "maaned": month.zfill(2),
             "biograf": company,
             "antal_forestillinger": len(forestillinger),
             "forestillinger": forestillinger
@@ -67,12 +69,13 @@ def parse_xml_fil(xml_fil):
         print(f"  Fejl ved parsing af {xml_fil}: {e}")
         return None
 
-# Loop gennem alle datoer fra 2013 til i dag
+# Loop fra 2013 til i dag
 start = date(2013, 1, 1)
 slut = date.today()
 aktuel = start
 
-aarsdata = {}
+# { "2026-04": [...], "2026-05": [...], ... }
+maanedsdata = {}
 
 ftp_host = os.environ['FTP_HOST']
 ftp_user = os.environ['FTP_USER']
@@ -83,6 +86,8 @@ print(f"Henter data fra {start} til {slut}...")
 while aktuel <= slut:
     dato_str = aktuel.strftime('%Y%m%d')
     aar = str(aktuel.year)
+    maaned = aktuel.strftime('%m')
+    maaned_nøgle = f"{aar}-{maaned}"
     filnavn = f"{dato_str}_179_roedovre.xml"
 
     os.makedirs('./tmp-arkiv', exist_ok=True)
@@ -96,9 +101,9 @@ while aktuel <= slut:
     if os.path.exists(lokal_fil):
         data = parse_xml_fil(lokal_fil)
         if data:
-            if aar not in aarsdata:
-                aarsdata[aar] = []
-            aarsdata[aar].append(data)
+            if maaned_nøgle not in maanedsdata:
+                maanedsdata[maaned_nøgle] = []
+            maanedsdata[maaned_nøgle].append(data)
             print(f"  ✓ {dato_str} – {data['antal_forestillinger']} forestillinger")
         os.remove(lokal_fil)
     else:
@@ -106,11 +111,11 @@ while aktuel <= slut:
 
     aktuel += timedelta(days=1)
 
-# Gem én fil per år
+# Gem én fil per måned
 os.makedirs('./data', exist_ok=True)
-for aar, dage in aarsdata.items():
+for maaned_nøgle, dage in maanedsdata.items():
     dage.sort(key=lambda x: x['dato'])
-    fil = f"./data/{aar}.json"
+    fil = f"./data/{maaned_nøgle}.json"
     with open(fil, 'w', encoding='utf-8') as f:
         json.dump(dage, f, ensure_ascii=False, indent=2)
     print(f"Gemt {fil} med {len(dage)} dage")

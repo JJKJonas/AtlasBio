@@ -19,6 +19,7 @@ month = rod.find('Date/Month').text
 year = rod.find('Date/Year').text
 dato = f"{year}-{month.zfill(2)}-{day.zfill(2)}"
 aar = year
+maaned = month.zfill(2)
 
 company = {
     "CompanyID": rod.find('Company/CompanyID').text,
@@ -70,11 +71,12 @@ dagens_data = {
     "forestillinger": forestillinger
 }
 
+# Gem i månedsfil fx data/2026-04.json
 os.makedirs('./data', exist_ok=True)
-aar_fil = f"./data/{aar}.json"
+maaned_fil = f"./data/{aar}-{maaned}.json"
 
-if os.path.exists(aar_fil):
-    with open(aar_fil, 'r', encoding='utf-8') as f:
+if os.path.exists(maaned_fil):
+    with open(maaned_fil, 'r', encoding='utf-8') as f:
         historik = json.load(f)
     historik = [d for d in historik if d['dato'] != dato]
 else:
@@ -83,7 +85,7 @@ else:
 historik.append(dagens_data)
 historik.sort(key=lambda x: x['dato'])
 
-with open(aar_fil, 'w', encoding='utf-8') as f:
+with open(maaned_fil, 'w', encoding='utf-8') as f:
     json.dump(historik, f, ensure_ascii=False, indent=2)
 
-print(f"Gemt {len(forestillinger)} forestillinger for {dato} i {aar_fil}")
+print(f"Gemt {len(forestillinger)} forestillinger for {dato} i {maaned_fil}")

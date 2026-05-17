@@ -12928,5 +12928,1076 @@
         "total_omsaetning_øre": 525000
       }
     ]
+  },
+  {
+    "dato": "2026-05-16",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 32,
+    "forestillinger": [
+      {
+        "film": {
+          "id": "45348",
+          "titel": "Alfons og hemmelige Svipper",
+          "land_aar": "Sverige, 2022",
+          "genre": "Børne-/familiefilm - Animation/tegnefilm",
+          "instruktion": "Tomas Alfredson",
+          "skuespil": "Danske stemmer: David Dencik",
+          "udlejer": "Angel Distribution A/S"
+        },
+        "sal": {
+          "id": "8",
+          "navn": "Sal 5 - Guld og Velour"
+        },
+        "starttid": "11:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 6000,
+            "solgt": 26
+          }
+        ],
+        "total_solgte_billetter": 26,
+        "total_omsaetning_øre": 156000
+      },
+      {
+        "film": {
+          "id": "46500",
+          "titel": "Super Mario Galaxy filmen - Dk Tale",
+          "land_aar": "USA / 2026",
+          "genre": "Animation/tegnefilm - Børne-/familiefilm - Eventyr - Komedie",
+          "instruktion": "Aaron Horvath, Michael Jelenic",
+          "skuespil": "Danske stemmer",
+          "udlejer": "UIP"
+        },
+        "sal": {
+          "id": "10",
+          "navn": "Sal 1 - Den Største"
+        },
+        "starttid": "11:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 12500,
+            "solgt": 10
+          },
+          {
+            "navn": "Børnebillet",
+            "pris": 10500,
+            "solgt": 12
+          },
+          {
+            "navn": "Ateam gavekort",
+            "pris": 9000,
+            "solgt": 2
+          },
+          {
+            "navn": "Ateam gavekort",
+            "pris": 12500,
+            "solgt": 2
+          }
+        ],
+        "total_solgte_billetter": 26,
+        "total_omsaetning_øre": 294000
+      },
+      {
+        "film": {
+          "id": "46549",
+          "titel": "Mission: Bæver - Dk Tale",
+          "land_aar": "USA / 2026",
+          "genre": "Animation/tegnefilm - Børne-/familiefilm - Eventyr - Komedie",
+          "instruktion": "Daniel Chong",
+          "skuespil": "Danske stemmer",
+          "udlejer": "Buena Vista International BVI (Denmark)"
+        },
+        "sal": {
+          "id": "11",
+          "navn": "Sal 6 - Den Lilla VIP"
+        },
+        "starttid": "11:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 12500,
+            "solgt": 22
+          },
+          {
+            "navn": "Børnebillet",
+            "pris": 10500,
+            "solgt": 14
+          }
+        ],
+        "total_solgte_billetter": 36,
+        "total_omsaetning_øre": 422000
+      },
+      {
+        "film": {
+          "id": "46500",
+          "titel": "Super Mario Galaxy filmen - Dk Tale",
+          "land_aar": "USA / 2026",
+          "genre": "Animation/tegnefilm - Børne-/familiefilm - Eventyr - Komedie",
+          "instruktion": "Aaron Horvath, Michael Jelenic",
+          "skuespil": "Danske stemmer",
+          "udlejer": "UIP"
+        },
+        "sal": {
+          "id": "9",
+          "navn": "Sal 3 - Striber af Velour"
+        },
+        "starttid": "11:45",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 12500,
+            "solgt": 5
+          },
+          {
+            "navn": "Børnebillet",
+            "pris": 10500,
+            "solgt": 5
+          },
+          {
+            "navn": "Ledsager/Hjælper",
+            "pris": 0,
+            "solgt": 1
+          }
+        ],
+        "total_solgte_billetter": 11,
+        "total_omsaetning_øre": 115000
+      },
+      {
+        "film": {
+          "id": "46428",
+          "titel": "Michael",
+          "land_aar": "USA / 2026",
+          "genre": "Drama",
+          "instruktion": "Antoine Fuqua",
+          "skuespil": "Jaafar Jackson, Miles Teller, Colman Domingo, Juliano Krue Valdi m.fl.",
+          "udlejer": "UIP"
+        },
+        "sal": {
+          "id": "7",
+          "navn": "Sal 2 - Den Store VIP"
+        },
+        "starttid": "11:45",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 14000,
+            "solgt": 23
+          },
+          {
+            "navn": "Fribillet",
+            "pris": 0,
+            "solgt": 2
+          },
+          {
+            "navn": "Cinemaxx voucher",
+            "pris": 10500,
+            "solgt": 2
+          }
+        ],
+        "total_solgte_billetter": 27,
+        "total_omsaetning_øre": 343000
+      },
+      {
+        "film": {
+          "id": "1179009767",
+          "titel": "571 Rahmet Peygamberi Hz. Muhammed (sas)",
+          "land_aar": "Tyrkiet 2026",
+          "genre": "Børne-/familiefilm",
+          "instruktion": "Yunus Emre Cakir",
+          "skuespil": null,
+          "udlejer": "Cinedex"
+        },
+        "sal": {
+          "id": "6",
+          "navn": "Sal 4 - Den Lille VIP"
+        },
+        "starttid": "11:45",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 12500,
+            "solgt": 13
+          },
+          {
+            "navn": "Børnebillet",
+            "pris": 0,
+            "solgt": 1
+          },
+          {
+            "navn": "Børnebillet",
+            "pris": 10500,
+            "solgt": 6
+          },
+          {
+            "navn": "Loyalitet 2.0",
+            "pris": 0,
+            "solgt": 1
+          }
+        ],
+        "total_solgte_billetter": 21,
+        "total_omsaetning_øre": 225500
+      },
+      {
+        "film": {
+          "id": "46184",
+          "titel": "Dragens Vogter",
+          "land_aar": "Kina, Spanien / 2024",
+          "genre": "Animation/tegnefilm - Børne-/familiefilm - Eventyr",
+          "instruktion": "Jianping Li, Salvador Simo",
+          "skuespil": "Seide Nøiers, Alexandre Willaume, Carsten Svendsen, Nicolai Jørgensen",
+          "udlejer": "Another World Entertainment ApS"
+        },
+        "sal": {
+          "id": "12",
+          "navn": "Sal 7 - Den Blå VIP"
+        },
+        "starttid": "12:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 12500,
+            "solgt": 4
+          },
+          {
+            "navn": "Børnebillet",
+            "pris": 10500,
+            "solgt": 5
+          }
+        ],
+        "total_solgte_billetter": 9,
+        "total_omsaetning_øre": 102500
+      },
+      {
+        "film": {
+          "id": "46435",
+          "titel": "Ustoppelig",
+          "land_aar": "Norge / 2026",
+          "genre": "Animation/tegnefilm - Børne-/familiefilm - Eventyr",
+          "instruktion": "Martin Lund",
+          "skuespil": "Danske stemmer",
+          "udlejer": "SF"
+        },
+        "sal": {
+          "id": "8",
+          "navn": "Sal 5 - Guld og Velour"
+        },
+        "starttid": "12:40",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 12500,
+            "solgt": 20
+          },
+          {
+            "navn": "Fribillet",
+            "pris": 0,
+            "solgt": 1
+          },
+          {
+            "navn": "Børnebillet",
+            "pris": 10500,
+            "solgt": 8
+          },
+          {
+            "navn": "Ledsager/Hjælper",
+            "pris": 0,
+            "solgt": 1
+          }
+        ],
+        "total_solgte_billetter": 30,
+        "total_omsaetning_øre": 334000
+      },
+      {
+        "film": {
+          "id": "46500",
+          "titel": "Super Mario Galaxy filmen - Dk Tale",
+          "land_aar": "USA / 2026",
+          "genre": "Animation/tegnefilm - Børne-/familiefilm - Eventyr - Komedie",
+          "instruktion": "Aaron Horvath, Michael Jelenic",
+          "skuespil": "Danske stemmer",
+          "udlejer": "UIP"
+        },
+        "sal": {
+          "id": "10",
+          "navn": "Sal 1 - Den Største"
+        },
+        "starttid": "13:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 12500,
+            "solgt": 27
+          },
+          {
+            "navn": "Børnebillet",
+            "pris": 9000,
+            "solgt": 1
+          },
+          {
+            "navn": "Børnebillet",
+            "pris": 10500,
+            "solgt": 17
+          },
+          {
+            "navn": "Ateam gavekort",
+            "pris": 9000,
+            "solgt": 6
+          },
+          {
+            "navn": "Cinemaxx voucher",
+            "pris": 9500,
+            "solgt": 2
+          }
+        ],
+        "total_solgte_billetter": 53,
+        "total_omsaetning_øre": 598000
+      },
+      {
+        "film": {
+          "id": "46600",
+          "titel": "GOAT - 2D Dk tale",
+          "land_aar": "USA / 2026",
+          "genre": "Komedie - Action - Animation/tegnefilm - Børne-/familiefilm",
+          "instruktion": "Tyree Dillihay, Adam Rosette",
+          "skuespil": "Danske stemmer",
+          "udlejer": "SF"
+        },
+        "sal": {
+          "id": "11",
+          "navn": "Sal 6 - Den Lilla VIP"
+        },
+        "starttid": "13:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 12500,
+            "solgt": 12
+          },
+          {
+            "navn": "Børnebillet",
+            "pris": 10500,
+            "solgt": 12
+          }
+        ],
+        "total_solgte_billetter": 24,
+        "total_omsaetning_øre": 276000
+      },
+      {
+        "film": {
+          "id": "46533",
+          "titel": "Hjem - Dk undertekster",
+          "land_aar": "Danmark / 2025",
+          "genre": "Drama",
+          "instruktion": "Marijana Jankovic",
+          "skuespil": "Marijana Jankovic, Dejan Cukic, Zlatko Buric, Jesper Christensen, Trine Dyrholm, Lene Maria Christensen, Claes Bang m.fl.",
+          "udlejer": "Nordisk"
+        },
+        "sal": {
+          "id": "6",
+          "navn": "Sal 4 - Den Lille VIP"
+        },
+        "starttid": "13:45",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 12500,
+            "solgt": 23
+          },
+          {
+            "navn": "Puregym",
+            "pris": 11250,
+            "solgt": 1
+          }
+        ],
+        "total_solgte_billetter": 24,
+        "total_omsaetning_øre": 298750
+      },
+      {
+        "film": {
+          "id": "46461",
+          "titel": "The Devil Wears Prada 2",
+          "land_aar": "USA / 2026",
+          "genre": "Drama - Komedie",
+          "instruktion": "David Frankel",
+          "skuespil": "Meryl Streep, Anne Hathaway, Emily Blunt, Stanley Tucci, Lucy Liu, Justin Theroux m.fl.",
+          "udlejer": "Buena Vista International BVI (Denmark)"
+        },
+        "sal": {
+          "id": "9",
+          "navn": "Sal 3 - Striber af Velour"
+        },
+        "starttid": "14:15",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 14000,
+            "solgt": 23
+          },
+          {
+            "navn": "Fribillet",
+            "pris": 0,
+            "solgt": 2
+          }
+        ],
+        "total_solgte_billetter": 25,
+        "total_omsaetning_øre": 322000
+      },
+      {
+        "film": {
+          "id": "46598",
+          "titel": "Fårbrydelsen - DK Tale",
+          "land_aar": "England, Irland m.fl. / 2026",
+          "genre": "Børne-/familiefilm - Komedie",
+          "instruktion": "Kyle Balda",
+          "skuespil": "Danske stemmer: Neel Rønholt, Lars Mikkelsen, Ole Boisen, Szhirley, Christian Fuhlendorff m.fl.",
+          "udlejer": "SF"
+        },
+        "sal": {
+          "id": "12",
+          "navn": "Sal 7 - Den Blå VIP"
+        },
+        "starttid": "14:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 12500,
+            "solgt": 12
+          },
+          {
+            "navn": "Fribillet",
+            "pris": 0,
+            "solgt": 5
+          },
+          {
+            "navn": "Børnebillet",
+            "pris": 10500,
+            "solgt": 10
+          },
+          {
+            "navn": "Ateam gavekort",
+            "pris": 9000,
+            "solgt": 2
+          }
+        ],
+        "total_solgte_billetter": 29,
+        "total_omsaetning_øre": 273000
+      },
+      {
+        "film": {
+          "id": "46428",
+          "titel": "Michael",
+          "land_aar": "USA / 2026",
+          "genre": "Drama",
+          "instruktion": "Antoine Fuqua",
+          "skuespil": "Jaafar Jackson, Miles Teller, Colman Domingo, Juliano Krue Valdi m.fl.",
+          "udlejer": "UIP"
+        },
+        "sal": {
+          "id": "7",
+          "navn": "Sal 2 - Den Store VIP"
+        },
+        "starttid": "14:45",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 14000,
+            "solgt": 53
+          },
+          {
+            "navn": "Ledsager/Hjælper",
+            "pris": 0,
+            "solgt": 1
+          },
+          {
+            "navn": "Ateam gavekort",
+            "pris": 10500,
+            "solgt": 5
+          }
+        ],
+        "total_solgte_billetter": 59,
+        "total_omsaetning_øre": 794500
+      },
+      {
+        "film": {
+          "id": "46324",
+          "titel": "Affektionsværdi",
+          "land_aar": "Norge / 2025",
+          "genre": "Drama",
+          "instruktion": "Joachim Trier",
+          "skuespil": "Renate Reinsve, Inga Ibsdotter Lilleaas, Stellan Skarsgård, Elle Fanning m.fl.",
+          "udlejer": "Camera"
+        },
+        "sal": {
+          "id": "8",
+          "navn": "Sal 5 - Guld og Velour"
+        },
+        "starttid": "14:45",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 14000,
+            "solgt": 3
+          },
+          {
+            "navn": "Fribillet",
+            "pris": 0,
+            "solgt": 2
+          },
+          {
+            "navn": "Biografklub DK",
+            "pris": 7000,
+            "solgt": 29
+          }
+        ],
+        "total_solgte_billetter": 34,
+        "total_omsaetning_øre": 245000
+      },
+      {
+        "film": {
+          "id": "1179009678",
+          "titel": "ENHYPEN IMMERSION",
+          "land_aar": "Sydkorea 2026c",
+          "genre": null,
+          "instruktion": null,
+          "skuespil": null,
+          "udlejer": "CJ 4DPLEX"
+        },
+        "sal": {
+          "id": "10",
+          "navn": "Sal 1 - Den Største"
+        },
+        "starttid": "16:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 12500,
+            "solgt": 94
+          },
+          {
+            "navn": "Fribillet",
+            "pris": 0,
+            "solgt": 1
+          },
+          {
+            "navn": "Ledsager/Hjælper",
+            "pris": 0,
+            "solgt": 1
+          }
+        ],
+        "total_solgte_billetter": 96,
+        "total_omsaetning_øre": 1175000
+      },
+      {
+        "film": {
+          "id": "46230",
+          "titel": "Mortal Kombat II",
+          "land_aar": "USA / 2025",
+          "genre": "Action - Eventyr",
+          "instruktion": "Simon McQuoid",
+          "skuespil": "Karl Urban, Tati Gabrielle, Damon Herriman, Hiroyuki Sanada m.fl.",
+          "udlejer": "Warner Bros. Danmark"
+        },
+        "sal": {
+          "id": "11",
+          "navn": "Sal 6 - Den Lilla VIP"
+        },
+        "starttid": "16:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 12500,
+            "solgt": 8
+          },
+          {
+            "navn": "Cinemaxx voucher",
+            "pris": 9500,
+            "solgt": 2
+          }
+        ],
+        "total_solgte_billetter": 10,
+        "total_omsaetning_øre": 119000
+      },
+      {
+        "film": {
+          "id": "46549",
+          "titel": "Mission: Bæver - Dk Tale",
+          "land_aar": "USA / 2026",
+          "genre": "Animation/tegnefilm - Børne-/familiefilm - Eventyr - Komedie",
+          "instruktion": "Daniel Chong",
+          "skuespil": "Danske stemmer",
+          "udlejer": "Buena Vista International BVI (Denmark)"
+        },
+        "sal": {
+          "id": "6",
+          "navn": "Sal 4 - Den Lille VIP"
+        },
+        "starttid": "16:15",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 12500,
+            "solgt": 21
+          },
+          {
+            "navn": "Ledsager/Hjælper",
+            "pris": 0,
+            "solgt": 1
+          }
+        ],
+        "total_solgte_billetter": 22,
+        "total_omsaetning_øre": 262500
+      },
+      {
+        "film": {
+          "id": "46521",
+          "titel": "Project Hail Mary",
+          "land_aar": "USA / 2026",
+          "genre": "Drama - Thriller",
+          "instruktion": "Phil Lord, Christopher Miller",
+          "skuespil": "Ryan Gosling, Sandra Hüller, Liz Kingsman, James Ortiz m.fl.",
+          "udlejer": "SF"
+        },
+        "sal": {
+          "id": "12",
+          "navn": "Sal 7 - Den Blå VIP"
+        },
+        "starttid": "17:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 15500,
+            "solgt": 20
+          },
+          {
+            "navn": "Ledsager/Hjælper",
+            "pris": 0,
+            "solgt": 1
+          }
+        ],
+        "total_solgte_billetter": 21,
+        "total_omsaetning_øre": 310000
+      },
+      {
+        "film": {
+          "id": "46461",
+          "titel": "The Devil Wears Prada 2",
+          "land_aar": "USA / 2026",
+          "genre": "Drama - Komedie",
+          "instruktion": "David Frankel",
+          "skuespil": "Meryl Streep, Anne Hathaway, Emily Blunt, Stanley Tucci, Lucy Liu, Justin Theroux m.fl.",
+          "udlejer": "Buena Vista International BVI (Denmark)"
+        },
+        "sal": {
+          "id": "9",
+          "navn": "Sal 3 - Striber af Velour"
+        },
+        "starttid": "17:15",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 14000,
+            "solgt": 28
+          },
+          {
+            "navn": "Ateam gavekort",
+            "pris": 10500,
+            "solgt": 2
+          }
+        ],
+        "total_solgte_billetter": 30,
+        "total_omsaetning_øre": 413000
+      },
+      {
+        "film": {
+          "id": "46428",
+          "titel": "Michael",
+          "land_aar": "USA / 2026",
+          "genre": "Drama",
+          "instruktion": "Antoine Fuqua",
+          "skuespil": "Jaafar Jackson, Miles Teller, Colman Domingo, Juliano Krue Valdi m.fl.",
+          "udlejer": "UIP"
+        },
+        "sal": {
+          "id": "10",
+          "navn": "Sal 1 - Den Største"
+        },
+        "starttid": "17:45",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 14000,
+            "solgt": 82
+          },
+          {
+            "navn": "Fribillet",
+            "pris": 0,
+            "solgt": 2
+          },
+          {
+            "navn": "Ateam gavekort",
+            "pris": 10500,
+            "solgt": 6
+          },
+          {
+            "navn": "Cinemaxx voucher",
+            "pris": 10500,
+            "solgt": 6
+          }
+        ],
+        "total_solgte_billetter": 96,
+        "total_omsaetning_øre": 1274000
+      },
+      {
+        "film": {
+          "id": "46582",
+          "titel": "Billie Eilish: Hit Me Hard and Soft - 3D",
+          "land_aar": "USA / 2025",
+          "genre": null,
+          "instruktion": "James Cameron, Billie Eilish",
+          "skuespil": "Billie Eilish",
+          "udlejer": "UIP"
+        },
+        "sal": {
+          "id": "7",
+          "navn": "Sal 2 - Den Store VIP"
+        },
+        "starttid": "17:45",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 14000,
+            "solgt": 13
+          }
+        ],
+        "total_solgte_billetter": 13,
+        "total_omsaetning_øre": 182000
+      },
+      {
+        "film": {
+          "id": "46500",
+          "titel": "Super Mario Galaxy filmen - Dk Tale",
+          "land_aar": "USA / 2026",
+          "genre": "Animation/tegnefilm - Børne-/familiefilm - Eventyr - Komedie",
+          "instruktion": "Aaron Horvath, Michael Jelenic",
+          "skuespil": "Danske stemmer",
+          "udlejer": "UIP"
+        },
+        "sal": {
+          "id": "8",
+          "navn": "Sal 5 - Guld og Velour"
+        },
+        "starttid": "17:45",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 12500,
+            "solgt": 16
+          },
+          {
+            "navn": "Børnebillet",
+            "pris": 10500,
+            "solgt": 12
+          },
+          {
+            "navn": "Ateam gavekort",
+            "pris": 9500,
+            "solgt": 2
+          },
+          {
+            "navn": "Cinemaxx voucher",
+            "pris": 9500,
+            "solgt": 2
+          }
+        ],
+        "total_solgte_billetter": 32,
+        "total_omsaetning_øre": 364000
+      },
+      {
+        "film": {
+          "id": "46230",
+          "titel": "Mortal Kombat II",
+          "land_aar": "USA / 2025",
+          "genre": "Action - Eventyr",
+          "instruktion": "Simon McQuoid",
+          "skuespil": "Karl Urban, Tati Gabrielle, Damon Herriman, Hiroyuki Sanada m.fl.",
+          "udlejer": "Warner Bros. Danmark"
+        },
+        "sal": {
+          "id": "11",
+          "navn": "Sal 6 - Den Lilla VIP"
+        },
+        "starttid": "18:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 12500,
+            "solgt": 22
+          }
+        ],
+        "total_solgte_billetter": 22,
+        "total_omsaetning_øre": 275000
+      },
+      {
+        "film": {
+          "id": "46701",
+          "titel": "Iron Maiden: Burning Ambition",
+          "land_aar": "USA, England / 2026",
+          "genre": "Dokumentar",
+          "instruktion": "Malcolm Venville",
+          "skuespil": "Iron Maiden",
+          "udlejer": "UIP"
+        },
+        "sal": {
+          "id": "6",
+          "navn": "Sal 4 - Den Lille VIP"
+        },
+        "starttid": "18:45",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 12500,
+            "solgt": 2
+          }
+        ],
+        "total_solgte_billetter": 2,
+        "total_omsaetning_øre": 25000
+      },
+      {
+        "film": {
+          "id": "1179009778",
+          "titel": "Paral ko aago",
+          "land_aar": "Nepal 2026",
+          "genre": "Drama",
+          "instruktion": "Laxman Sunwar",
+          "skuespil": "Saugat Malla, Suhana Thapa, Prakash Saput, Srijana Adhikari",
+          "udlejer": "EuroNepal Events ApS"
+        },
+        "sal": {
+          "id": "9",
+          "navn": "Sal 3 - Striber af Velour"
+        },
+        "starttid": "20:15",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 14000,
+            "solgt": 46
+          },
+          {
+            "navn": "Fribillet",
+            "pris": 0,
+            "solgt": 3
+          }
+        ],
+        "total_solgte_billetter": 49,
+        "total_omsaetning_øre": 644000
+      },
+      {
+        "film": {
+          "id": "46678",
+          "titel": "In the Grey",
+          "land_aar": "England, USA / 2026",
+          "genre": "Action - Thriller",
+          "instruktion": "Guy Ritchie",
+          "skuespil": "Jake Gyllenhaal, Henry Cavill, Eiza Gonzalez, Rosamund Pike, Jason Wong",
+          "udlejer": "Nordisk"
+        },
+        "sal": {
+          "id": "12",
+          "navn": "Sal 7 - Den Blå VIP"
+        },
+        "starttid": "20:15",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 12500,
+            "solgt": 9
+          },
+          {
+            "navn": "Fribillet",
+            "pris": 0,
+            "solgt": 2
+          }
+        ],
+        "total_solgte_billetter": 11,
+        "total_omsaetning_øre": 112500
+      },
+      {
+        "film": {
+          "id": "1999010159",
+          "titel": "Karuppu",
+          "land_aar": "Indien / 2026",
+          "genre": "Action - Drama",
+          "instruktion": "RJ Balaji",
+          "skuespil": "Suriya, Trisha Krishnan, Swasika Vijay m.fl.",
+          "udlejer": "Ayngaran"
+        },
+        "sal": {
+          "id": "8",
+          "navn": "Sal 5 - Guld og Velour"
+        },
+        "starttid": "20:15",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 15500,
+            "solgt": 77
+          },
+          {
+            "navn": "Ledsager/Hjælper",
+            "pris": 0,
+            "solgt": 1
+          }
+        ],
+        "total_solgte_billetter": 78,
+        "total_omsaetning_øre": 1193500
+      },
+      {
+        "film": {
+          "id": "46428",
+          "titel": "Michael",
+          "land_aar": "USA / 2026",
+          "genre": "Drama",
+          "instruktion": "Antoine Fuqua",
+          "skuespil": "Jaafar Jackson, Miles Teller, Colman Domingo, Juliano Krue Valdi m.fl.",
+          "udlejer": "UIP"
+        },
+        "sal": {
+          "id": "10",
+          "navn": "Sal 1 - Den Største"
+        },
+        "starttid": "20:45",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 14000,
+            "solgt": 64
+          },
+          {
+            "navn": "Fribillet",
+            "pris": 0,
+            "solgt": 3
+          },
+          {
+            "navn": "Atlaskort",
+            "pris": 0,
+            "solgt": 2
+          },
+          {
+            "navn": "Atlaskort",
+            "pris": 10400,
+            "solgt": 2
+          },
+          {
+            "navn": "Atlaskort",
+            "pris": 12600,
+            "solgt": 1
+          },
+          {
+            "navn": "Ateam gavekort",
+            "pris": 10500,
+            "solgt": 2
+          },
+          {
+            "navn": "Ateam gavekort",
+            "pris": 13000,
+            "solgt": 2
+          }
+        ],
+        "total_solgte_billetter": 76,
+        "total_omsaetning_øre": 976400
+      },
+      {
+        "film": {
+          "id": "46461",
+          "titel": "The Devil Wears Prada 2",
+          "land_aar": "USA / 2026",
+          "genre": "Drama - Komedie",
+          "instruktion": "David Frankel",
+          "skuespil": "Meryl Streep, Anne Hathaway, Emily Blunt, Stanley Tucci, Lucy Liu, Justin Theroux m.fl.",
+          "udlejer": "Buena Vista International BVI (Denmark)"
+        },
+        "sal": {
+          "id": "7",
+          "navn": "Sal 2 - Den Store VIP"
+        },
+        "starttid": "20:45",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 14000,
+            "solgt": 11
+          },
+          {
+            "navn": "Cinemaxx voucher",
+            "pris": 10500,
+            "solgt": 2
+          }
+        ],
+        "total_solgte_billetter": 13,
+        "total_omsaetning_øre": 175000
+      },
+      {
+        "film": {
+          "id": "46552",
+          "titel": "Obsession",
+          "land_aar": "USA / 2025",
+          "genre": "Gyser",
+          "instruktion": "Curry Barker",
+          "skuespil": "Michael Johnston, Cooper Tomlinson, Inde Navarrette, Megan Lawless, Haley Fitzgerald m.fl.",
+          "udlejer": "UIP"
+        },
+        "sal": {
+          "id": "6",
+          "navn": "Sal 4 - Den Lille VIP"
+        },
+        "starttid": "21:15",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 12500,
+            "solgt": 17
+          }
+        ],
+        "total_solgte_billetter": 17,
+        "total_omsaetning_øre": 212500
+      },
+      {
+        "film": {
+          "id": "1179009766",
+          "titel": "Siccin 9",
+          "land_aar": "Tyrkiet 2026",
+          "genre": "Gyser",
+          "instruktion": "Alper Mestçi",
+          "skuespil": null,
+          "udlejer": "Cinedex"
+        },
+        "sal": {
+          "id": "11",
+          "navn": "Sal 6 - Den Lilla VIP"
+        },
+        "starttid": "21:15",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 12500,
+            "solgt": 29
+          },
+          {
+            "navn": "Ateam gavekort",
+            "pris": 9000,
+            "solgt": 3
+          }
+        ],
+        "total_solgte_billetter": 32,
+        "total_omsaetning_øre": 389500
+      }
+    ]
   }
 ]

@@ -19361,5 +19361,861 @@
         "total_omsaetning_øre": 140000
       }
     ]
+  },
+  {
+    "dato": "2026-05-24",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 29,
+    "forestillinger": [
+      {
+        "film": {
+          "id": "44982",
+          "titel": "Mus og Ræv i den syvende himmel",
+          "land_aar": "Frankrig / Polen, 2021",
+          "genre": "Komedie - Animation/tegnefilm - Børne-/familiefilm - Eventyr",
+          "instruktion": "Jan Bubenicek, Denisa Grimmova",
+          "skuespil": "Danske stemmer",
+          "udlejer": "Angel Distribution A/S"
+        },
+        "sal": {
+          "id": "8",
+          "navn": "Sal 5 - Guld og Velour"
+        },
+        "starttid": "11:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      },
+      {
+        "film": {
+          "id": "46500",
+          "titel": "Super Mario Galaxy filmen - Dk Tale",
+          "land_aar": "USA / 2026",
+          "genre": "Animation/tegnefilm - Børne-/familiefilm - Eventyr - Komedie",
+          "instruktion": "Aaron Horvath, Michael Jelenic",
+          "skuespil": "Danske stemmer",
+          "udlejer": "UIP"
+        },
+        "sal": {
+          "id": "10",
+          "navn": "Sal 1 - Den Største"
+        },
+        "starttid": "11:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 12500,
+            "solgt": 3
+          },
+          {
+            "navn": "Børnebillet",
+            "pris": 10500,
+            "solgt": 3
+          }
+        ],
+        "total_solgte_billetter": 6,
+        "total_omsaetning_øre": 69000
+      },
+      {
+        "film": {
+          "id": "46600",
+          "titel": "GOAT - 2D Dk tale",
+          "land_aar": "USA / 2026",
+          "genre": "Action - Animation/tegnefilm - Børne-/familiefilm - Komedie",
+          "instruktion": "Tyree Dillihay, Adam Rosette",
+          "skuespil": "Danske stemmer",
+          "udlejer": "SF"
+        },
+        "sal": {
+          "id": "12",
+          "navn": "Sal 7 - Den Blå VIP"
+        },
+        "starttid": "11:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 12500,
+            "solgt": 2
+          },
+          {
+            "navn": "Børnebillet",
+            "pris": 10500,
+            "solgt": 2
+          }
+        ],
+        "total_solgte_billetter": 4,
+        "total_omsaetning_øre": 46000
+      },
+      {
+        "film": {
+          "id": "46462",
+          "titel": "Star Wars: The Mandalorian and Grogu 2D",
+          "land_aar": "USA / 2026",
+          "genre": "Action - Eventyr",
+          "instruktion": "Jon Favreau",
+          "skuespil": "Pedro Pascal, Sigourney Weaver, Jonny Coyne, Jeremy Allen White m.fl.",
+          "udlejer": "Buena Vista International BVI (Denmark)"
+        },
+        "sal": {
+          "id": "9",
+          "navn": "Sal 3 - Striber af Velour"
+        },
+        "starttid": "11:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 14000,
+            "solgt": 4
+          }
+        ],
+        "total_solgte_billetter": 4,
+        "total_omsaetning_øre": 56000
+      },
+      {
+        "film": {
+          "id": "46184",
+          "titel": "Dragens Vogter",
+          "land_aar": "Kina, Spanien / 2024",
+          "genre": "Animation/tegnefilm - Børne-/familiefilm - Eventyr",
+          "instruktion": "Jianping Li, Salvador Simo",
+          "skuespil": "Seide Nøiers, Alexandre Willaume, Carsten Svendsen, Nicolai Jørgensen",
+          "udlejer": "Another World Entertainment ApS"
+        },
+        "sal": {
+          "id": "6",
+          "navn": "Sal 4 - Den Lille VIP"
+        },
+        "starttid": "12:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 12500,
+            "solgt": 2
+          },
+          {
+            "navn": "Ateam gavekort",
+            "pris": 9000,
+            "solgt": 2
+          }
+        ],
+        "total_solgte_billetter": 4,
+        "total_omsaetning_øre": 43000
+      },
+      {
+        "film": {
+          "id": "1999010082",
+          "titel": "Drishyam 3",
+          "land_aar": "Indien / 2026",
+          "genre": "Thriller",
+          "instruktion": "Jeethu Joseph",
+          "skuespil": "Mohanlal, Meena, Ansiba Hassan, Esther Anil",
+          "udlejer": "Ayngaran"
+        },
+        "sal": {
+          "id": "11",
+          "navn": "Sal 6 - Den Lilla VIP"
+        },
+        "starttid": "12:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 15500,
+            "solgt": 36
+          },
+          {
+            "navn": "Loyalitet 2.0",
+            "pris": 0,
+            "solgt": 2
+          }
+        ],
+        "total_solgte_billetter": 38,
+        "total_omsaetning_øre": 558000
+      },
+      {
+        "film": {
+          "id": "46462",
+          "titel": "Star Wars: The Mandalorian and Grogu 2D",
+          "land_aar": "USA / 2026",
+          "genre": "Action - Eventyr",
+          "instruktion": "Jon Favreau",
+          "skuespil": "Pedro Pascal, Sigourney Weaver, Jonny Coyne, Jeremy Allen White m.fl.",
+          "udlejer": "Buena Vista International BVI (Denmark)"
+        },
+        "sal": {
+          "id": "7",
+          "navn": "Sal 2 - Den Store VIP"
+        },
+        "starttid": "12:20",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 14000,
+            "solgt": 5
+          }
+        ],
+        "total_solgte_billetter": 5,
+        "total_omsaetning_øre": 70000
+      },
+      {
+        "film": {
+          "id": "46462",
+          "titel": "Star Wars: The Mandalorian and Grogu 2D",
+          "land_aar": "USA / 2026",
+          "genre": "Action - Eventyr",
+          "instruktion": "Jon Favreau",
+          "skuespil": "Pedro Pascal, Sigourney Weaver, Jonny Coyne, Jeremy Allen White m.fl.",
+          "udlejer": "Buena Vista International BVI (Denmark)"
+        },
+        "sal": {
+          "id": "10",
+          "navn": "Sal 1 - Den Største"
+        },
+        "starttid": "13:20",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 14000,
+            "solgt": 19
+          }
+        ],
+        "total_solgte_billetter": 19,
+        "total_omsaetning_øre": 266000
+      },
+      {
+        "film": {
+          "id": "46549",
+          "titel": "Mission: Bæver - Dk Tale",
+          "land_aar": "USA / 2026",
+          "genre": "Animation/tegnefilm - Børne-/familiefilm - Eventyr - Komedie",
+          "instruktion": "Daniel Chong",
+          "skuespil": "Danske stemmer",
+          "udlejer": "Buena Vista International BVI (Denmark)"
+        },
+        "sal": {
+          "id": "12",
+          "navn": "Sal 7 - Den Blå VIP"
+        },
+        "starttid": "13:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 12500,
+            "solgt": 2
+          },
+          {
+            "navn": "Børnebillet",
+            "pris": 10500,
+            "solgt": 2
+          }
+        ],
+        "total_solgte_billetter": 4,
+        "total_omsaetning_øre": 46000
+      },
+      {
+        "film": {
+          "id": "1179009775",
+          "titel": "2026 TXT MOA CON IN JAPAN: LIVE VIEWING",
+          "land_aar": "Japan 2026",
+          "genre": null,
+          "instruktion": "HYBE & BIGHIT MUSIC",
+          "skuespil": "TOMORROW X TOGETHER",
+          "udlejer": "Trafalgar Releasing"
+        },
+        "sal": {
+          "id": "9",
+          "navn": "Sal 3 - Striber af Velour"
+        },
+        "starttid": "14:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 19000,
+            "solgt": 2
+          }
+        ],
+        "total_solgte_billetter": 2,
+        "total_omsaetning_øre": 38000
+      },
+      {
+        "film": {
+          "id": "46428",
+          "titel": "Michael",
+          "land_aar": "USA / 2026",
+          "genre": "Drama",
+          "instruktion": "Antoine Fuqua",
+          "skuespil": "Jaafar Jackson, Miles Teller, Colman Domingo, Juliano Krue Valdi m.fl.",
+          "udlejer": "UIP"
+        },
+        "sal": {
+          "id": "8",
+          "navn": "Sal 5 - Guld og Velour"
+        },
+        "starttid": "14:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 14000,
+            "solgt": 28
+          },
+          {
+            "navn": "Ledsager/Hjælper",
+            "pris": 0,
+            "solgt": 1
+          },
+          {
+            "navn": "Ateam gavekort",
+            "pris": 10500,
+            "solgt": 2
+          }
+        ],
+        "total_solgte_billetter": 31,
+        "total_omsaetning_øre": 413000
+      },
+      {
+        "film": {
+          "id": "1179009767",
+          "titel": "571 Rahmet Peygamberi Hz. Muhammed (sas)",
+          "land_aar": "Tyrkiet 2026",
+          "genre": "Børne-/familiefilm",
+          "instruktion": "Yunus Emre Cakir",
+          "skuespil": null,
+          "udlejer": "Cinedex"
+        },
+        "sal": {
+          "id": "6",
+          "navn": "Sal 4 - Den Lille VIP"
+        },
+        "starttid": "14:20",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 12500,
+            "solgt": 2
+          }
+        ],
+        "total_solgte_billetter": 2,
+        "total_omsaetning_øre": 25000
+      },
+      {
+        "film": {
+          "id": "46757",
+          "titel": "Star Wars: The Mandalorian and Grogu 3D",
+          "land_aar": "USA / 2026",
+          "genre": "Eventyr - Action",
+          "instruktion": "Jon Favreau",
+          "skuespil": "Pedro Pascal, Sigourney Weaver, Jonny Coyne, Jeremy Allen White m.fl.",
+          "udlejer": "Buena Vista International BVI (Denmark)"
+        },
+        "sal": {
+          "id": "7",
+          "navn": "Sal 2 - Den Store VIP"
+        },
+        "starttid": "15:20",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 14000,
+            "solgt": 8
+          },
+          {
+            "navn": "Ateam gavekort",
+            "pris": 11400,
+            "solgt": 2
+          },
+          {
+            "navn": "Ateam gavekort",
+            "pris": 14000,
+            "solgt": 1
+          }
+        ],
+        "total_solgte_billetter": 11,
+        "total_omsaetning_øre": 148800
+      },
+      {
+        "film": {
+          "id": "46461",
+          "titel": "The Devil Wears Prada 2",
+          "land_aar": "USA / 2026",
+          "genre": "Drama - Komedie",
+          "instruktion": "David Frankel",
+          "skuespil": "Meryl Streep, Anne Hathaway, Emily Blunt, Stanley Tucci, Lucy Liu, Justin Theroux m.fl.",
+          "udlejer": "Buena Vista International BVI (Denmark)"
+        },
+        "sal": {
+          "id": "12",
+          "navn": "Sal 7 - Den Blå VIP"
+        },
+        "starttid": "16:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 14000,
+            "solgt": 17
+          },
+          {
+            "navn": "Ateam gavekort",
+            "pris": 11400,
+            "solgt": 2
+          },
+          {
+            "navn": "Cinemaxx voucher",
+            "pris": 10500,
+            "solgt": 1
+          }
+        ],
+        "total_solgte_billetter": 20,
+        "total_omsaetning_øre": 271300
+      },
+      {
+        "film": {
+          "id": "46500",
+          "titel": "Super Mario Galaxy filmen - Dk Tale",
+          "land_aar": "USA / 2026",
+          "genre": "Animation/tegnefilm - Børne-/familiefilm - Eventyr - Komedie",
+          "instruktion": "Aaron Horvath, Michael Jelenic",
+          "skuespil": "Danske stemmer",
+          "udlejer": "UIP"
+        },
+        "sal": {
+          "id": "11",
+          "navn": "Sal 6 - Den Lilla VIP"
+        },
+        "starttid": "16:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 12500,
+            "solgt": 11
+          },
+          {
+            "navn": "Børnebillet",
+            "pris": 10500,
+            "solgt": 7
+          }
+        ],
+        "total_solgte_billetter": 18,
+        "total_omsaetning_øre": 211000
+      },
+      {
+        "film": {
+          "id": "46462",
+          "titel": "Star Wars: The Mandalorian and Grogu 2D",
+          "land_aar": "USA / 2026",
+          "genre": "Action - Eventyr",
+          "instruktion": "Jon Favreau",
+          "skuespil": "Pedro Pascal, Sigourney Weaver, Jonny Coyne, Jeremy Allen White m.fl.",
+          "udlejer": "Buena Vista International BVI (Denmark)"
+        },
+        "sal": {
+          "id": "10",
+          "navn": "Sal 1 - Den Største"
+        },
+        "starttid": "16:20",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 14000,
+            "solgt": 15
+          },
+          {
+            "navn": "Fribillet",
+            "pris": 0,
+            "solgt": 3
+          }
+        ],
+        "total_solgte_billetter": 18,
+        "total_omsaetning_øre": 210000
+      },
+      {
+        "film": {
+          "id": "46600",
+          "titel": "GOAT - 2D Dk tale",
+          "land_aar": "USA / 2026",
+          "genre": "Børne-/familiefilm - Komedie - Action - Animation/tegnefilm",
+          "instruktion": "Tyree Dillihay, Adam Rosette",
+          "skuespil": "Danske stemmer",
+          "udlejer": "SF"
+        },
+        "sal": {
+          "id": "6",
+          "navn": "Sal 4 - Den Lille VIP"
+        },
+        "starttid": "16:20",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 12500,
+            "solgt": 1
+          },
+          {
+            "navn": "Børnebillet",
+            "pris": 10500,
+            "solgt": 1
+          }
+        ],
+        "total_solgte_billetter": 2,
+        "total_omsaetning_øre": 23000
+      },
+      {
+        "film": {
+          "id": "46462",
+          "titel": "Star Wars: The Mandalorian and Grogu 2D",
+          "land_aar": "USA / 2026",
+          "genre": "Action - Eventyr",
+          "instruktion": "Jon Favreau",
+          "skuespil": "Pedro Pascal, Sigourney Weaver, Jonny Coyne, Jeremy Allen White m.fl.",
+          "udlejer": "Buena Vista International BVI (Denmark)"
+        },
+        "sal": {
+          "id": "8",
+          "navn": "Sal 5 - Guld og Velour"
+        },
+        "starttid": "17:20",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 14000,
+            "solgt": 12
+          }
+        ],
+        "total_solgte_billetter": 12,
+        "total_omsaetning_øre": 168000
+      },
+      {
+        "film": {
+          "id": "46428",
+          "titel": "Michael",
+          "land_aar": "USA / 2026",
+          "genre": "Drama",
+          "instruktion": "Antoine Fuqua",
+          "skuespil": "Jaafar Jackson, Miles Teller, Colman Domingo, Juliano Krue Valdi m.fl.",
+          "udlejer": "UIP"
+        },
+        "sal": {
+          "id": "7",
+          "navn": "Sal 2 - Den Store VIP"
+        },
+        "starttid": "18:20",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 14000,
+            "solgt": 16
+          },
+          {
+            "navn": "Ledsager/Hjælper",
+            "pris": 0,
+            "solgt": 1
+          },
+          {
+            "navn": "Ateam gavekort",
+            "pris": 10500,
+            "solgt": 4
+          }
+        ],
+        "total_solgte_billetter": 21,
+        "total_omsaetning_øre": 266000
+      },
+      {
+        "film": {
+          "id": "46326",
+          "titel": "Eleanors sandhed",
+          "land_aar": "USA / 2025",
+          "genre": "Drama",
+          "instruktion": "Scarlett Johansson",
+          "skuespil": "June Squibb, Erin Kellyman, Chiwetel Ejiofor, Jessica Hecht m.fl.",
+          "udlejer": "SF"
+        },
+        "sal": {
+          "id": "9",
+          "navn": "Sal 3 - Striber af Velour"
+        },
+        "starttid": "18:20",
+        "billetkategorier": [
+          {
+            "navn": "Biografklub DK",
+            "pris": 6250,
+            "solgt": 2
+          }
+        ],
+        "total_solgte_billetter": 2,
+        "total_omsaetning_øre": 12500
+      },
+      {
+        "film": {
+          "id": "46230",
+          "titel": "Mortal Kombat II",
+          "land_aar": "USA / 2025",
+          "genre": "Action - Eventyr",
+          "instruktion": "Simon McQuoid",
+          "skuespil": "Karl Urban, Tati Gabrielle, Damon Herriman, Hiroyuki Sanada m.fl.",
+          "udlejer": "Warner Bros. Danmark"
+        },
+        "sal": {
+          "id": "11",
+          "navn": "Sal 6 - Den Lilla VIP"
+        },
+        "starttid": "18:20",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 12500,
+            "solgt": 7
+          },
+          {
+            "navn": "Ateam gavekort",
+            "pris": 12500,
+            "solgt": 2
+          }
+        ],
+        "total_solgte_billetter": 9,
+        "total_omsaetning_øre": 112500
+      },
+      {
+        "film": {
+          "id": "46617",
+          "titel": "Passenger",
+          "land_aar": "USA / 2026",
+          "genre": "Gyser",
+          "instruktion": "André Øvredal",
+          "skuespil": "Jacob Scipio, Lou Llobell, Melissa Leo m.fl.",
+          "udlejer": "UIP"
+        },
+        "sal": {
+          "id": "6",
+          "navn": "Sal 4 - Den Lille VIP"
+        },
+        "starttid": "18:40",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 12500,
+            "solgt": 5
+          },
+          {
+            "navn": "Ledsager/Hjælper",
+            "pris": 0,
+            "solgt": 1
+          }
+        ],
+        "total_solgte_billetter": 6,
+        "total_omsaetning_øre": 62500
+      },
+      {
+        "film": {
+          "id": "1179009778",
+          "titel": "Paral ko aago",
+          "land_aar": "Nepal 2026",
+          "genre": "Drama",
+          "instruktion": "Laxman Sunwar",
+          "skuespil": "Saugat Malla, Suhana Thapa, Prakash Saput, Srijana Adhikari",
+          "udlejer": "EuroNepal Events ApS"
+        },
+        "sal": {
+          "id": "12",
+          "navn": "Sal 7 - Den Blå VIP"
+        },
+        "starttid": "19:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 15500,
+            "solgt": 5
+          }
+        ],
+        "total_solgte_billetter": 5,
+        "total_omsaetning_øre": 77500
+      },
+      {
+        "film": {
+          "id": "46462",
+          "titel": "Star Wars: The Mandalorian and Grogu 2D",
+          "land_aar": "USA / 2026",
+          "genre": "Action - Eventyr",
+          "instruktion": "Jon Favreau",
+          "skuespil": "Pedro Pascal, Sigourney Weaver, Jonny Coyne, Jeremy Allen White m.fl.",
+          "udlejer": "Buena Vista International BVI (Denmark)"
+        },
+        "sal": {
+          "id": "10",
+          "navn": "Sal 1 - Den Største"
+        },
+        "starttid": "19:20",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 14000,
+            "solgt": 44
+          },
+          {
+            "navn": "Cinemaxx voucher",
+            "pris": 10500,
+            "solgt": 2
+          }
+        ],
+        "total_solgte_billetter": 46,
+        "total_omsaetning_øre": 637000
+      },
+      {
+        "film": {
+          "id": "46462",
+          "titel": "Star Wars: The Mandalorian and Grogu 2D",
+          "land_aar": "USA / 2026",
+          "genre": "Action - Eventyr",
+          "instruktion": "Jon Favreau",
+          "skuespil": "Pedro Pascal, Sigourney Weaver, Jonny Coyne, Jeremy Allen White m.fl.",
+          "udlejer": "Buena Vista International BVI (Denmark)"
+        },
+        "sal": {
+          "id": "9",
+          "navn": "Sal 3 - Striber af Velour"
+        },
+        "starttid": "20:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 14000,
+            "solgt": 3
+          }
+        ],
+        "total_solgte_billetter": 3,
+        "total_omsaetning_øre": 42000
+      },
+      {
+        "film": {
+          "id": "46428",
+          "titel": "Michael",
+          "land_aar": "USA / 2026",
+          "genre": "Drama",
+          "instruktion": "Antoine Fuqua",
+          "skuespil": "Jaafar Jackson, Miles Teller, Colman Domingo, Juliano Krue Valdi m.fl.",
+          "udlejer": "UIP"
+        },
+        "sal": {
+          "id": "8",
+          "navn": "Sal 5 - Guld og Velour"
+        },
+        "starttid": "20:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 14000,
+            "solgt": 49
+          },
+          {
+            "navn": "Ledsager/Hjælper",
+            "pris": 0,
+            "solgt": 1
+          },
+          {
+            "navn": "Loyalitet 2.0",
+            "pris": 0,
+            "solgt": 2
+          },
+          {
+            "navn": "Puregym",
+            "pris": 12600,
+            "solgt": 2
+          }
+        ],
+        "total_solgte_billetter": 54,
+        "total_omsaetning_øre": 711200
+      },
+      {
+        "film": {
+          "id": "1179009766",
+          "titel": "Siccin 9",
+          "land_aar": "Tyrkiet 2026",
+          "genre": "Gyser",
+          "instruktion": "Alper Mestçi",
+          "skuespil": null,
+          "udlejer": "Cinedex"
+        },
+        "sal": {
+          "id": "6",
+          "navn": "Sal 4 - Den Lille VIP"
+        },
+        "starttid": "21:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 12500,
+            "solgt": 13
+          }
+        ],
+        "total_solgte_billetter": 13,
+        "total_omsaetning_øre": 162500
+      },
+      {
+        "film": {
+          "id": "46461",
+          "titel": "The Devil Wears Prada 2",
+          "land_aar": "USA / 2026",
+          "genre": "Drama - Komedie",
+          "instruktion": "David Frankel",
+          "skuespil": "Meryl Streep, Anne Hathaway, Emily Blunt, Stanley Tucci, Lucy Liu, Justin Theroux m.fl.",
+          "udlejer": "Buena Vista International BVI (Denmark)"
+        },
+        "sal": {
+          "id": "11",
+          "navn": "Sal 6 - Den Lilla VIP"
+        },
+        "starttid": "21:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 14000,
+            "solgt": 15
+          },
+          {
+            "navn": "Atlaskort",
+            "pris": 0,
+            "solgt": 2
+          }
+        ],
+        "total_solgte_billetter": 17,
+        "total_omsaetning_øre": 210000
+      },
+      {
+        "film": {
+          "id": "46462",
+          "titel": "Star Wars: The Mandalorian and Grogu 2D",
+          "land_aar": "USA / 2026",
+          "genre": "Action - Eventyr",
+          "instruktion": "Jon Favreau",
+          "skuespil": "Pedro Pascal, Sigourney Weaver, Jonny Coyne, Jeremy Allen White m.fl.",
+          "udlejer": "Buena Vista International BVI (Denmark)"
+        },
+        "sal": {
+          "id": "7",
+          "navn": "Sal 2 - Den Store VIP"
+        },
+        "starttid": "21:20",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 14000,
+            "solgt": 4
+          },
+          {
+            "navn": "Cinemaxx voucher",
+            "pris": 10500,
+            "solgt": 2
+          }
+        ],
+        "total_solgte_billetter": 6,
+        "total_omsaetning_øre": 77000
+      }
+    ]
   }
 ]

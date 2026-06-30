@@ -22236,5 +22236,661 @@
         "total_omsaetning_øre": 37500
       }
     ]
+  },
+  {
+    "dato": "2026-06-29",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 21,
+    "forestillinger": [
+      {
+        "film": {
+          "id": "46533",
+          "titel": "Hjem - Dk undertekster",
+          "land_aar": "Danmark / 2025",
+          "genre": "Drama",
+          "instruktion": "Marijana Jankovic",
+          "skuespil": "Marijana Jankovic, Dejan Cukic, Zlatko Buric, Jesper Christensen, Trine Dyrholm, Lene Maria Christensen, Claes Bang m.fl.",
+          "udlejer": "Nordisk"
+        },
+        "sal": {
+          "id": "10",
+          "navn": "Sal 1 - Den Største"
+        },
+        "starttid": "13:00",
+        "billetkategorier": [
+          {
+            "navn": "Fribillet",
+            "pris": 0,
+            "solgt": 5
+          },
+          {
+            "navn": "Faglige Seniorer",
+            "pris": 6700,
+            "solgt": 170
+          }
+        ],
+        "total_solgte_billetter": 175,
+        "total_omsaetning_øre": 1139000
+      },
+      {
+        "film": {
+          "id": "46664",
+          "titel": "Vores Løfte - Dk undertekster",
+          "land_aar": "Danmark / 2026",
+          "genre": "Drama",
+          "instruktion": "Pernille Fischer Christensen",
+          "skuespil": "Danica Curcic, Lars Ranthe, Sofie Torp, Rasmus Botoft m.fl.",
+          "udlejer": "Nordisk"
+        },
+        "sal": {
+          "id": "7",
+          "navn": "Sal 2 - Den Store VIP"
+        },
+        "starttid": "13:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 12500,
+            "solgt": 2
+          },
+          {
+            "navn": "Biografklub DK",
+            "pris": 6250,
+            "solgt": 23
+          },
+          {
+            "navn": "Seniorbillet",
+            "pris": 11000,
+            "solgt": 2
+          }
+        ],
+        "total_solgte_billetter": 27,
+        "total_omsaetning_øre": 190750
+      },
+      {
+        "film": {
+          "id": "46326",
+          "titel": "Eleanors sandhed",
+          "land_aar": "USA / 2025",
+          "genre": "Drama",
+          "instruktion": "Scarlett Johansson",
+          "skuespil": "June Squibb, Erin Kellyman, Chiwetel Ejiofor, Jessica Hecht m.fl.",
+          "udlejer": "SF"
+        },
+        "sal": {
+          "id": "8",
+          "navn": "Sal 5 - Guld og Velour"
+        },
+        "starttid": "13:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 12500,
+            "solgt": 1
+          },
+          {
+            "navn": "Biografklub DK",
+            "pris": 6250,
+            "solgt": 5
+          },
+          {
+            "navn": "Seniorbillet",
+            "pris": 11000,
+            "solgt": 4
+          }
+        ],
+        "total_solgte_billetter": 10,
+        "total_omsaetning_øre": 87750
+      },
+      {
+        "film": {
+          "id": "46523",
+          "titel": "Masters of the Universe",
+          "land_aar": "USA / 2026",
+          "genre": "Action - Eventyr",
+          "instruktion": "Travis Knight",
+          "skuespil": "Nicholas Galitzine, Jared Leto, Idris Elba, Alison Brie, Morena Baccarin m.fl.",
+          "udlejer": "SF"
+        },
+        "sal": {
+          "id": "12",
+          "navn": "Sal 7 - Den Blå VIP"
+        },
+        "starttid": "14:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 14000,
+            "solgt": 3
+          }
+        ],
+        "total_solgte_billetter": 3,
+        "total_omsaetning_øre": 42000
+      },
+      {
+        "film": {
+          "id": "46584",
+          "titel": "Disclosure Day",
+          "land_aar": "USA / 2026",
+          "genre": "Drama - Thriller",
+          "instruktion": "Steven Spielberg",
+          "skuespil": "Josh O&#39;Connor, Emily Blunt, Colin Firth, Eve Hewson, Colman Domingo m.fl.",
+          "udlejer": "UIP"
+        },
+        "sal": {
+          "id": "9",
+          "navn": "Sal 3 - Striber af Velour"
+        },
+        "starttid": "14:15",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 14000,
+            "solgt": 2
+          },
+          {
+            "navn": "Seniorbillet",
+            "pris": 12500,
+            "solgt": 1
+          },
+          {
+            "navn": "Ledsager/Hjælper",
+            "pris": 0,
+            "solgt": 1
+          }
+        ],
+        "total_solgte_billetter": 4,
+        "total_omsaetning_øre": 40500
+      },
+      {
+        "film": {
+          "id": "46461",
+          "titel": "The Devil Wears Prada 2",
+          "land_aar": "USA / 2026",
+          "genre": "Drama - Komedie",
+          "instruktion": "David Frankel",
+          "skuespil": "Meryl Streep, Anne Hathaway, Emily Blunt, Stanley Tucci, Lucy Liu, Justin Theroux m.fl.",
+          "udlejer": "Buena Vista International BVI (Denmark)"
+        },
+        "sal": {
+          "id": "11",
+          "navn": "Sal 6 - Den Lilla VIP"
+        },
+        "starttid": "15:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 14000,
+            "solgt": 2
+          },
+          {
+            "navn": "Seniorbillet",
+            "pris": 12500,
+            "solgt": 1
+          },
+          {
+            "navn": "Ateam gavekort",
+            "pris": 10500,
+            "solgt": 2
+          }
+        ],
+        "total_solgte_billetter": 5,
+        "total_omsaetning_øre": 61500
+      },
+      {
+        "film": {
+          "id": "46499",
+          "titel": "Toy Story 5 - Dk tale",
+          "land_aar": "USA / 2026",
+          "genre": "Animation/tegnefilm - Eventyr - Komedie - Action",
+          "instruktion": "Andrew Stanton, McKenna Harris",
+          "skuespil": "Danske stemmer",
+          "udlejer": "Buena Vista International BVI (Denmark)"
+        },
+        "sal": {
+          "id": "8",
+          "navn": "Sal 5 - Guld og Velour"
+        },
+        "starttid": "15:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 12500,
+            "solgt": 20
+          },
+          {
+            "navn": "Børnebillet",
+            "pris": 10500,
+            "solgt": 19
+          },
+          {
+            "navn": "Seniorbillet",
+            "pris": 11000,
+            "solgt": 8
+          }
+        ],
+        "total_solgte_billetter": 47,
+        "total_omsaetning_øre": 537500
+      },
+      {
+        "film": {
+          "id": "46428",
+          "titel": "Michael",
+          "land_aar": "USA / 2026",
+          "genre": "Drama",
+          "instruktion": "Antoine Fuqua",
+          "skuespil": "Jaafar Jackson, Miles Teller, Colman Domingo, Juliano Krue Valdi m.fl.",
+          "udlejer": "UIP"
+        },
+        "sal": {
+          "id": "7",
+          "navn": "Sal 2 - Den Store VIP"
+        },
+        "starttid": "15:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 14000,
+            "solgt": 10
+          },
+          {
+            "navn": "Seniorbillet",
+            "pris": 12500,
+            "solgt": 2
+          },
+          {
+            "navn": "Ateam gavekort",
+            "pris": 10500,
+            "solgt": 2
+          }
+        ],
+        "total_solgte_billetter": 14,
+        "total_omsaetning_øre": 186000
+      },
+      {
+        "film": {
+          "id": "1179009113",
+          "titel": "2 timer sal optaget",
+          "land_aar": null,
+          "genre": null,
+          "instruktion": null,
+          "skuespil": null,
+          "udlejer": null
+        },
+        "sal": {
+          "id": "6",
+          "navn": "Sal 4 - Den Lille VIP"
+        },
+        "starttid": "16:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      },
+      {
+        "film": {
+          "id": "21228",
+          "titel": "Fantastiske Skabninger- Grindelwalds Forbrydelser - 2D",
+          "land_aar": "USA, 2018",
+          "genre": "Eventyr",
+          "instruktion": "David Yates",
+          "skuespil": "Eddie Redmayne, Johnny Depp, Ezra Miller, Kathrine Waterson m.fl.",
+          "udlejer": "Warner Bros. Danmark"
+        },
+        "sal": {
+          "id": "12",
+          "navn": "Sal 7 - Den Blå VIP"
+        },
+        "starttid": "17:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      },
+      {
+        "film": {
+          "id": "46499",
+          "titel": "Toy Story 5 - Dk tale",
+          "land_aar": "USA / 2026",
+          "genre": "Action - Animation/tegnefilm - Eventyr - Komedie",
+          "instruktion": "Andrew Stanton, McKenna Harris",
+          "skuespil": "Danske stemmer",
+          "udlejer": "Buena Vista International BVI (Denmark)"
+        },
+        "sal": {
+          "id": "10",
+          "navn": "Sal 1 - Den Største"
+        },
+        "starttid": "17:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 12500,
+            "solgt": 13
+          },
+          {
+            "navn": "Børnebillet",
+            "pris": 10500,
+            "solgt": 11
+          }
+        ],
+        "total_solgte_billetter": 24,
+        "total_omsaetning_øre": 278000
+      },
+      {
+        "film": {
+          "id": "46557",
+          "titel": "Calle Malaga",
+          "land_aar": "Spanien m.fl. / 2025",
+          "genre": "Drama",
+          "instruktion": "Maryam Touzani",
+          "skuespil": "Carmen Maura, Marta Etura, Ahmed Boulane, Ghali Errazqi m.fl.",
+          "udlejer": "Camera"
+        },
+        "sal": {
+          "id": "9",
+          "navn": "Sal 3 - Striber af Velour"
+        },
+        "starttid": "17:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 6000,
+            "solgt": 48
+          },
+          {
+            "navn": "Seniorbillet",
+            "pris": 4500,
+            "solgt": 15
+          },
+          {
+            "navn": "Loyalitet 2.0",
+            "pris": 0,
+            "solgt": 3
+          }
+        ],
+        "total_solgte_billetter": 66,
+        "total_omsaetning_øre": 355500
+      },
+      {
+        "film": {
+          "id": "46325",
+          "titel": "Vores Løfte",
+          "land_aar": "Danmark / 2026",
+          "genre": "Drama",
+          "instruktion": "Pernille Fischer Christensen",
+          "skuespil": "Danica Curcic, Lars Ranthe, Sofie Torp, Rasmus Botoft m.fl.",
+          "udlejer": "Nordisk"
+        },
+        "sal": {
+          "id": "8",
+          "navn": "Sal 5 - Guld og Velour"
+        },
+        "starttid": "18:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 12500,
+            "solgt": 1
+          },
+          {
+            "navn": "Fribillet",
+            "pris": 0,
+            "solgt": 2
+          },
+          {
+            "navn": "Biografklub DK",
+            "pris": 6250,
+            "solgt": 64
+          },
+          {
+            "navn": "Ledsager/Hjælper",
+            "pris": 0,
+            "solgt": 1
+          }
+        ],
+        "total_solgte_billetter": 68,
+        "total_omsaetning_øre": 412500
+      },
+      {
+        "film": {
+          "id": "46455",
+          "titel": "Toy Story 5 - Eng tale",
+          "land_aar": "USA / 2026",
+          "genre": "Animation/tegnefilm - Eventyr - Komedie - Action",
+          "instruktion": "Andrew Stanton, McKenna Harris",
+          "skuespil": "Tom Hanks, Tim Allen, Joan Cusack, Greta Lee, Keanu Reeves, Conan O Brien m.fl.",
+          "udlejer": "Buena Vista International BVI (Denmark)"
+        },
+        "sal": {
+          "id": "11",
+          "navn": "Sal 6 - Den Lilla VIP"
+        },
+        "starttid": "18:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 12500,
+            "solgt": 5
+          },
+          {
+            "navn": "Ateam gavekort",
+            "pris": 9000,
+            "solgt": 2
+          }
+        ],
+        "total_solgte_billetter": 7,
+        "total_omsaetning_øre": 80500
+      },
+      {
+        "film": {
+          "id": "46234",
+          "titel": "Supergirl: Woman of Tomorrow",
+          "land_aar": "USA / 2026",
+          "genre": "Action - Eventyr",
+          "instruktion": "Craig Gillespie",
+          "skuespil": "Milly Alcock, Eve Ridley, Matthias Schoenaerts, Jason Momoa m.fl.",
+          "udlejer": "Warner Bros. Danmark"
+        },
+        "sal": {
+          "id": "7",
+          "navn": "Sal 2 - Den Store VIP"
+        },
+        "starttid": "18:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 12500,
+            "solgt": 13
+          },
+          {
+            "navn": "Ateam gavekort",
+            "pris": 9000,
+            "solgt": 1
+          },
+          {
+            "navn": "Cinemaxx voucher",
+            "pris": 9500,
+            "solgt": 2
+          }
+        ],
+        "total_solgte_billetter": 16,
+        "total_omsaetning_øre": 190500
+      },
+      {
+        "film": {
+          "id": "1179009818",
+          "titel": "Lalibazar",
+          "land_aar": "Nepal 2026",
+          "genre": null,
+          "instruktion": "Yam Thapa",
+          "skuespil": "Swastima Khadka, Rabindra Singh Baniya, Aasha Poudel",
+          "udlejer": "EuroNepal Events ApS"
+        },
+        "sal": {
+          "id": "10",
+          "navn": "Sal 1 - Den Største"
+        },
+        "starttid": "19:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 14000,
+            "solgt": 15
+          },
+          {
+            "navn": "Fribillet",
+            "pris": 0,
+            "solgt": 5
+          }
+        ],
+        "total_solgte_billetter": 20,
+        "total_omsaetning_øre": 210000
+      },
+      {
+        "film": {
+          "id": "46584",
+          "titel": "Disclosure Day",
+          "land_aar": "USA / 2026",
+          "genre": "Drama - Thriller",
+          "instruktion": "Steven Spielberg",
+          "skuespil": "Josh O&#39;Connor, Emily Blunt, Colin Firth, Eve Hewson, Colman Domingo m.fl.",
+          "udlejer": "UIP"
+        },
+        "sal": {
+          "id": "12",
+          "navn": "Sal 7 - Den Blå VIP"
+        },
+        "starttid": "20:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 14000,
+            "solgt": 10
+          }
+        ],
+        "total_solgte_billetter": 10,
+        "total_omsaetning_øre": 140000
+      },
+      {
+        "film": {
+          "id": "46552",
+          "titel": "Obsession",
+          "land_aar": "USA / 2025",
+          "genre": "Gyser",
+          "instruktion": "Curry Barker",
+          "skuespil": "Michael Johnston, Cooper Tomlinson, Inde Navarrette, Megan Lawless, Haley Fitzgerald m.fl.",
+          "udlejer": "UIP"
+        },
+        "sal": {
+          "id": "9",
+          "navn": "Sal 3 - Striber af Velour"
+        },
+        "starttid": "20:15",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 12500,
+            "solgt": 11
+          }
+        ],
+        "total_solgte_billetter": 11,
+        "total_omsaetning_øre": 137500
+      },
+      {
+        "film": {
+          "id": "46679",
+          "titel": "Backrooms",
+          "land_aar": "USA / 2026",
+          "genre": "Gyser - Thriller",
+          "instruktion": "Kane Parsons",
+          "skuespil": "Chiwetel Ejiofor, Renate Reinsve, Mark Duplass, Lukita Maxwell m.fl.",
+          "udlejer": "Nordisk"
+        },
+        "sal": {
+          "id": "8",
+          "navn": "Sal 5 - Guld og Velour"
+        },
+        "starttid": "20:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 12500,
+            "solgt": 3
+          }
+        ],
+        "total_solgte_billetter": 3,
+        "total_omsaetning_øre": 37500
+      },
+      {
+        "film": {
+          "id": "46618",
+          "titel": "Jackass: Best and Last",
+          "land_aar": "USA / 2026",
+          "genre": "Komedie",
+          "instruktion": "Jeff Tremaine",
+          "skuespil": "Johnny Knoxville, Steve-O, Jeff Tremaine, Jason 'Wee Man' Acuna m.fl.",
+          "udlejer": "UIP"
+        },
+        "sal": {
+          "id": "11",
+          "navn": "Sal 6 - Den Lilla VIP"
+        },
+        "starttid": "20:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 12500,
+            "solgt": 1
+          },
+          {
+            "navn": "Atlaskort",
+            "pris": 0,
+            "solgt": 2
+          }
+        ],
+        "total_solgte_billetter": 3,
+        "total_omsaetning_øre": 12500
+      },
+      {
+        "film": {
+          "id": "46325",
+          "titel": "Vores Løfte",
+          "land_aar": "Danmark / 2026",
+          "genre": "Drama",
+          "instruktion": "Pernille Fischer Christensen",
+          "skuespil": "Danica Curcic, Lars Ranthe, Sofie Torp, Rasmus Botoft m.fl.",
+          "udlejer": "Nordisk"
+        },
+        "sal": {
+          "id": "7",
+          "navn": "Sal 2 - Den Store VIP"
+        },
+        "starttid": "21:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 12500,
+            "solgt": 6
+          }
+        ],
+        "total_solgte_billetter": 6,
+        "total_omsaetning_øre": 75000
+      }
+    ]
   }
 ]

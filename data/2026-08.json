@@ -5739,5 +5739,1046 @@
         "total_omsaetning_øre": 75000
       }
     ]
+  },
+  {
+    "dato": "2026-08-07",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 28,
+    "forestillinger": [
+      {
+        "film": {
+          "id": "46573",
+          "titel": "Minions & Monstre - Dk tale",
+          "land_aar": "USA / 2026",
+          "genre": "Animation/tegnefilm - Børne-/familiefilm - Eventyr - Komedie",
+          "instruktion": "Pierre Coffin",
+          "skuespil": "Danske stemmer",
+          "udlejer": "UIP"
+        },
+        "sal": {
+          "id": "9",
+          "navn": "Sal 3 - Striber af Velour"
+        },
+        "starttid": "11:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 12500,
+            "solgt": 8
+          },
+          {
+            "navn": "Børnebillet",
+            "pris": 10500,
+            "solgt": 5
+          },
+          {
+            "navn": "Seniorbillet",
+            "pris": 11000,
+            "solgt": 1
+          }
+        ],
+        "total_solgte_billetter": 14,
+        "total_omsaetning_øre": 163500
+      },
+      {
+        "film": {
+          "id": "46847",
+          "titel": "Spider-Man: Brand New Day - 3D",
+          "land_aar": "USA / 2026",
+          "genre": "Action - Eventyr",
+          "instruktion": "Destin Daniel Cretton",
+          "skuespil": "Tom Holland, Jon Bernthal, Zendaya, Mark Ruffalo, Michael Mando, Tramell Tillman m.fl.",
+          "udlejer": "SF"
+        },
+        "sal": {
+          "id": "13",
+          "navn": "LED Sal 4 - Den Lille VIP"
+        },
+        "starttid": "11:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 14000,
+            "solgt": 16
+          }
+        ],
+        "total_solgte_billetter": 16,
+        "total_omsaetning_øre": 224000
+      },
+      {
+        "film": {
+          "id": "46664",
+          "titel": "Vores Løfte - Dk undertekster",
+          "land_aar": "Danmark / 2026",
+          "genre": "Drama",
+          "instruktion": "Pernille Fischer Christensen",
+          "skuespil": "Danica Curcic, Lars Ranthe, Sofie Torp, Rasmus Botoft m.fl.",
+          "udlejer": "Nordisk"
+        },
+        "sal": {
+          "id": "11",
+          "navn": "Sal 6 - Den Lilla VIP"
+        },
+        "starttid": "11:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 12500,
+            "solgt": 5
+          },
+          {
+            "navn": "Biografklub DK",
+            "pris": 6250,
+            "solgt": 2
+          }
+        ],
+        "total_solgte_billetter": 7,
+        "total_omsaetning_øre": 75000
+      },
+      {
+        "film": {
+          "id": "46575",
+          "titel": "Paw Patrol: Dino Filmen",
+          "land_aar": "USA / 2026",
+          "genre": "Action - Animation/tegnefilm - Børne-/familiefilm - Eventyr",
+          "instruktion": "Cal Brunker",
+          "skuespil": "Danske stemmer",
+          "udlejer": "UIP"
+        },
+        "sal": {
+          "id": "12",
+          "navn": "Sal 7 - Den Blå VIP"
+        },
+        "starttid": "11:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 12500,
+            "solgt": 9
+          },
+          {
+            "navn": "Børnebillet",
+            "pris": 10500,
+            "solgt": 10
+          },
+          {
+            "navn": "Puregym",
+            "pris": 11250,
+            "solgt": 1
+          }
+        ],
+        "total_solgte_billetter": 20,
+        "total_omsaetning_øre": 228750
+      },
+      {
+        "film": {
+          "id": "46499",
+          "titel": "Toy Story 5 - Dk tale",
+          "land_aar": "USA / 2026",
+          "genre": "Action - Animation/tegnefilm - Eventyr - Komedie",
+          "instruktion": "Andrew Stanton, McKenna Harris",
+          "skuespil": "Danske stemmer",
+          "udlejer": "Buena Vista International BVI (Denmark)"
+        },
+        "sal": {
+          "id": "8",
+          "navn": "Sal 5 - Guld og Velour"
+        },
+        "starttid": "11:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 12500,
+            "solgt": 6
+          },
+          {
+            "navn": "Børnebillet",
+            "pris": 10500,
+            "solgt": 5
+          },
+          {
+            "navn": "Seniorbillet",
+            "pris": 11000,
+            "solgt": 1
+          },
+          {
+            "navn": "Ledsager/Hjælper",
+            "pris": 0,
+            "solgt": 1
+          }
+        ],
+        "total_solgte_billetter": 13,
+        "total_omsaetning_øre": 138500
+      },
+      {
+        "film": {
+          "id": "46575",
+          "titel": "Paw Patrol: Dino Filmen",
+          "land_aar": "USA / 2026",
+          "genre": "Action - Animation/tegnefilm - Børne-/familiefilm - Eventyr",
+          "instruktion": "Cal Brunker",
+          "skuespil": "Danske stemmer",
+          "udlejer": "UIP"
+        },
+        "sal": {
+          "id": "10",
+          "navn": "Sal 1 - Den Største"
+        },
+        "starttid": "12:15",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 12500,
+            "solgt": 4
+          },
+          {
+            "navn": "Børnebillet",
+            "pris": 10500,
+            "solgt": 6
+          }
+        ],
+        "total_solgte_billetter": 10,
+        "total_omsaetning_øre": 113000
+      },
+      {
+        "film": {
+          "id": "46498",
+          "titel": "Spider-Man: Brand New Day - 2D",
+          "land_aar": "USA / 2026",
+          "genre": "Action - Eventyr",
+          "instruktion": "Destin Daniel Cretton",
+          "skuespil": "Tom Holland, Jon Bernthal, Zendaya, Mark Ruffalo, Michael Mando, Tramell Tillman m.fl.",
+          "udlejer": "SF"
+        },
+        "sal": {
+          "id": "7",
+          "navn": "Sal 2 - Den Store VIP"
+        },
+        "starttid": "12:15",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 14000,
+            "solgt": 35
+          },
+          {
+            "navn": "Ledsager/Hjælper",
+            "pris": 0,
+            "solgt": 1
+          },
+          {
+            "navn": "Ateam gavekort",
+            "pris": 10500,
+            "solgt": 2
+          }
+        ],
+        "total_solgte_billetter": 38,
+        "total_omsaetning_øre": 511000
+      },
+      {
+        "film": {
+          "id": "46573",
+          "titel": "Minions & Monstre - Dk tale",
+          "land_aar": "USA / 2026",
+          "genre": "Animation/tegnefilm - Børne-/familiefilm - Eventyr - Komedie",
+          "instruktion": "Pierre Coffin",
+          "skuespil": "Danske stemmer",
+          "udlejer": "UIP"
+        },
+        "sal": {
+          "id": "9",
+          "navn": "Sal 3 - Striber af Velour"
+        },
+        "starttid": "13:10",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 12500,
+            "solgt": 6
+          },
+          {
+            "navn": "Børnebillet",
+            "pris": 10500,
+            "solgt": 5
+          },
+          {
+            "navn": "Seniorbillet",
+            "pris": 11000,
+            "solgt": 1
+          },
+          {
+            "navn": "RC_Feriebillet_70",
+            "pris": 6500,
+            "solgt": 1
+          }
+        ],
+        "total_solgte_billetter": 13,
+        "total_omsaetning_øre": 145000
+      },
+      {
+        "film": {
+          "id": "46547",
+          "titel": "Vaiana - Dk Tale",
+          "land_aar": "USA / 2026",
+          "genre": "Action - Børne-/familiefilm - Eventyr - Komedie",
+          "instruktion": "Thomas Kail",
+          "skuespil": "Danske stemmer",
+          "udlejer": "Buena Vista International BVI (Denmark)"
+        },
+        "sal": {
+          "id": "12",
+          "navn": "Sal 7 - Den Blå VIP"
+        },
+        "starttid": "13:15",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 12500,
+            "solgt": 10
+          },
+          {
+            "navn": "Børnebillet",
+            "pris": 10500,
+            "solgt": 10
+          },
+          {
+            "navn": "Seniorbillet",
+            "pris": 11000,
+            "solgt": 3
+          }
+        ],
+        "total_solgte_billetter": 23,
+        "total_omsaetning_øre": 263000
+      },
+      {
+        "film": {
+          "id": "46575",
+          "titel": "Paw Patrol: Dino Filmen",
+          "land_aar": "USA / 2026",
+          "genre": "Eventyr - Action - Animation/tegnefilm - Børne-/familiefilm",
+          "instruktion": "Cal Brunker",
+          "skuespil": "Danske stemmer",
+          "udlejer": "UIP"
+        },
+        "sal": {
+          "id": "11",
+          "navn": "Sal 6 - Den Lilla VIP"
+        },
+        "starttid": "13:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 12500,
+            "solgt": 7
+          },
+          {
+            "navn": "Børnebillet",
+            "pris": 0,
+            "solgt": 1
+          },
+          {
+            "navn": "Børnebillet",
+            "pris": 10500,
+            "solgt": 9
+          },
+          {
+            "navn": "Ledsager/Hjælper",
+            "pris": 0,
+            "solgt": 1
+          },
+          {
+            "navn": "Loyalitet 2.0",
+            "pris": 0,
+            "solgt": 1
+          }
+        ],
+        "total_solgte_billetter": 19,
+        "total_omsaetning_øre": 182000
+      },
+      {
+        "film": {
+          "id": "46847",
+          "titel": "Spider-Man: Brand New Day - 3D",
+          "land_aar": "USA / 2026",
+          "genre": "Action - Eventyr",
+          "instruktion": "Destin Daniel Cretton",
+          "skuespil": "Tom Holland, Jon Bernthal, Zendaya, Mark Ruffalo, Michael Mando, Tramell Tillman m.fl.",
+          "udlejer": "SF"
+        },
+        "sal": {
+          "id": "13",
+          "navn": "LED Sal 4 - Den Lille VIP"
+        },
+        "starttid": "14:15",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 14000,
+            "solgt": 19
+          },
+          {
+            "navn": "Ateam gavekort",
+            "pris": 10500,
+            "solgt": 4
+          }
+        ],
+        "total_solgte_billetter": 23,
+        "total_omsaetning_øre": 308000
+      },
+      {
+        "film": {
+          "id": "46574",
+          "titel": "The Odyssey",
+          "land_aar": "USA / 2026",
+          "genre": "Action - Eventyr",
+          "instruktion": "Christopher Nolan",
+          "skuespil": "Matt Damon, Tom Holland, Anne Hathaway, Jon Bernthal, Charlize Theron, Robert Pattinson, Zendaya m.fl.",
+          "udlejer": "UIP"
+        },
+        "sal": {
+          "id": "8",
+          "navn": "Sal 5 - Guld og Velour"
+        },
+        "starttid": "14:15",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 15500,
+            "solgt": 13
+          },
+          {
+            "navn": "Fribillet",
+            "pris": 0,
+            "solgt": 3
+          },
+          {
+            "navn": "Seniorbillet",
+            "pris": 14000,
+            "solgt": 6
+          }
+        ],
+        "total_solgte_billetter": 22,
+        "total_omsaetning_øre": 285500
+      },
+      {
+        "film": {
+          "id": "46575",
+          "titel": "Paw Patrol: Dino Filmen",
+          "land_aar": "USA / 2026",
+          "genre": "Action - Animation/tegnefilm - Børne-/familiefilm - Eventyr",
+          "instruktion": "Cal Brunker",
+          "skuespil": "Danske stemmer",
+          "udlejer": "UIP"
+        },
+        "sal": {
+          "id": "10",
+          "navn": "Sal 1 - Den Største"
+        },
+        "starttid": "14:40",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 12500,
+            "solgt": 10
+          },
+          {
+            "navn": "Børnebillet",
+            "pris": 10500,
+            "solgt": 11
+          },
+          {
+            "navn": "Ledsager/Hjælper",
+            "pris": 0,
+            "solgt": 1
+          }
+        ],
+        "total_solgte_billetter": 22,
+        "total_omsaetning_øre": 240500
+      },
+      {
+        "film": {
+          "id": "46547",
+          "titel": "Vaiana - Dk Tale",
+          "land_aar": "USA / 2026",
+          "genre": "Action - Børne-/familiefilm - Eventyr - Komedie",
+          "instruktion": "Thomas Kail",
+          "skuespil": "Danske stemmer",
+          "udlejer": "Buena Vista International BVI (Denmark)"
+        },
+        "sal": {
+          "id": "9",
+          "navn": "Sal 3 - Striber af Velour"
+        },
+        "starttid": "15:20",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 12500,
+            "solgt": 12
+          },
+          {
+            "navn": "Børnebillet",
+            "pris": 10500,
+            "solgt": 10
+          },
+          {
+            "navn": "Atlaskort",
+            "pris": 10000,
+            "solgt": 2
+          },
+          {
+            "navn": "Loyalitet 2.0",
+            "pris": 0,
+            "solgt": 1
+          }
+        ],
+        "total_solgte_billetter": 25,
+        "total_omsaetning_øre": 275000
+      },
+      {
+        "film": {
+          "id": "46574",
+          "titel": "The Odyssey",
+          "land_aar": "USA / 2026",
+          "genre": "Action - Eventyr",
+          "instruktion": "Christopher Nolan",
+          "skuespil": "Matt Damon, Tom Holland, Anne Hathaway, Jon Bernthal, Charlize Theron, Robert Pattinson, Zendaya m.fl.",
+          "udlejer": "UIP"
+        },
+        "sal": {
+          "id": "7",
+          "navn": "Sal 2 - Den Store VIP"
+        },
+        "starttid": "15:45",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 12900,
+            "solgt": 2
+          },
+          {
+            "navn": "Alm billet",
+            "pris": 15500,
+            "solgt": 26
+          },
+          {
+            "navn": "Seniorbillet",
+            "pris": 14000,
+            "solgt": 5
+          },
+          {
+            "navn": "Ateam gavekort",
+            "pris": 12500,
+            "solgt": 2
+          }
+        ],
+        "total_solgte_billetter": 35,
+        "total_omsaetning_øre": 523800
+      },
+      {
+        "film": {
+          "id": "46428",
+          "titel": "Michael",
+          "land_aar": "USA / 2026",
+          "genre": "Drama",
+          "instruktion": "Antoine Fuqua",
+          "skuespil": "Jaafar Jackson, Miles Teller, Colman Domingo, Juliano Krue Valdi m.fl.",
+          "udlejer": "UIP"
+        },
+        "sal": {
+          "id": "11",
+          "navn": "Sal 6 - Den Lilla VIP"
+        },
+        "starttid": "15:45",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 11400,
+            "solgt": 1
+          },
+          {
+            "navn": "Alm billet",
+            "pris": 14000,
+            "solgt": 15
+          },
+          {
+            "navn": "Ledsager/Hjælper",
+            "pris": 0,
+            "solgt": 1
+          },
+          {
+            "navn": "Ateam gavekort",
+            "pris": 10500,
+            "solgt": 2
+          }
+        ],
+        "total_solgte_billetter": 19,
+        "total_omsaetning_øre": 242400
+      },
+      {
+        "film": {
+          "id": "46498",
+          "titel": "Spider-Man: Brand New Day - 2D",
+          "land_aar": "USA / 2026",
+          "genre": "Action - Eventyr",
+          "instruktion": "Destin Daniel Cretton",
+          "skuespil": "Tom Holland, Jon Bernthal, Zendaya, Mark Ruffalo, Michael Mando, Tramell Tillman m.fl.",
+          "udlejer": "SF"
+        },
+        "sal": {
+          "id": "12",
+          "navn": "Sal 7 - Den Blå VIP"
+        },
+        "starttid": "15:45",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 14000,
+            "solgt": 35
+          },
+          {
+            "navn": "Fribillet",
+            "pris": 0,
+            "solgt": 1
+          }
+        ],
+        "total_solgte_billetter": 36,
+        "total_omsaetning_øre": 490000
+      },
+      {
+        "film": {
+          "id": "46498",
+          "titel": "Spider-Man: Brand New Day - 2D",
+          "land_aar": "USA / 2026",
+          "genre": "Action - Eventyr",
+          "instruktion": "Destin Daniel Cretton",
+          "skuespil": "Tom Holland, Jon Bernthal, Zendaya, Mark Ruffalo, Michael Mando, Tramell Tillman m.fl.",
+          "udlejer": "SF"
+        },
+        "sal": {
+          "id": "10",
+          "navn": "Sal 1 - Den Største"
+        },
+        "starttid": "17:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 14000,
+            "solgt": 94
+          },
+          {
+            "navn": "Atlaskort",
+            "pris": 11200,
+            "solgt": 3
+          },
+          {
+            "navn": "Seniorbillet",
+            "pris": 12500,
+            "solgt": 2
+          },
+          {
+            "navn": "Ledsager/Hjælper",
+            "pris": 0,
+            "solgt": 1
+          },
+          {
+            "navn": "Ateam gavekort",
+            "pris": 10500,
+            "solgt": 2
+          },
+          {
+            "navn": "Cinemaxx voucher",
+            "pris": 10500,
+            "solgt": 2
+          }
+        ],
+        "total_solgte_billetter": 104,
+        "total_omsaetning_øre": 1416600
+      },
+      {
+        "film": {
+          "id": "46574",
+          "titel": "The Odyssey",
+          "land_aar": "USA / 2026",
+          "genre": "Action - Eventyr",
+          "instruktion": "Christopher Nolan",
+          "skuespil": "Matt Damon, Tom Holland, Anne Hathaway, Jon Bernthal, Charlize Theron, Robert Pattinson, Zendaya m.fl.",
+          "udlejer": "UIP"
+        },
+        "sal": {
+          "id": "13",
+          "navn": "LED Sal 4 - Den Lille VIP"
+        },
+        "starttid": "17:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 15500,
+            "solgt": 14
+          },
+          {
+            "navn": "Seniorbillet",
+            "pris": 10500,
+            "solgt": 1
+          },
+          {
+            "navn": "Seniorbillet",
+            "pris": 14000,
+            "solgt": 1
+          },
+          {
+            "navn": "Ledsager/Hjælper",
+            "pris": 0,
+            "solgt": 1
+          },
+          {
+            "navn": "Cinemaxx voucher",
+            "pris": 12000,
+            "solgt": 1
+          },
+          {
+            "navn": "Loyalitet 2.0",
+            "pris": 0,
+            "solgt": 1
+          }
+        ],
+        "total_solgte_billetter": 19,
+        "total_omsaetning_øre": 253500
+      },
+      {
+        "film": {
+          "id": "46499",
+          "titel": "Toy Story 5 - Dk tale",
+          "land_aar": "USA / 2026",
+          "genre": "Action - Animation/tegnefilm - Eventyr - Komedie",
+          "instruktion": "Andrew Stanton, McKenna Harris",
+          "skuespil": "Danske stemmer",
+          "udlejer": "Buena Vista International BVI (Denmark)"
+        },
+        "sal": {
+          "id": "9",
+          "navn": "Sal 3 - Striber af Velour"
+        },
+        "starttid": "18:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 12500,
+            "solgt": 21
+          },
+          {
+            "navn": "Børnebillet",
+            "pris": 10500,
+            "solgt": 15
+          },
+          {
+            "navn": "Atlaskort",
+            "pris": 11250,
+            "solgt": 2
+          },
+          {
+            "navn": "Ledsager/Hjælper",
+            "pris": 0,
+            "solgt": 1
+          },
+          {
+            "navn": "Ateam gavekort",
+            "pris": 12500,
+            "solgt": 2
+          }
+        ],
+        "total_solgte_billetter": 41,
+        "total_omsaetning_øre": 467500
+      },
+      {
+        "film": {
+          "id": "46498",
+          "titel": "Spider-Man: Brand New Day - 2D",
+          "land_aar": "USA / 2026",
+          "genre": "Action - Eventyr",
+          "instruktion": "Destin Daniel Cretton",
+          "skuespil": "Tom Holland, Jon Bernthal, Zendaya, Mark Ruffalo, Michael Mando, Tramell Tillman m.fl.",
+          "udlejer": "SF"
+        },
+        "sal": {
+          "id": "8",
+          "navn": "Sal 5 - Guld og Velour"
+        },
+        "starttid": "18:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 14000,
+            "solgt": 39
+          },
+          {
+            "navn": "Fribillet",
+            "pris": 0,
+            "solgt": 2
+          }
+        ],
+        "total_solgte_billetter": 41,
+        "total_omsaetning_øre": 546000
+      },
+      {
+        "film": {
+          "id": "1999010263",
+          "titel": "DC - 2026",
+          "land_aar": "Indien / 2026",
+          "genre": "Action - Drama - Thriller",
+          "instruktion": "Arun Matheswaran",
+          "skuespil": "Lokesh Kanagaraj, Wamiqa Gabbi, and Sanjana Krishnamoorthy",
+          "udlejer": "Ayngaran"
+        },
+        "sal": {
+          "id": "11",
+          "navn": "Sal 6 - Den Lilla VIP"
+        },
+        "starttid": "19:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 14000,
+            "solgt": 11
+          },
+          {
+            "navn": "Ledsager/Hjælper",
+            "pris": 0,
+            "solgt": 1
+          },
+          {
+            "navn": "Ateam gavekort",
+            "pris": 10500,
+            "solgt": 1
+          },
+          {
+            "navn": "Cinemaxx voucher",
+            "pris": 10500,
+            "solgt": 2
+          }
+        ],
+        "total_solgte_billetter": 15,
+        "total_omsaetning_øre": 185500
+      },
+      {
+        "film": {
+          "id": "46574",
+          "titel": "The Odyssey",
+          "land_aar": "USA / 2026",
+          "genre": "Action - Eventyr",
+          "instruktion": "Christopher Nolan",
+          "skuespil": "Matt Damon, Tom Holland, Anne Hathaway, Jon Bernthal, Charlize Theron, Robert Pattinson, Zendaya m.fl.",
+          "udlejer": "UIP"
+        },
+        "sal": {
+          "id": "12",
+          "navn": "Sal 7 - Den Blå VIP"
+        },
+        "starttid": "19:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 15500,
+            "solgt": 41
+          },
+          {
+            "navn": "Ledsager/Hjælper",
+            "pris": 0,
+            "solgt": 1
+          },
+          {
+            "navn": "Ateam gavekort",
+            "pris": 12000,
+            "solgt": 2
+          }
+        ],
+        "total_solgte_billetter": 44,
+        "total_omsaetning_øre": 659500
+      },
+      {
+        "film": {
+          "id": "46498",
+          "titel": "Spider-Man: Brand New Day - 2D",
+          "land_aar": "USA / 2026",
+          "genre": "Action - Eventyr",
+          "instruktion": "Destin Daniel Cretton",
+          "skuespil": "Tom Holland, Jon Bernthal, Zendaya, Mark Ruffalo, Michael Mando, Tramell Tillman m.fl.",
+          "udlejer": "SF"
+        },
+        "sal": {
+          "id": "7",
+          "navn": "Sal 2 - Den Store VIP"
+        },
+        "starttid": "19:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 14000,
+            "solgt": 59
+          },
+          {
+            "navn": "Atlaskort",
+            "pris": 11200,
+            "solgt": 3
+          },
+          {
+            "navn": "Ateam gavekort",
+            "pris": 10500,
+            "solgt": 2
+          }
+        ],
+        "total_solgte_billetter": 64,
+        "total_omsaetning_øre": 880600
+      },
+      {
+        "film": {
+          "id": "46574",
+          "titel": "The Odyssey",
+          "land_aar": "USA / 2026",
+          "genre": "Action - Eventyr",
+          "instruktion": "Christopher Nolan",
+          "skuespil": "Matt Damon, Tom Holland, Anne Hathaway, Jon Bernthal, Charlize Theron, Robert Pattinson, Zendaya m.fl.",
+          "udlejer": "UIP"
+        },
+        "sal": {
+          "id": "10",
+          "navn": "Sal 1 - Den Største"
+        },
+        "starttid": "20:20",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 12900,
+            "solgt": 4
+          },
+          {
+            "navn": "Alm billet",
+            "pris": 15500,
+            "solgt": 103
+          },
+          {
+            "navn": "Atlaskort",
+            "pris": 12400,
+            "solgt": 3
+          },
+          {
+            "navn": "Ateam gavekort",
+            "pris": 12000,
+            "solgt": 3
+          },
+          {
+            "navn": "Cinemaxx voucher",
+            "pris": 12000,
+            "solgt": 2
+          }
+        ],
+        "total_solgte_billetter": 115,
+        "total_omsaetning_øre": 1745300
+      },
+      {
+        "film": {
+          "id": "46498",
+          "titel": "Spider-Man: Brand New Day - 2D",
+          "land_aar": "USA / 2026",
+          "genre": "Action - Eventyr",
+          "instruktion": "Destin Daniel Cretton",
+          "skuespil": "Tom Holland, Jon Bernthal, Zendaya, Mark Ruffalo, Michael Mando, Tramell Tillman m.fl.",
+          "udlejer": "SF"
+        },
+        "sal": {
+          "id": "9",
+          "navn": "Sal 3 - Striber af Velour"
+        },
+        "starttid": "20:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 14000,
+            "solgt": 76
+          },
+          {
+            "navn": "Fribillet",
+            "pris": 0,
+            "solgt": 2
+          },
+          {
+            "navn": "Cinemaxx voucher",
+            "pris": 10500,
+            "solgt": 2
+          },
+          {
+            "navn": "Loyalitet 2.0",
+            "pris": 0,
+            "solgt": 1
+          }
+        ],
+        "total_solgte_billetter": 81,
+        "total_omsaetning_øre": 1085000
+      },
+      {
+        "film": {
+          "id": "46847",
+          "titel": "Spider-Man: Brand New Day - 3D",
+          "land_aar": "USA / 2026",
+          "genre": "Action - Eventyr",
+          "instruktion": "Destin Daniel Cretton",
+          "skuespil": "Tom Holland, Jon Bernthal, Zendaya, Mark Ruffalo, Michael Mando, Tramell Tillman m.fl.",
+          "udlejer": "SF"
+        },
+        "sal": {
+          "id": "13",
+          "navn": "LED Sal 4 - Den Lille VIP"
+        },
+        "starttid": "21:15",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 14000,
+            "solgt": 23
+          },
+          {
+            "navn": "Fribillet",
+            "pris": 0,
+            "solgt": 2
+          },
+          {
+            "navn": "Ateam gavekort",
+            "pris": 11400,
+            "solgt": 2
+          }
+        ],
+        "total_solgte_billetter": 27,
+        "total_omsaetning_øre": 344800
+      },
+      {
+        "film": {
+          "id": "1179009904",
+          "titel": "Gauthali",
+          "land_aar": "Nepal 2026",
+          "genre": null,
+          "instruktion": "Dr. Kapil Rijal",
+          "skuespil": "Arun Chhetri, Simran Khadka",
+          "udlejer": "EuroNepal Events ApS"
+        },
+        "sal": {
+          "id": "8",
+          "navn": "Sal 5 - Guld og Velour"
+        },
+        "starttid": "21:15",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 14000,
+            "solgt": 45
+          }
+        ],
+        "total_solgte_billetter": 45,
+        "total_omsaetning_øre": 630000
+      }
+    ]
   }
 ]

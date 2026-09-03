@@ -664,5 +664,771 @@
         "total_omsaetning_øre": 212500
       }
     ]
+  },
+  {
+    "dato": "2026-09-02",
+    "biograf": {
+      "CompanyID": "179",
+      "CompanyName": "ATLAS Biograferne",
+      "TicketingSystem": "Integra"
+    },
+    "antal_forestillinger": 26,
+    "forestillinger": [
+      {
+        "film": {
+          "id": "46459",
+          "titel": "The Dog Stars",
+          "land_aar": "USA / 2026",
+          "genre": "Action - Eventyr",
+          "instruktion": "Ridley Scott",
+          "skuespil": "Jacob Elordi, Margaret Qualley, Josh Brolin, Guy Pearce, Benedict Wong m.fl.",
+          "udlejer": "Buena Vista International BVI (Denmark)"
+        },
+        "sal": {
+          "id": "7",
+          "navn": "Sal 2 - Den Store VIP"
+        },
+        "starttid": "11:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 12000,
+            "solgt": 2
+          },
+          {
+            "navn": "Ledsager/Hjælper",
+            "pris": 0,
+            "solgt": 1
+          }
+        ],
+        "total_solgte_billetter": 3,
+        "total_omsaetning_øre": 24000
+      },
+      {
+        "film": {
+          "id": "46666",
+          "titel": "Nøjsomheden  - Dk undertekster",
+          "land_aar": "Danmark / 2026",
+          "genre": "Komedie - Romantik - Drama",
+          "instruktion": "Hella Joof",
+          "skuespil": "Andrea Heick Gadeberg, Clint Ruben, Iben Hjejle, Maria Rossing, Lotte Andersen m.fl.",
+          "udlejer": "Scanbox Film Distribution A/S"
+        },
+        "sal": {
+          "id": "9",
+          "navn": "Sal 3 - Striber af Velour"
+        },
+        "starttid": "11:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 10500,
+            "solgt": 7
+          },
+          {
+            "navn": "Biografklub DK",
+            "pris": 5250,
+            "solgt": 39
+          },
+          {
+            "navn": "Seniorbillet",
+            "pris": 9000,
+            "solgt": 2
+          },
+          {
+            "navn": "Ledsager/Hjælper",
+            "pris": 0,
+            "solgt": 1
+          }
+        ],
+        "total_solgte_billetter": 49,
+        "total_omsaetning_øre": 296250
+      },
+      {
+        "film": {
+          "id": "46937",
+          "titel": "Dobbeltspil - Dk undertekster",
+          "land_aar": "Danmark / 2026",
+          "genre": "Drama - Thriller",
+          "instruktion": "Julie R. Ølgaard, Esben Tønnesen",
+          "skuespil": "Neel Rønholt, Youssef Wayne Hvidtfeldt, Julie R. Ølgaard, Jesper Zuschlag, Ellen Hillingsø, Peter Gantzler",
+          "udlejer": "Scanbox Film Distribution A/S"
+        },
+        "sal": {
+          "id": "13",
+          "navn": "LED Sal 4 - Den Lille VIP"
+        },
+        "starttid": "12:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 12500,
+            "solgt": 5
+          }
+        ],
+        "total_solgte_billetter": 5,
+        "total_omsaetning_øre": 62500
+      },
+      {
+        "film": {
+          "id": "46669",
+          "titel": "One Night Only",
+          "land_aar": "USA / 2026",
+          "genre": "Komedie - Romantik",
+          "instruktion": "Will Gluck",
+          "skuespil": "Monica Barbaro, Callum Turner, Maya Hawke, Julia Fox m.fl.",
+          "udlejer": "UIP"
+        },
+        "sal": {
+          "id": "8",
+          "navn": "Sal 5 - Guld og Velour"
+        },
+        "starttid": "12:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      },
+      {
+        "film": {
+          "id": "46574",
+          "titel": "The Odyssey",
+          "land_aar": "USA / 2026",
+          "genre": "Action - Eventyr",
+          "instruktion": "Christopher Nolan",
+          "skuespil": "Matt Damon, Tom Holland, Anne Hathaway, Jon Bernthal, Charlize Theron, Robert Pattinson, Zendaya m.fl.",
+          "udlejer": "UIP"
+        },
+        "sal": {
+          "id": "12",
+          "navn": "Sal 7 - Den Blå VIP"
+        },
+        "starttid": "13:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 15500,
+            "solgt": 2
+          },
+          {
+            "navn": "Seniorbillet",
+            "pris": 14000,
+            "solgt": 2
+          }
+        ],
+        "total_solgte_billetter": 4,
+        "total_omsaetning_øre": 59000
+      },
+      {
+        "film": {
+          "id": "46575",
+          "titel": "Paw Patrol: Dino Filmen",
+          "land_aar": "USA / 2026",
+          "genre": "Action - Animation/tegnefilm - Børne-/familiefilm - Eventyr",
+          "instruktion": "Cal Brunker",
+          "skuespil": "Danske stemmer",
+          "udlejer": "UIP"
+        },
+        "sal": {
+          "id": "10",
+          "navn": "Sal 1 - Den Største"
+        },
+        "starttid": "13:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      },
+      {
+        "film": {
+          "id": "46459",
+          "titel": "The Dog Stars",
+          "land_aar": "USA / 2026",
+          "genre": "Action - Eventyr",
+          "instruktion": "Ridley Scott",
+          "skuespil": "Jacob Elordi, Margaret Qualley, Josh Brolin, Guy Pearce, Benedict Wong m.fl.",
+          "udlejer": "Buena Vista International BVI (Denmark)"
+        },
+        "sal": {
+          "id": "7",
+          "navn": "Sal 2 - Den Store VIP"
+        },
+        "starttid": "14:15",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 14000,
+            "solgt": 2
+          },
+          {
+            "navn": "Seniorbillet",
+            "pris": 12500,
+            "solgt": 1
+          },
+          {
+            "navn": "Ledsager/Hjælper",
+            "pris": 0,
+            "solgt": 1
+          }
+        ],
+        "total_solgte_billetter": 4,
+        "total_omsaetning_øre": 40500
+      },
+      {
+        "film": {
+          "id": "46698",
+          "titel": "Spirillen",
+          "land_aar": "Frankrig / 2025",
+          "genre": "Børne-/familiefilm - Eventyr - Komedie",
+          "instruktion": "Philippe Lacheau",
+          "skuespil": "Danske stemmer",
+          "udlejer": "Mis. Label"
+        },
+        "sal": {
+          "id": "8",
+          "navn": "Sal 5 - Guld og Velour"
+        },
+        "starttid": "14:30",
+        "billetkategorier": [
+          {
+            "navn": "Børnebillet",
+            "pris": 10500,
+            "solgt": 1
+          },
+          {
+            "navn": "Cinemaxx voucher",
+            "pris": 9500,
+            "solgt": 2
+          }
+        ],
+        "total_solgte_billetter": 3,
+        "total_omsaetning_øre": 29500
+      },
+      {
+        "film": {
+          "id": "46499",
+          "titel": "Toy Story 5 - Dk tale",
+          "land_aar": "USA / 2026",
+          "genre": "Action - Animation/tegnefilm - Eventyr - Komedie",
+          "instruktion": "Andrew Stanton, McKenna Harris",
+          "skuespil": "Danske stemmer",
+          "udlejer": "Buena Vista International BVI (Denmark)"
+        },
+        "sal": {
+          "id": "11",
+          "navn": "Sal 6 - Den Lilla VIP"
+        },
+        "starttid": "14:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 12500,
+            "solgt": 2
+          },
+          {
+            "navn": "Børnebillet",
+            "pris": 10500,
+            "solgt": 3
+          }
+        ],
+        "total_solgte_billetter": 5,
+        "total_omsaetning_øre": 56500
+      },
+      {
+        "film": {
+          "id": "46707",
+          "titel": "Insidious: Out of the Further",
+          "land_aar": "USA / 2026",
+          "genre": "Gyser",
+          "instruktion": "Jacob Chase",
+          "skuespil": "Sam Spruell, Lin Shaye, Amalia Eve m.fl.",
+          "udlejer": "SF"
+        },
+        "sal": {
+          "id": "13",
+          "navn": "LED Sal 4 - Den Lille VIP"
+        },
+        "starttid": "14:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 12500,
+            "solgt": 4
+          }
+        ],
+        "total_solgte_billetter": 4,
+        "total_omsaetning_øre": 50000
+      },
+      {
+        "film": {
+          "id": "46573",
+          "titel": "Minions & Monstre - Dk tale",
+          "land_aar": "USA / 2026",
+          "genre": "Animation/tegnefilm - Børne-/familiefilm - Eventyr - Komedie",
+          "instruktion": "Pierre Coffin",
+          "skuespil": "Danske stemmer",
+          "udlejer": "UIP"
+        },
+        "sal": {
+          "id": "9",
+          "navn": "Sal 3 - Striber af Velour"
+        },
+        "starttid": "15:15",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 0,
+            "solgt": 0
+          }
+        ],
+        "total_solgte_billetter": 0,
+        "total_omsaetning_øre": 0
+      },
+      {
+        "film": {
+          "id": "46666",
+          "titel": "Nøjsomheden  - Dk undertekster",
+          "land_aar": "Danmark / 2026",
+          "genre": "Romantik - Drama - Komedie",
+          "instruktion": "Hella Joof",
+          "skuespil": "Andrea Heick Gadeberg, Clint Ruben, Iben Hjejle, Maria Rossing, Lotte Andersen m.fl.",
+          "udlejer": "Scanbox Film Distribution A/S"
+        },
+        "sal": {
+          "id": "10",
+          "navn": "Sal 1 - Den Største"
+        },
+        "starttid": "15:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 12500,
+            "solgt": 5
+          },
+          {
+            "navn": "Biografklub DK",
+            "pris": 6250,
+            "solgt": 31
+          },
+          {
+            "navn": "Ateam gavekort",
+            "pris": 10400,
+            "solgt": 2
+          }
+        ],
+        "total_solgte_billetter": 38,
+        "total_omsaetning_øre": 277050
+      },
+      {
+        "film": {
+          "id": "46880",
+          "titel": "Teenage Sex and Death at Camp Miasma",
+          "land_aar": "Canada, UK / 2026",
+          "genre": "Gyser",
+          "instruktion": "Jane Schoenbrun",
+          "skuespil": "Gillian Anderson, Hannah Einbinder, Patrick Fischler m.fl.",
+          "udlejer": "Another World Entertainment ApS"
+        },
+        "sal": {
+          "id": "11",
+          "navn": "Sal 6 - Den Lilla VIP"
+        },
+        "starttid": "17:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 12500,
+            "solgt": 1
+          }
+        ],
+        "total_solgte_billetter": 1,
+        "total_omsaetning_øre": 12500
+      },
+      {
+        "film": {
+          "id": "45845",
+          "titel": "The End of Oak Street",
+          "land_aar": "USA / 2026",
+          "genre": "Action - Eventyr",
+          "instruktion": "David Robert Mitchell",
+          "skuespil": "Anne Hathaway, Ewan McGregor, Christian Convery, Chris Coy, Maisy Stella m.fl.",
+          "udlejer": "Warner Bros. Danmark"
+        },
+        "sal": {
+          "id": "13",
+          "navn": "LED Sal 4 - Den Lille VIP"
+        },
+        "starttid": "17:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 12500,
+            "solgt": 13
+          },
+          {
+            "navn": "Ledsager/Hjælper",
+            "pris": 0,
+            "solgt": 1
+          }
+        ],
+        "total_solgte_billetter": 14,
+        "total_omsaetning_øre": 162500
+      },
+      {
+        "film": {
+          "id": "46669",
+          "titel": "One Night Only",
+          "land_aar": "USA / 2026",
+          "genre": "Komedie - Romantik",
+          "instruktion": "Will Gluck",
+          "skuespil": "Monica Barbaro, Callum Turner, Maya Hawke, Julia Fox m.fl.",
+          "udlejer": "UIP"
+        },
+        "sal": {
+          "id": "8",
+          "navn": "Sal 5 - Guld og Velour"
+        },
+        "starttid": "17:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 12500,
+            "solgt": 1
+          }
+        ],
+        "total_solgte_billetter": 1,
+        "total_omsaetning_øre": 12500
+      },
+      {
+        "film": {
+          "id": "46738",
+          "titel": "Dobbeltspil",
+          "land_aar": "Danmark / 2026",
+          "genre": "Drama - Thriller",
+          "instruktion": "Julie R. Ølgaard, Esben Tønnesen",
+          "skuespil": "Neel Rønholt, Youssef Wayne Hvidtfeldt, Julie R. Ølgaard, Jesper Zuschlag, Ellen Hillingsø, Peter Gantzler",
+          "udlejer": "Scanbox Film Distribution A/S"
+        },
+        "sal": {
+          "id": "12",
+          "navn": "Sal 7 - Den Blå VIP"
+        },
+        "starttid": "17:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 12500,
+            "solgt": 33
+          }
+        ],
+        "total_solgte_billetter": 33,
+        "total_omsaetning_øre": 412500
+      },
+      {
+        "film": {
+          "id": "46498",
+          "titel": "Spider-Man: Brand New Day - 2D",
+          "land_aar": "USA / 2026",
+          "genre": "Action - Eventyr",
+          "instruktion": "Destin Daniel Cretton",
+          "skuespil": "Tom Holland, Jon Bernthal, Zendaya, Mark Ruffalo, Michael Mando, Tramell Tillman m.fl.",
+          "udlejer": "SF"
+        },
+        "sal": {
+          "id": "7",
+          "navn": "Sal 2 - Den Store VIP"
+        },
+        "starttid": "17:15",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 14000,
+            "solgt": 18
+          },
+          {
+            "navn": "Atlaskort",
+            "pris": 0,
+            "solgt": 2
+          },
+          {
+            "navn": "Ledsager/Hjælper",
+            "pris": 0,
+            "solgt": 1
+          }
+        ],
+        "total_solgte_billetter": 21,
+        "total_omsaetning_øre": 252000
+      },
+      {
+        "film": {
+          "id": "46534",
+          "titel": "Mutiny",
+          "land_aar": "USA / 2026",
+          "genre": "Action - Thriller",
+          "instruktion": "Jean-Francois Richet",
+          "skuespil": "Jason Statham, Annabelle Wallis, Roland Møller, Ramon Tikaram m.fl.",
+          "udlejer": "Nordisk"
+        },
+        "sal": {
+          "id": "9",
+          "navn": "Sal 3 - Striber af Velour"
+        },
+        "starttid": "17:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 12500,
+            "solgt": 6
+          }
+        ],
+        "total_solgte_billetter": 6,
+        "total_omsaetning_øre": 75000
+      },
+      {
+        "film": {
+          "id": "46442",
+          "titel": "Nøjsomheden",
+          "land_aar": "Danmark / 2026",
+          "genre": "Drama - Komedie - Romantik",
+          "instruktion": "Hella Joof",
+          "skuespil": "Andrea Heick Gadeberg, Clint Ruben, Iben Hjejle, Maria Rossing, Lotte Andersen m.fl.",
+          "udlejer": "Scanbox Film Distribution A/S"
+        },
+        "sal": {
+          "id": "10",
+          "navn": "Sal 1 - Den Største"
+        },
+        "starttid": "18:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 12500,
+            "solgt": 7
+          },
+          {
+            "navn": "Biografklub DK",
+            "pris": 6250,
+            "solgt": 29
+          }
+        ],
+        "total_solgte_billetter": 36,
+        "total_omsaetning_øre": 268750
+      },
+      {
+        "film": {
+          "id": "1179009896",
+          "titel": "Katy Perry: The Lifetime Tour - Live From Paris",
+          "land_aar": "USA 2026",
+          "genre": null,
+          "instruktion": "Paul Dugdale",
+          "skuespil": "Katey Perry",
+          "udlejer": "Trafalgar Releasing"
+        },
+        "sal": {
+          "id": "11",
+          "navn": "Sal 6 - Den Lilla VIP"
+        },
+        "starttid": "19:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 14000,
+            "solgt": 8
+          },
+          {
+            "navn": "Ledsager/Hjælper",
+            "pris": 0,
+            "solgt": 1
+          }
+        ],
+        "total_solgte_billetter": 9,
+        "total_omsaetning_øre": 112000
+      },
+      {
+        "film": {
+          "id": "46574",
+          "titel": "The Odyssey",
+          "land_aar": "USA / 2026",
+          "genre": "Action - Eventyr",
+          "instruktion": "Christopher Nolan",
+          "skuespil": "Matt Damon, Tom Holland, Anne Hathaway, Jon Bernthal, Charlize Theron, Robert Pattinson, Zendaya m.fl.",
+          "udlejer": "UIP"
+        },
+        "sal": {
+          "id": "12",
+          "navn": "Sal 7 - Den Blå VIP"
+        },
+        "starttid": "19:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 15500,
+            "solgt": 12
+          },
+          {
+            "navn": "Atlaskort",
+            "pris": 0,
+            "solgt": 2
+          }
+        ],
+        "total_solgte_billetter": 14,
+        "total_omsaetning_øre": 186000
+      },
+      {
+        "film": {
+          "id": "46847",
+          "titel": "Spider-Man: Brand New Day - 3D",
+          "land_aar": "USA / 2026",
+          "genre": "Action - Eventyr",
+          "instruktion": "Destin Daniel Cretton",
+          "skuespil": "Tom Holland, Jon Bernthal, Zendaya, Mark Ruffalo, Michael Mando, Tramell Tillman m.fl.",
+          "udlejer": "SF"
+        },
+        "sal": {
+          "id": "13",
+          "navn": "LED Sal 4 - Den Lille VIP"
+        },
+        "starttid": "19:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 14000,
+            "solgt": 9
+          }
+        ],
+        "total_solgte_billetter": 9,
+        "total_omsaetning_øre": 126000
+      },
+      {
+        "film": {
+          "id": "46442",
+          "titel": "Nøjsomheden",
+          "land_aar": "Danmark / 2026",
+          "genre": "Drama - Komedie - Romantik",
+          "instruktion": "Hella Joof",
+          "skuespil": "Andrea Heick Gadeberg, Clint Ruben, Iben Hjejle, Maria Rossing, Lotte Andersen m.fl.",
+          "udlejer": "Scanbox Film Distribution A/S"
+        },
+        "sal": {
+          "id": "8",
+          "navn": "Sal 5 - Guld og Velour"
+        },
+        "starttid": "19:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 12500,
+            "solgt": 2
+          },
+          {
+            "navn": "Biografklub DK",
+            "pris": 6250,
+            "solgt": 14
+          }
+        ],
+        "total_solgte_billetter": 16,
+        "total_omsaetning_øre": 112500
+      },
+      {
+        "film": {
+          "id": "46459",
+          "titel": "The Dog Stars",
+          "land_aar": "USA / 2026",
+          "genre": "Action - Eventyr",
+          "instruktion": "Ridley Scott",
+          "skuespil": "Jacob Elordi, Margaret Qualley, Josh Brolin, Guy Pearce, Benedict Wong m.fl.",
+          "udlejer": "Buena Vista International BVI (Denmark)"
+        },
+        "sal": {
+          "id": "9",
+          "navn": "Sal 3 - Striber af Velour"
+        },
+        "starttid": "20:00",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 14000,
+            "solgt": 8
+          }
+        ],
+        "total_solgte_billetter": 8,
+        "total_omsaetning_øre": 112000
+      },
+      {
+        "film": {
+          "id": "46442",
+          "titel": "Nøjsomheden",
+          "land_aar": "Danmark / 2026",
+          "genre": "Drama - Komedie - Romantik",
+          "instruktion": "Hella Joof",
+          "skuespil": "Andrea Heick Gadeberg, Clint Ruben, Iben Hjejle, Maria Rossing, Lotte Andersen m.fl.",
+          "udlejer": "Scanbox Film Distribution A/S"
+        },
+        "sal": {
+          "id": "7",
+          "navn": "Sal 2 - Den Store VIP"
+        },
+        "starttid": "20:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 12500,
+            "solgt": 1
+          },
+          {
+            "navn": "Biografklub DK",
+            "pris": 6250,
+            "solgt": 3
+          },
+          {
+            "navn": "Atlaskort",
+            "pris": 11250,
+            "solgt": 3
+          }
+        ],
+        "total_solgte_billetter": 7,
+        "total_omsaetning_øre": 65000
+      },
+      {
+        "film": {
+          "id": "46498",
+          "titel": "Spider-Man: Brand New Day - 2D",
+          "land_aar": "USA / 2026",
+          "genre": "Eventyr - Action",
+          "instruktion": "Destin Daniel Cretton",
+          "skuespil": "Tom Holland, Jon Bernthal, Zendaya, Mark Ruffalo, Michael Mando, Tramell Tillman m.fl.",
+          "udlejer": "SF"
+        },
+        "sal": {
+          "id": "10",
+          "navn": "Sal 1 - Den Største"
+        },
+        "starttid": "20:30",
+        "billetkategorier": [
+          {
+            "navn": "Alm billet",
+            "pris": 14000,
+            "solgt": 14
+          },
+          {
+            "navn": "Fribillet",
+            "pris": 0,
+            "solgt": 2
+          }
+        ],
+        "total_solgte_billetter": 16,
+        "total_omsaetning_øre": 196000
+      }
+    ]
   }
 ]
